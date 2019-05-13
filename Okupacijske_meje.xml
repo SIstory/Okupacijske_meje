@@ -1,0 +1,2339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sistory.40000">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <date when="2017">2017</date>
+            <availability>
+               <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+               <p>To delo je ponujeno pod <ref
+                     target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons
+                     Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna licenco</ref>
+               </p>
+            </availability>
+            <idno type="sistory" corresp="#sistory.40000 #ch01 #en-ch01 #ch02">40000</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart>Naslov</titlePart>
+            </docTitle>
+            <docImprint>
+               <publisher>Inštitut za novejšo zgodovino</publisher>
+               <pubPlace>Ljubljana</pubPlace>
+               <docDate>2017</docDate>
+            </docImprint>
+         </titlePage>
+         <divGen type="cip" xml:id="cip" xml:lang="sl" corresp="#en-cip">
+            <head>Kolofon</head>
+         </divGen>
+         <divGen type="toc" xml:id="toc" xml:lang="sl" corresp="#en-toc">
+            <head>Kazalo vsebine</head>
+         </divGen>
+         <divGen type="search" xml:id="search" xml:lang="sl" corresp="#en-search">
+            <head>Iskanje</head>
+         </divGen>
+      </front>
+      <body>
+         <div type="part" xml:id="exhibition01">
+            <head>Mejni kamni, bodeča žica, stražni stolpi in minska polja</head>
+            <div type="chapter" xml:id="exh01-ch01" xml:lang="sl" corresp="#en-ch01">
+               <head>Napravite mi to deželo nemško … italijansko … madžarsko … hrvaško! Vloga
+                  okupacijskih meja v raznarodovalni politiki in življenju slovenskega
+                  prebivalstva</head>
+               <p>Druga svetovna vojna označuje enega izmed najbolj kritičnih trenutkov slovenske
+                  zgodovine. Štirje okupacijski režimi – nemški, italijanski, madžarski in režim
+                  ustaške Hrvaške – so Slovence razdelili med različne državne entitete ter jih v
+                  etničnem smislu obsodili na smrt – tudi z uporabo genocidnih metod.</p>
+               <p>Eden izmed ključnih motivov za drugo svetovno vojno je bila revizija državnih
+                  meja, nastalih po prvi svetovni vojni. Revizija je potekala v škodo manjših
+                  narodov, tudi slovenskega. Po okupaciji in razkosanju so na Slovenskem nastale
+                  državne meje med silami osi. Meje so bile postavljene izključno po logiki delitve
+                  ozemlja in načrtovanega hitrega in nasilnega izginotja slovenskega naroda. Le na
+                  meji z Neodvisno državo Hrvaško (NDH) je meja potekala po nekdanji približni
+                  etnični razdelitvi ozemlja oz. (deloma) starih upravnih mejah. To je tudi edina
+                  meja, ki se je ohranila do danes.</p>
+               <p>V nemški rajh so prešla ozemlja Gorenjske, Koroške, Štajerske, severozahodnega
+                  dela Prekmurja in severnega dela Dolenjske. Italija je zasedla Notranjsko,
+                  Ljubljano, preostali del Dolenjske in Belo krajino. Madžarska je okupirala večino
+                  Prekmurja, NDH pa pet vasi v Posavju. Meja med okupacijskimi območji ni potekala
+                  po zgodovinski, upravni ali pokrajinski oziroma narodnostni meji.</p>
+               <p>O postopkih razdeljevanja zasedenega slovenskega ozemlja ni bilo posebnih
+                  konferenc, na katerih bi se okupatorji izrecno pogajali o delitvi slovenskega
+                  teritorija. Odločanje o tem, kateri kos ozemlja bo pripadel posameznemu okupatorju
+                  in kje bodo tekle meje, je vodil izključno Hitler. Njegovi zavezniki so imeli
+                  sicer precej pripomb, ki pa so v glavnem ostale prezrte. Razmejitev je bila tako
+                  določena 12. aprila 1941 na podlagi Hitlerjevih navodil o razkosanju
+                  Jugoslavije.</p>
+               <p>Vsi okupatorji so si svoj del teritorija ogradili z mejami, ki so ločevale
+                  posamezne okupacijske cone. Ko je prišlo do razmejevanja, so okupatorji
+                  podpisovali posebne meddržavne pogodbe.</p>
+               <figure xml:id="orbit-1" rend="orbit">
+                  <figure xml:id="figure-1" n="1">
+                     <head>Adolf Hitler med ogledom porušenega dravskega mostu v Mariboru 26. aprila
+                        1941. MNZS. V literaturi se zmotno omenja, da je Hitler znani stavek
+                        »Napravite mi to deželo spet nemško!« izrekel v svojem govoru z balkona
+                        mariborske mestne hiše 26. aprila 1941. V resnici je to – glede na govor
+                        šefa civilne uprave Štajerske dr. Uiberreitherja, ki ga je imel 28. aprila
+                        1941 prav tako na balkonu mariborske mestne hiše – naročil prej. V govoru je
+                        Uiberreither dejal, da ga je Hitler naslovil s temi besedami ob predaji
+                        uprave tri tedne pred tem. Repe, S puško in knjigo, 24.</head>
+                     <graphic url="Pictures/Meje-pano1-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-2" n="2">
+                     <head>Italijanske čete v Ljubljani (junij 1941). Avtor fotografije: Jakob
+                        Prešeren, MNZS.</head>
+                     <graphic url="Pictures/Meje-pano1-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-3" n="3">
+                     <head>Z nemškimi zastavami okrašena mestna hiša na Ptuju. MNZS.</head>
+                     <graphic url="Pictures/Meje-pano1-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-4" n="4">
+                     <head>Prikaz prodiranja nemških in italijanskih armad na slovensko ozemlje ob
+                        napadu na Jugoslavijo aprila 1941. Repe, S puško in knjigo, 11.</head>
+                     <graphic url="Pictures/Meje-pano1-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-5" n="5">
+                     <head>Nemška vojska prečka Dravo čez porušeni most, Ptuj, 1941. MNZS.</head>
+                     <graphic url="Pictures/Meje-pano1-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-6" n="6">
+                     <head>Svečanost v Murski Soboti 16. aprila 1941, v okviru katere so Nemci
+                        Madžarom predali oblast nad Prekmurjem. Na odru govori župnik rimokatoliške
+                        Župnije Murska Sobota Jožef Krantz. MNZS.</head>
+                     <graphic url="Pictures/Meje-pano1-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+               <!-- najprej slike in podnapisi morebitnih intervjujev -->
+               <div type="interview">
+                  <figure xml:id="figure-6" n="6">
+                     <graphic url="Pictures/Meje-pano1-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image6-thumb.jpg"/>
+                  </figure>
+                  <p>Originalni opis slike</p>
+               </div>
+               <!-- potem slike in podnapisi slik raziskovalcev -->
+               <div type="research">
+                  <figure xml:id="figure-6" n="6">
+                     <graphic url="Pictures/Meje-pano1-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image6-thumb.jpg"/>
+                  </figure>
+                  <p>Originalni opis slike</p>
+               </div>
+            </div>
+            <div type="chapter" xml:id="en-ch01" xml:lang="en" corresp="#ch01">
+               <head>Make This Country German ... Italian ... Hungarian ... Croatian! Role of
+                  Occupation Borders in the Denationalisation Policy and in the Lives of Slovene
+                  Population</head>
+               <p>World War II marks one of the most critical moments in Slovene history. Four
+                  occupation regimes – German, Italian, Hungarian and the regime of Ustasha Croatia
+                  – divided Slovenes among four different state entities and ethnically speaking
+                  sentenced them to death, including by using methods of genocide.</p>
+               <p>One of the key motives for World War II was the revision of state borders which
+                  had been formed after World War I. This revision was carried out to the detriment
+                  of smaller nations, including the Slovene one. After the occupation and
+                  dismemberment, state borders between the Axis powers were established in Slovene
+                  lands. The borders were set according to the logic of territory division and the
+                  planned swift and violent disappearance of the Slovene nation. Only the border
+                  with the Independent State of Croatia (Nezavisna Država Hrvatska, NDH) followed
+                  the former rough ethnic division of the territory or (partially) the old
+                  administrative borders. It is also the only border which has been preserved to
+                  this day.</p>
+               <p>The German Reich acquired the territories of the regions of Gorenjska, Koroška,
+                  Štajerska, the northwest part of Prekmurje and the northern part of Dolenjska.
+                  Italy occupied the Notranjska region, Ljubljana, remaining part of Dolenjska and
+                  Bela krajina. Hungary occupied most of Prekmurje, while the NDH occupied five
+                  villages in Posavje. The border between the occupation zones did not follow the
+                  historical, administrative or provincial/ethnic border.</p>
+               <p>As regards the procedures for dividing the occupied Slovene territory among the
+                  occupiers, no special conferences were held to explicitly negotiate the breaking
+                  up of Slovene territory. The only one who decided which piece of territory would
+                  go to which occupier and where the borders would be drawn was Hitler. His allies
+                  did, however, have many comments but they mostly went unheard. Thus, the
+                  boundaries were fixed on 12 April 1941 based on Hitler’s instructions for breaking
+                  up Yugoslavia.</p>
+               <p>All occupiers enclosed their part of the territory by boundaries that separated
+                  individual occupation zones. When the demarcation took place, the occupiers signed
+                  special intergovernmental agreements.</p>
+               <figure xml:id="orbit-1-en" rend="orbit">
+                  <figure xml:id="figure-1-en" n="1">
+                     <head>Adolf Hitler inspecting the demolished bridge over the Drava River in
+                        Maribor, 26 April 1941. MNZS. It is incorrectly mentioned in literature that
+                        Hitler uttered the famous sentence “Make this country German again!” in his
+                        speech given on the balcony of the town hall in Maribor on 26 April 1941. In
+                        reality – according to the speech given by the Chief of the Civil
+                        Administration of Styria dr. Uiberreither on 28 April 1941, likewise on the
+                        balcony of the town hall in Maribor – he had given that order earlier. In
+                        his speech Uiberreither said that Hitler had addressed him with those words
+                        when handing over the administration three weeks earlier. Source: Repe, S
+                        puško in knjigo, 24.</head>
+                     <graphic url="Pictures/Meje-pano1-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-2-en" n="2">
+                     <head>Italian troops in Ljubljana (June 1941). Source: MNZS, Author: Jakob
+                        Prešeren.</head>
+                     <graphic url="Pictures/Meje-pano1-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-3-en" n="3">
+                     <head>Town Hall in Ptuj adorned with German flags. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano1-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-4-en" n="4">
+                     <head>Demonstration of the breakthrough of German and Italian armies into
+                        Slovene territory during the attack on Yugoslavia in April 1941. Source:
+                        Repe, S puško in knjigo, 11.</head>
+                     <graphic url="Pictures/Meje-pano1-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-5-en" n="5">
+                     <head>German Army crossing the Drava River across a demolished bridge, Ptuj,
+                        1941. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano1-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-6-en" n="6">
+                     <head>Ceremony in Murska Sobota on 16 April 1941 when the Germans handed
+                        Prekmurje over to the Hungarians. Jožef Krantz, priest in the Catholic
+                        parish of Murska Sobota speaks on the stage. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano1-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano1-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="ch02" xml:lang="sl" corresp="#en-ch02">
+               <head>Okupacija Slovenije leta 1941</head>
+               <p>Nacistična Nemčija: svoj del zasedenega slovenskega ozemlja je razdelila na dve
+                  začasni upravni enoti: Spodnjo Štajersko ter Gorenjsko z Mežiško dolino. Sedeža
+                  enot sta bila po nekaj mesecih s prvotnih lokacij v Mariboru in na Bledu prenesena
+                  v Gradec in Celovec. Vodila sta jih šefa civilne uprave. Obe upravni enoti so v
+                  pričakovanju hitre vključitve v rajh navznoter reorganizirali po nemškem principu
+                  okrajev in okrožij ter uvedli nemške službe in upoštevali nemško rasno zakonodajo.
+                  Nemška meja z Neodvisno državo Hrvaško in Italijo je postala južna meja nemškega
+                  rajha in naj bi veljala za njegov varovalni pas.</p>
+               <p>Italija: po napadu okupacijskih sil na Jugoslavijo je Italija izza rapalske meje
+                  pridobila še večino Dolenjske in Ljubljano z okolico do reke Save. Na novo
+                  pridobljenih območjih je ustanovila t. i. Ljubljansko pokrajino, ki so jo
+                  priključili Kraljevini Italiji. Ohranila je rapalsko mejo, ker je Primorsko štela
+                  za del italijanskega nacionalnega ozemlja, Ljubljansko pokrajino pa je hotela šele
+                  italijanizirati. Po kapitulaciji Italije leta 1943 je celotno ozemlje sicer
+                  formalno ostalo del Mussolinijeve fašistične države, a je dejansko prešlo pod
+                  nacistično upravo. Ljubljanska pokrajina je postala del t. i. Operacijske cone za
+                  Jadransko primorje s sedežem v Trstu.</p>
+               <p>Madžarska: Madžarom so Prekmurje predali Nemci. S prevzemom oblasti so uveljavili
+                  vojaško upravo, ki je bila razdeljena na dva dela in podrejena neposredno
+                  Poveljstvu vojaško- upravne skupine južne armade, sprva s sedežem v Subotici in
+                  nato v Novem Sadu. Že avgusta 1941 so vojaško upravo zamenjali s civilno ter tako
+                  pričeli proces vključevanja zasedenega ozemlja v madžarsko državo. Prekmurje so
+                  razdelili med dva okraja: Železna županija in Zala, tako kot je bilo to v času
+                  Avstro-Ogrske.</p>
+               <p>Neodvisna država Hrvaška: nastala je na jugoslovanskih tleh neposredno po začetku
+                  druge svetovne vojne. Pod njeno oblastjo se je leta 1941 znašlo pet slovenskih
+                  naselij, in sicer Bregansko selo (današnja Slovenska vas), Nova vas pri Bregani
+                  (današnja Nova vas pri Mokricah), Jesenice na Dolenjskem, Obrežje in Čedem. Vasi
+                  obsegajo ozemlje približno 20 km2, na katerem je takrat živelo okoli 800
+                  prebivalcev.</p>
+               <figure xml:id="orbit-2" rend="orbit">
+                  <figure xml:id="figure-7" n="7">
+                     <head>Po okupaciji so si slovensko ozemlje razdelili tako Nemci kot Italijani,
+                        Madžari in Hrvati. Repe, S puško in knjigo, 24.</head>
+                     <graphic url="Pictures/Meje-pano2-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-8" n="8">
+                     <head>Po razdelitvi ozemelj in določitvi mej so okupatorji svoje nove meje
+                        različno utrdili in zastražili. Najbolj so se potrudili Nemci, ki so v vsej
+                        dolžini meje le-to ožičili, v razdalji cca 50 metrov podrli ves gozd oz.
+                        počistili teren ter ob mejo nastavili nekaj metrov širok minski pas.
+                        MNZS.</head>
+                     <graphic url="Pictures/Meje-pano2-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-9" n="9">
+                     <head>Mejni prehod med Nemčijo in Neodvisno državo Hrvaško pri Harinih Zlakah.
+                        MNZS.</head>
+                     <graphic url="Pictures/Meje-pano2-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-10" n="10">
+                     <head>Ljubljana je po razdelitvi slovenskih ozemelj postala italijansko mesto
+                        ob nemško-italijanski meji. Na karti je viden potek meje, ki jo centralna
+                        mejna komisija določila 21. septembra 1941. Spezialkarte der
+                        Österreichisch-ungarischen Monarchie 1:75.000, list Laibach (5553). Hrani
+                        Geografski inštitut Antona Melika ZRC SAZU.</head>
+                     <graphic url="Pictures/Meje-pano2-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-11" n="11">
+                     <head>Nemški in italijanski vojaki nekje na novo postavljeni meji. MNZS.</head>
+                     <graphic url="Pictures/Meje-pano2-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-12" n="12">
+                     <head>Nemški stražni stolp na meji tretjega rajha. MNZS.</head>
+                     <graphic url="Pictures/Meje-pano2-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-ch02" xml:lang="en" corresp="#ch02">
+               <head>Occupation of Slovenia in 1941</head>
+               <p>Nazi Germany: Germany divided the Slovene territory it had occupied into two
+                  temporary administrative units: Spodnja Štajerska and Gorenjska with Mežiška
+                  dolina. After a few months, the seats of these units were moved from the original
+                  locations in Maribor and Bled to Graz and Klagenfurt. They were run by Chiefs of
+                  Civil Administration. Anticipating quick incorporation of these two units into the
+                  Reich, they reorganised them from within, following the German principle of
+                  counties and districts, introduced German services, and complied with German race
+                  laws. The German border with the NDH and Italy became the southern border of the
+                  German Reich and was to be its safeguard.</p>
+               <p>Italy: after the attack of the occupying forces on Yugoslavia, Italy spread beyond
+                  the Rapallo border, acquiring the majority of the Dolenjska region, and Ljubljana
+                  with its surroundings all the way to the Sava River. In the newly acquired
+                  territories it established the so-called Province of Ljubljana, which was annexed
+                  to the Kingdom of Italy. It preserved the Rapallo border because it considered the
+                  Primorska region a part of the Italian national territory, and was about to
+                  Italianise the Province of Ljubljana. After the capitulation of Italy in 1943, the
+                  entire territory formally remained under Mussolini’s Fascist state, but had in
+                  fact been passed on to Nazi administration. The Province of Ljubljana became a
+                  part of the so-called Operational Zone of the Adriatic Littoral with a seat in
+                  Trieste.</p>
+               <p>Hungary: The Germans gave Prekmurje to the Hungarians. After assuming power, they
+                  enforced a military administration, which was divided into two parts and directly
+                  subordinate to the Headquarters of the Military-Administrative Group of the
+                  Southern Army, stationed in Subotica and later on in Novi Sad. In August 1941,
+                  they replaced the military administration with a civil one, thus beginning to
+                  integrate the occupied territory into the state of Hungary. They divided Prekmurje
+                  between two districts: Železna županija and Zala, as had been the case under
+                  Austria-Hungary.</p>
+               <p>Independent State of Croatia: The NDH was formed just after World War II began on
+                  Yugoslav soil. Five Slovene settlements fell under its rule in 1941, namely:
+                  Bregansko selo (the present-day Slovenska vas), Nova vas pri Bregani (the
+                  present-day Nova vas pri Mokricah), Jesenice na Dolenjskem, Obrežje and Čedem.
+                  These villages cover a territory of around 20 square kilometres, at that time
+                  populated by some 800 inhabitants.</p>
+               <figure xml:id="orbit-2-en" rend="orbit">
+                  <figure xml:id="figure-7-en" n="7">
+                     <head>After occupation, Slovene territory was divided among the Germans,
+                        Italians, Hungarians and Croatians. Source: Repe, S puško in knjigo,
+                        24.</head>
+                     <graphic url="Pictures/Meje-pano2-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-8-en" n="8">
+                     <head>After splitting up the territories and demarcating the borders, the
+                        occupiers fortified and guarded their new borders in different ways. The
+                        Germans even went to the trouble of wiring the entire length of the border,
+                        cutting down forests or clearing the terrain within a 50m radius, and
+                        setting up a minefield, several metres wide. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano2-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-9-en" n="9">
+                     <head>Border crossing between Germany and the Independent State of Croatia at
+                        Harine Zlake. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano2-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-10-en" n="10">
+                     <head>After the division of Slovene territories, Ljubljana became an Italian
+                        city along the German-Italian border. The map shows the course of the border
+                        as demarcated on 21 September 1941 by the Central Boundary Commission.
+                        Source: Spezialkarte der Österreichisch-ungarischen Monarchie 1:75,000,
+                        sheet Laibach (5553). Archive: Anton Melik Geographical Institute ZRC
+                        SAZU.</head>
+                     <graphic url="Pictures/Meje-pano2-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-11-en" n="11">
+                     <head>German and Italian soldiers somewhere on the newly placed border. Source:
+                        MNZS.</head>
+                     <graphic url="Pictures/Meje-pano2-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-12-en" n="12">
+                     <head>A German watchtower on the border with the Third Reich. Source:
+                        MNZS.</head>
+                     <graphic url="Pictures/Meje-pano2-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano2-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="ch03" xml:lang="sl" corresp="#en-ch03">
+               <head>Mejna območja in značilnosti okupacijske meje na Slovenskem</head>
+               <p>Z zasedbo slovenskega etničnega ozemlja je bilo leta 1941 na Slovenskem pet
+                  različnih mejnih območij in meja. Te so bile: meja med Nemčijo in Madžarsko, meja
+                  med Madžarsko in Neodvisno državo hrvaško (NDH), meja med Nemčijo in NDH, meja med
+                  Italijo in Nemčijo ter meja med Italijo in NDH. Kljub formalni vključitvi t. i.
+                  Ljubljanske pokrajine v Italijo je še vedno ostala tudi t. i. rapalska meja, ki je
+                  ločevala primorske Slovence od ostalih. Le meja s Hrvaško, ki je slonela na
+                  starejših razmejitvah, se je ohranila do danes.</p>
+               <p>Razsežnosti etnocidnega in genocidnega ravnanja okupatorjev so vidne v prisilnih
+                  migracijskih gibanjih in prehodih meje – 58.522 Slovencev v nemških in
+                  italijanskih, 688 v madžarskih, okrog 400 v hrvaških koncentracijskih taboriščih,
+                  blizu 20.000 v konfinaciji in na prisilnem delu, 80.000 v zaporih. Deportirali so
+                  tudi 571 prekmurskih Judov, večina jih je bila umorjena v taborišču Auschwitz.
+                  Nemci so nameravali izgnati od 220.000 do 260.000 Slovencev, uspelo jim jih je
+                  63.000. Okrog 17.000 jih je preko nemško-italijanske meje uspelo zbežati v
+                  italijansko okupacijsko cono. Vanjo je zbežal ali po legalni poti preko meje
+                  prišel tudi del od tistih 10.000, ki so jih iz nemške okupacijske cone izgnali v
+                  NDH. Iz italijanske okupacijske cone so na izpraznjena slovenska ozemlja ob
+                  hrvaški meji preselili 17.000 kočevskih Nemcev.</p>
+               <p>Mejni režim na teh mejah se je razlikoval, posledično pa tudi življenje ob njih.
+                  Nekatere meje so bile neprimerno bolj utrjene kot druge, saj so imele minska
+                  polja, žične pregrade, postojanke s strojnicami itd. Mnogokrat so v bližini meje
+                  podrli vse stavbe in izsekali gozd, s čimer so omogočili širši nadzor obeh strani
+                  meje. To so dosegli predvsem z uporabo prisilnega dela, v katerega je bilo
+                  vključeno lokalno prebivalstvo.</p>
+               <p>Oblikovanje vseh teh meja so tako pospremili vojno nasilje, deportacije
+                  prebivalstva, prebegi iz ene okupacijske cone v drugo, hkrati pa so zaradi
+                  življenjskih potreb in partizanskega odpora (ki razkosanja ni priznaval in se je
+                  boril proti njemu) nastajali tudi utečeni ilegalni prehodi.</p>
+               <p>Vse to je neizogibno povzročilo številne travme ter pretrgalo tradicionalne vzorce
+                  migracij, kmetovanja in trgovine. Mnoge sporne točke na tedanji meji med Nemčijo
+                  in NDH ter Italijo in NDH pa so iste kot na današnji slovensko- hrvaški meji;
+                  občutek prizadetosti se je ohranil in se prenesel tudi na mlajše generacije ter v
+                  kolektivni spomin obeh narodov.</p>
+               <figure xml:id="orbit-3" rend="orbit">
+                  <figure xml:id="figure-13" n="13">
+                     <head>Naslovnica, DOCUMENTI DI VITA ITALIANA, št. 9, maj 1941 in naslovnica,
+                        Karawanken Bote, št. 1, 5. julij 1941</head>
+                     <graphic url="Pictures/Meje-pano3-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-14" n="14">
+                     <head>Mejni kamen med Nemčijo in Italijo. Lepo je vidna vklesana črka I, ki
+                        predstavlja Italijo. Avtor fotografije: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano3-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-15" n="15">
+                     <head>Betonski ostanki temeljev nemških stražnih stolpov na Toškem čelu pri
+                        Ljubljani in del ekipe projekta (z leve) dr. Peter Mikša, dr. Božidar
+                        Flajšman, dr. Bojan Balkovec in dr. Božo Repe. Avtor fotografije: Božidar
+                        Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano3-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-16" n="16">
+                     <head>Mejni kamen med Neodvisno državo Hrvaško in Nemčijo pri Novi vasi. Avtor
+                        fotografije: Matija Zorn.</head>
+                     <graphic url="Pictures/Meje-pano3-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-17" n="17">
+                     <head>Dr. Peter Mikša in dr. Bojan Balkovec pri meritvah mejnega kamna. Avtor
+                        fotografije: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano3-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-18" n="18">
+                     <head>Tromejni kamen med Nemčijo, Italijo in NDH, ki ga je odkrila raziskovalna
+                        ekipa projekta “Okupacijske meje”. Meje so tu potekale v glavnem po nekdanji
+                        kranjsko-štajerski meji in tudi kamen, ki so ga uporabili za tromejnik, je
+                        verjetno iz tistih časov. Se je pa tu meja v obliki nekakšnega roga globoko
+                        zarila v slovensko (nemško) ozemlje, saj tromejnik stoji tik pod Gadovo
+                        Pečjo, znanim središčem cvička. Avtor fotografije: Peter Mikša.</head>
+                     <graphic url="Pictures/Meje-pano3-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-ch03" xml:lang="en" corresp="#ch03">
+               <head>Borderlands and Characteristics of the Occupation Border in Slovenia</head>
+               <p>The occupation of Slovene ethnic territory in 1941 created five different
+                  borderlands and borders in Slovenia. These were: the border between Germany and
+                  Hungary, the border between Hungary and the NDH, the border between Germany and
+                  the NDH, the border between Italy and Germany, and the border between Italy and
+                  the NDH. Despite the formal annexation of the so-called Province of Ljubljana to
+                  Italy, the so-called Rapallo border was preserved, which separated Littoral
+                  Slovenes from the rest. Only the border with Croatia, which was based on older
+                  demarcations, has been preserved to this day.</p>
+               <p>The dimensions of the ethnocide and genocide carried out by the occupiers are
+                  evident in the forced migrations and border crossings – 58,522 Slovenes ended up
+                  in German and Italian concentration camps, 688 in Hungarian camps, some 400 in
+                  Croatian camps, close to 20,000 Slovenes in confinement and forced labour, and
+                  80,000 in prisons. 571 Jews from Prekmurje were deported; most of them were
+                  murdered in Auschwitz. The Germans planned to deport anywhere from 220 to 260,000
+                  Slovenes, and succeeded in deporting 63,000. Around 17,000 of Slovenes managed to
+                  escape across the German-Italian border from German to the Italian occupation
+                  zone. A portion of the 10,000 who had been deported to the NDH from the German
+                  occupation zone managed to flee to the Italian occupation zone or got there by
+                  legally crossing the border. 17,000 Gottscheers from the Italian occupation zone
+                  were moved to the vacated Slovene territories along the Croatian border.</p>
+               <p>The border regimes at these borders differed; consequently, so did the life there.
+                  Some of the borders were much more fortified than others, for they had minefields,
+                  barbed wire fences, stations with machine guns, etc. They often tore down all the
+                  buildings near the border and thinned the forest to enable greater control of both
+                  sides of the border. This was mostly carried out with forced labour, which
+                  involved the local population.</p>
+               <p>The formation of these borders was accompanied by war violence, deportation of
+                  population, desertion or migration from one occupation zone to another
+                  (Gottscheers); simultaneously, due to vital necessity and the partisan resistance
+                  (which did not acknowledge this breakup and fought against it), illegal border
+                  crossings were being established.</p>
+               <p>All of this inevitably resulted in many traumas and severed the traditional
+                  patterns of migrations, agriculture and commerce. Many of the disputed areas on
+                  the border between Germany and the NDH and between Italy and the NDH are the same
+                  as those on the current Slovene-Croatian border; a sense of hurt has been
+                  preserved and passed on to younger generations and to the collective memory of
+                  both nations.</p>
+               <figure xml:id="orbit-3-en" rend="orbit">
+                  <figure xml:id="figure-13-en" n="13">
+                     <head>Front page, DOCUMENTI DI VITA ITALIANA, No. 9, May 1941 and front page,
+                        Karawanken Bote, No 1, 5 July 1841.</head>
+                     <graphic url="Pictures/Meje-pano3-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-14-en" n="14">
+                     <head>A boundary marker between Germany and Italy. The chiselled letter I
+                        standing for Italy is clearly visible. Author: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano3-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-15-en" n="15">
+                     <head>Concrete remains of the foundations of German watchtowers on the hill
+                        Toško čelo near Ljubljana and a part of the project team (from left) dr.
+                        Peter Mikša, dr. Božidar Flajšman, dr. Bojan Balkovec and dr. Božo Repe at
+                        the concrete foundation of a watchtower. Author: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano3-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-16-en" n="16">
+                     <head>A boundary marker between the Independent State of Croatia and Germany at
+                        Nova vas. Author: Matija Zorn.</head>
+                     <graphic url="Pictures/Meje-pano3-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-17-en" n="17">
+                     <head>Dr. Peter Mikša and dr. Bojan Balkovec measuring the boundary marker.
+                        Author: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano3-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-18-en" n="18">
+                     <head>A tripoint marker between Germany, Italy and the NDH discovered by the
+                        project research team. In these parts, the borders mostly followed the
+                        former border between Carniola and Styria, and the marker used as the
+                        tripoint marker is likely from those times. The border there was shaped as a
+                        horn and cut deeply into Slovene (German) territory, since the tripoint
+                        marker is situated beneath Gadova Peč, the famous cradle of the cviček wine.
+                        Author: Peter Mikša.</head>
+                     <graphic url="Pictures/Meje-pano3-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="ch04" xml:lang="sl" corresp="#en-ch04">
+               <head>Diplomatsko določanje meja</head>
+               <p>O razdelitvi slovenskega ozemlja med okupatorji ni bilo posebnih dogovarjanj ali
+                  konferenc. Meje je okvirno določil Hitler 27. marca 1941, dokončno pa s
+                  »Smernicami za razdelitev Jugoslavije « 3. in 12. aprila 1941 v enem od svojih
+                  glavnih stanov v Mönichkirechnu pri Dunaju. Konferenca o razdelitvi okupiranega
+                  jugoslovanskega ozemlja med nemško in italijansko delegacijo pod vodstvom zunanjih
+                  ministrov Ribbentropa in Ciana je potekala 22. aprila na Dunaju. Italijani so,
+                  čeprav se je Ciano pogovarjal tudi s Hitlerjem, lahko dali le svoje pripombe k
+                  njegovim odločitvam. Nemško-italijanska razmejitvena komisija, ki so jo ustanovili
+                  z državno pogodbo 8. julija 1941 v Berlinu, je nato smela narediti le nekaj
+                  manjših popravkov. Podobno je bilo s podpisom pogodbe med Nemčijo in Madžarsko,
+                  Nemčija je namreč sprva nameravala obdržati Prekmurje, potem pa se je zaradi
+                  zavezništva zadovoljila s štirimi nemškimi vasmi na Goričkem.</p>
+               <p>Uradne pogodbe med Madžarsko in NDH ni bilo, ker se slednja ni strinjala s
+                  priključitvijo Medžimurja k Madžarski. V odnosu do Italije NDH ni imela možnosti
+                  uveljaviti svojih zahtev, pogodba med njima pa je bila podpisana 18. maja 1941 v
+                  Rimu. Nemčija in NDH sta državni sporazum o mejah podpisali 13. maja 1941.
+                  Nekatera manjša nerešena vprašanja je tu reševala nemško-NDH-jevska komisija za
+                  meje, glavno besedo pa je imela Nemčija. Hrvati so med drugim želeli Razkrižje (ki
+                  ga niso dobili) in Hum na Sotli (z emocionalnimi razlagami, da je v občini dvorec
+                  Antuna Mihanovića, ki je leta 1846 napisal hrvaško himno). V zameno je bila NDH
+                  pripravljena Nemcem dati obalni pas na južni strani Drave pri Vinici. Poglavnik
+                  NDH-ja Ante Pavelič je sicer naročil obsežno zbiranje podatkov, s katerimi naj bi
+                  kasneje vendarle dosegli korekcijo meje z rajhom na slovenskem ozemlju, a do tega
+                  ni prišlo.</p>
+               <p>Glavni nemški pogajalec na terenu je bil diplomat Kurt von Kamphoevener (*17.
+                  julij 1887, Carigrad, †11. februar 1983, Garmisch-Partenkirchen). Kot vodja
+                  nemških delegacij za reševanje mejnih vprašanj in Ribbentropov opolnomočenec je v
+                  letih 1941–1943 urejal mejna vprašanja z Italijo, Madžarsko, Slovaško, NDH,
+                  deloval pa tudi drugod po Balkanu. V času dogovarjanja o slovenskem ozemlju je
+                  imel pisarno na Bledu, v Ljubljani in v Rogaški Slatini. Bil je sin nemškega
+                  oficirja in turškega maršala Louisa von Kamphövenerja. Pravo je študiral v
+                  Heidelbergu, Oxfordu in Göttingenu. Od leta 1911 je uslužbenec ministrstva za
+                  zunanje zadeve. Služboval je v Madridu (1911–1913, 1926–31), Sydneyju (1913–14),
+                  Sofiji (1916–18), Londonu (1920–23) in Liverpoolu (1923–26). Leta 1930 je vstopil
+                  v socialdemokratsko stranko, leta 1940 pa v NSDAP. Poleg drugih jezikov se je
+                  naučil ruščine in leta 1939 vodil komisijo za preselitev volksdeutscherjev s
+                  poljskih ozemelj, ki jih je dobila Sovjetska zveza. Po okupaciji in razkosanju
+                  Slovenije je bil od sredine oktobra do sredine novembra 1941 predstavnik Nemčije
+                  pri Visokem komisarju za Ljubljansko pokrajino v Ljubljani in je na podoben način
+                  urejal preselitev kočevskih Nemcev. Med vojno je bil tudi oficir za zvezo pri
+                  vojaški obveščevalni službi (Abwehr) v Rusiji, Atenah, Vrnjački Banji in v
+                  Zagrebu. Ameriški zasliševalec ga je avgusta 1945 označil za »visoko kultiviranega
+                  in kritičnega do nacistov «. V letih 1945–1946 je bil v ameriškem vojnem
+                  ujetništvu, a je že leta 1946 v Hamburgu začel poučevati tuje jezike. Leta 1950 je
+                  spet vstopil v diplomacijo in bil do upokojitve leta 1952 nemški generalni konzul
+                  v Carigradu.</p>
+               <figure xml:id="orbit-4" rend="orbit">
+                  <figure xml:id="figure-19" n="19">
+                     <head>Izsek karte, ki prikazuje mejo med Nemčijo in Neodvisno državo Hrvaško
+                        pri Ormožu. Na karti se lepo vidi potek mejne linije. Jugoslavija,
+                        topografske karte razmera 1:50.000, list Ptuj. Hrani Geografski inštitut
+                        Antona Melika ZRC SAZU.</head>
+                     <graphic url="Pictures/Meje-pano4-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-20" n="20">
+                     <head>Kurt von Kamphoevener. Politisches Archiv des Auswartigen Amts,
+                        Berlin.</head>
+                     <graphic url="Pictures/Meje-pano4-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-21" n="21">
+                     <head>Na fotografiji pooblastilo Joachima von Ribbentropa (minister za zunanje
+                        zadeve Nemčije med letoma 1938 in 1945) Kamphoevenerju za vodenje mejnih
+                        zadev z NDH, Italijo in Madžarsko. Njegove odločitve so v veliki meri
+                        vplivale tudi na mejna vprašanja v okolici Rogaške Slatine. Politisches
+                        Archiv des Auswärtigen Amts, Berlin.</head>
+                     <graphic url="Pictures/Meje-pano4-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-22" n="22">
+                     <head>Skica predloga razmejitve. Politisches Archiv des Auswartigen Amts,
+                        Berlin.</head>
+                     <graphic url="Pictures/Meje-pano4-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-23" n="23">
+                     <head>Zapisnik dogovora med nemškim poverjenikom Siegfriedom Kaschejem in
+                        hrvaškim zunanjim ministrom Mladenom Lorkovićem iz 17. junija 1941, kjer je
+                        zabeleženo, da bo meja pri Rogaški Slatini tekla po Sotli, kot je bilo to
+                        pred aprilom 1941. Međunarodni ugovori: Nezavisna država hrvatska (1941),
+                        95.</head>
+                     <graphic url="Pictures/Meje-pano4-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-24" n="24">
+                     <head>Zapis o določitvi meje med Nemčijo in Italijo v časopisu Karawanken
+                        Bote.</head>
+                     <graphic url="Pictures/Meje-pano4-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-ch04" xml:lang="en" corresp="#ch04">
+               <head>Diplomatic Demarcation of Borders</head>
+               <p>No special negotiations or conferences were held regarding the division of Slovene
+                  territory among the occupiers. The boundaries were roughly fixed by Hitler on 27
+                  March 1941, and ultimately by his “Guidelines for the Division of Yugoslavia” on 3
+                  and 12 April 1941 at one of his main headquarters in Mönichkirchen near Vienna. On
+                  22 April German and Italian delegations led by foreign ministers Ribbentrop and
+                  Ciano, held the conference on the division of occupied Yugoslavia in Vienna.
+                  Italians were only allowed to comment on Hitler’s decisions despite Cianos
+                  personal talks with Hitler. Afterwards, the German-Italian Boundary Commission,
+                  established with a state treaty on 8 July 1941, was allowed to make only a few
+                  smaller corrections. It was similar in the case of Hungary, where Germany
+                  initially wanted to keep Prekmurje but later settled for four German villages in
+                  the Goričko region for the sake of Hungarian alliance.</p>
+               <p>A treaty on the border between Germany and Hungary was signed on... A treaty on
+                  the border between Germany and Italy was signed on 8 July 1941 in Berlin, and a
+                  treaty between Italy and the NDH on 18 May 1941 in Rome. In its relationship with
+                  Italy the NDH was likewise unable to assert its demands. There was no official
+                  treaty between Hungary and the NDH, because the NDH did not agree with the
+                  Hungarian annexation of Međimurje. Germany and the NDH signed a state treaty on
+                  borders on 13 May 1941. However, a German-NDH Boundary Commission later on
+                  resolved certain smaller unsettled issues, with Germany having the final say.
+                  Among other things, Croats wanted Razkrižje (which they did not get) and Hum na
+                  Sutli (sentimentally explaining that the municipality contained the manor of Antun
+                  Mihanović who had written the Croatian national anthem in 1846). In exchange, the
+                  NDH was willing to give Germans the riverbank zone on the southern side of the
+                  Drava River near Vinica. The NDH Head of State (“Poglavnik”) Ante Pavelič did
+                  order a comprehensive collection of data which would later be used to correct the
+                  border with the Reich on Slovene territory, but it never took place.</p>
+               <p>The leading German negotiator in the field was the diplomat Kurt von Kamphoevener
+                  (17 July 1887 Istanbul – 11 February 1983 Garmisch-Partenkirchen). In the years
+                  1941-1943, acting as the head of German delegations for resolving border issues
+                  and as Ribbentrop’s plenipotentiary, he regulated border issues with Italy,
+                  Hungary, Slovakia and the NDH, and was also active elsewhere throughout the
+                  Balkans. During negotiations over Slovene territory he had offices in Bled,
+                  Ljubljana and Rogaška Slatina. He was the son of the German Officer and Turkish
+                  Marshal Louis von Kamphövener. He studied law in Heidelberg, Oxford and Göttingen.
+                  From 1911 onwards he was employed by the Ministry of Foreign Affairs. He served in
+                  Madrid (1911-1913), Sydney (1913–14), Sofia (1916–18), London (1920–23), Liverpool
+                  (1923–26) and Madrid (1926–31). In 1930, he joined the Social Democratic Party and
+                  then NSDAP in 1940. Besides other languages, he had also learnt Russian and in
+                  1939 led the commission for relocating the Volksdeutsche from the Polish
+                  territories given to the Soviet Union. After the occupation and breakup of
+                  Slovenia, he was Germany’s representative before the High Commissioner for the
+                  Province of Ljubljana in Ljubljana from mid-October to mid-November 1941, where he
+                  organised the relocation of Gottscheers in a similar way. During the war he was
+                  also a communications officer for the Military Intelligence Service (Abwehr) in
+                  Russia, Athens, Vrnjačka Banja and Zagreb. In August 1945, an American
+                  interrogator called him “highly cultivated and critical of the Nazis.” In 1945 and
+                  1946, he was an American prisoner of war, but in 1946 he already began teaching
+                  foreign languages in Hamburg. In 1950, he rejoined diplomatic service and acted as
+                  the German consul general in Istanbul until his retirement in 1952.</p>
+               <figure xml:id="orbit-4-en" rend="orbit">
+                  <figure xml:id="figure-19-en" n="19">
+                     <head>A section of a map showing the border between Germany and the Independent
+                        State of Croatia at Ormož. The map clearly shows the course of the
+                        borderline. Source: Jugoslavija, topografske karte razmera 1:50,000, sheet
+                        Ptuj. Archive: Anton Melik Geographical Institute ZRC SAZU.</head>
+                     <graphic url="Pictures/Meje-pano4-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-20-en" n="20">
+                     <head>Kurt von Kamphoevener. Source: Politisches Archiv des Auswartigen Amts,
+                        Berlin.</head>
+                     <graphic url="Pictures/Meje-pano4-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-21-en" n="21">
+                     <head>Shown in the photograph is the letter of authorisation from Joachim von
+                        Ribbentrop (Germany's foreign minister between 1938 and 1945) to
+                        Kamphoevener to manage border-related affairs with the NDH, Italy and
+                        Hungary. His decisions also greatly influenced the border issues in the
+                        vicinity of Rogaška Slatina. Source: Politisches Archiv des Auswärtigen Amts
+                        Berlin.</head>
+                     <graphic url="Pictures/Meje-pano4-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-22-en" n="22">
+                     <head>Sketch of a demarcation proposal. Source: Politisches Archiv des
+                        Auswartigen Amts, Berlin.</head>
+                     <graphic url="Pictures/Meje-pano4-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-23-en" n="23">
+                     <head>5. The minutes of an agreement between the German Ambassador Siegfried
+                        Kasche and the Croatian Foreign Minister Mladen Lorković on 17 June 1941,
+                        which state that the border at Rogaška Slatina will run along the Sotla
+                        River, as it had prior to April 1941. Source: Međunarodni ugovori: Nezavisna
+                        država hrvatska (1941), 95.</head>
+                     <graphic url="Pictures/Meje-pano4-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-24-en" n="24">
+                     <head>A text about the demarcation of the border between Germany and Italy in
+                        the newspaper Karawanken Bote.</head>
+                     <graphic url="Pictures/Meje-pano4-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano4-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="ch05" xml:lang="sl" corresp="#en-ch05">
+               <head>Meja med Nemčijo in NDH – južna meja rajha</head>
+               <p>Meja med Nemčijo in NDH je bila dolga približno 100 km, večina mejne linije je
+                  potekala po reki Sotli. Nova meja se je v glavnem skladala z narodnostno in staro
+                  upravno mejo preteklih državnopolitičnih tvorb na tem območju, Sotla je namreč
+                  bila že stoletja narodnostna meja med Slovenci in Hrvati. Ta spodnještajerska meja
+                  na Sotli je poleg nemške meje z Italijo postala najjužnejša in obenem zaščitna
+                  meja napovedanega tisočletnega tretjega rajha.</p>
+               <p>Kakor vse ostale okupatorjeve meje v slovenskem prostoru je tudi nemška uprava
+                  zagradila in zavarovala svojo južno državno mejo. Začetna utrjevalna dela so se
+                  zaključila do pozne jeseni 1941. Nemci so mejo zavarovali z bodečo žico, minskimi
+                  polji in vmesnimi graničarskimi stražarnicami, marca 1943 pa so bili izdani tudi
+                  sklepi o nujni izgradnji stražnih stolpov. Žico, ki je bila visoka do 2 m, so
+                  namestili na lesene stebre, ki so bili ob rečni strugi zabiti enakomerno na vsakih
+                  nekaj metrov. Širina linije minskega polja ob žici je znašala približno od 2 do 4
+                  m.</p>
+               <p>Dovoljeni prehod preko meje je postal zelo otežkočen in neprijeten, možen je bil
+                  le z mejno prepustnico. Prebivalci, zlasti tisti, ki so živeli blizu meje, so v
+                  pomanjkanju pričeli čez mejo tihotapiti blago ter tako ilegalno prestopati mejo. S
+                  hrvaške strani so preko reke spravljali tobak ter meso, v zameno pa so slovenski
+                  sosedje dajali sol, moko, sladkor ali kavo in celo galico. Čez mejo so si
+                  izmenjevali tudi kruh, maslo, mleko in jajca ter pomembno pošto.</p>
+               <p>Oktobra leta 1944 so Nemci vzdolž celotne meje začeli z obsežnimi
+                  obrambno-utrjevalnimi deli. Gradili so strelske jarke, mitralješka gnezda ter
+                  bunkerje, ostanki le-teh so še danes jasno vidni v prostoru. Za opravljanje
+                  težavnega fizičnega dela so mobilizirali okoliško prebivalstvo, tudi v pasu več
+                  kot 20 kilometrov stran od meje. Grozote vojne se po letu 1945 za okoličane še
+                  niso končale. Mine, ki so ostale ob Sotli, so bile namreč glavni krivec za
+                  številne smrtne žrtve med prebivalci še precej let po koncu vojne.</p>
+               <figure xml:id="orbit-5" rend="orbit">
+                  <figure xml:id="figure-25" n="25">
+                     <head>Današnja hrvaška občina Hum na Sutli je s pripadajočimi kraji oziroma
+                        zaselki Hum, Lupinjak, Druškovec, Prišlin in Brezno ob okupaciji Jugoslavije
+                        leta 1941 in razdelitvi Slovenije med Italijo, Madžarsko, NDH in Nemčijo
+                        pripadla slednji. 6.530 (hrvaških) prebivalcev na 36,85 kvadratnih
+                        kilometrih je pripadlo Nemčiji, priključeno ozemlje pa je spadalo pod
+                        okrožje Šmarje s sedežem v Rogaški Slatini. Glavni razlog priključitve je
+                        predstavljala industrija – steklarna Straža na Humu je bila takrat zelo
+                        razvita in vezana na štajersko stran. Lastnik je bil Nemec. Meja tako ni šla
+                        po Sotli, ampak po bregovih Hrvaškega Zagorja. Konec junija so na
+                        prigovarjanje NDH ta del pripojili nazaj Hrvaški in mejo prestavili na
+                        Sotlo.</head>
+                     <graphic url="Pictures/Meje-pano5-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-26" n="26">
+                     <head>Primer dvojezične obmejne prepustnice (»Grenzkarte «), ki jo je imel
+                        Alojz Welle iz Rogatca. Vsaka dovolilnica je poleg uradnega žiga okrožnega
+                        carinskega urada in datuma izdaje ter veljavnosti vsebovala tudi opis
+                        imetnika s podatki o starosti, poklicu in kraju zaposlitve. SI AS 1602,
+                        Deželni svetnik okrožja Celje, šk. 177/1308, »Grenzkarte«.</head>
+                     <graphic url="Pictures/Meje-pano5-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-27" n="27">
+                     <head>Danes hrvaško ozemlje južno od Drave pri Ormožu je leta 1941 pripadlo
+                        Nemčiji oziroma nemški državni pokrajini Štajerski (Reichsgau
+                        Steiermark).</head>
+                     <graphic url="Pictures/Meje-pano5-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-28" n="28">
+                     <head>Reka Sotla je še danes mejna reka med Republiko Slovenijo in Republiko
+                        Hrvaško. Od leta 1941 in do leta 1945 pa je bila mejna reka med nemškim
+                        rajhom in NDH. Konec leta 1941 so jo Nemci močno zastražili, obdali z žico
+                        in minskimi polji. Kljub temu pa se je preko nje kmalu tihotapilo. Najbolj
+                        iskano blago so bili sladkor, tobak, galica, sol, meso, mast, moka, jajca in
+                        tudi živina. Fotografija, ki je objavljena z dovoljenjem Boža Kolarja (hrani
+                        izvirnik), prikazuje menjavo blaga na Sotli v neposredni bližini Rogaške
+                        Slatine, verjetno poleti 1944.</head>
+                     <graphic url="Pictures/Meje-pano5-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-29" n="29">
+                     <head>Na karti je prikaz mikroštudije ohranjenega stanja na terenu na lidarskem
+                        posnetku – lokacija je na Vonarju. Leta 1944 so Nemci ob pričakovanju
+                        morebitnega izkrcanja zaveznikov v Istri svojo južno mejo močno utrdili s
+                        strelskimi jarki, mitralješkimi gnezdi in utrjenimi bunkerji.</head>
+                     <graphic url="Pictures/Meje-pano5-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-30" n="30">
+                     <head>Ostanki strelskega jarka nad Sotlo na Vonarju. Avtor fotografije: Daniel
+                        Siter.</head>
+                     <graphic url="Pictures/Meje-pano5-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-ch05" xml:lang="en" corresp="#ch05">
+               <head>Border between Germany and the NDH – Reich’s Southern Border</head>
+               <p>The border between Germany and the NDH was about 100km long; most of the
+                  borderline ran along the Sotla River. For the most part, the new border matched
+                  the ethnic and old administrative border of previous state-political formations in
+                  that area, since the Sotla River had functioned as the national border between
+                  Slovenes and Croatians for centuries. In addition to the German border with Italy,
+                  this border on the Sotla River in the lower Štajerska region became the
+                  southernmost and protective border of the envisaged Thousand-Year Reich.</p>
+               <p>As was the case in all other occupiers’ borders in Slovene lands, the German
+                  administration also fenced in and secured its southern state border. Initial
+                  fortification works were finished by the late autumn of 1941. The Germans
+                  protected the border with barbed wire, minefields and border guardhouses placed in
+                  between; in March 1943, decrees on the urgent construction of watchtowers were
+                  issued. The wire, up to 2 metres tall, was placed on wooden posts that were evenly
+                  spaced along the riverbed every few metres. The minefield along the wire was about
+                  two to four metres wide.</p>
+               <p>It became very difficult and unpleasant to cross the border; moreover, it was
+                  possible only with a border pass. Due to a shortage of goods, the inhabitants,
+                  especially those living near the border, started smuggling goods across the
+                  border, thus illegally crossing it. From the Croatian side they carried tobacco
+                  and meat across the river, and in exchange their Slovene neighbours gave them
+                  salt, flour, sugar or coffee and even vitriol. They would also exchange bread,
+                  butter, milk, eggs, and important letters across the border.</p>
+               <p>In October 1944, Germans began large-scale fortification works along the entire
+                  border. They built firing trenches, machine-gun nests and bunkers, whose remnants
+                  are still clearly visible in the area today. They mobilised the local population,
+                  even those more than 20 kilometres away from the border, to perform heavy manual
+                  labour. After 1945, the atrocities of war were not yet over for the locals. The
+                  land mines that had been left behind along the Sotla River were the main cause of
+                  numerous casualties among the population, even many years after the war had
+                  ended.</p>
+               <figure xml:id="orbit-5-en" rend="orbit">
+                  <figure xml:id="figure-25-en" n="25">
+                     <head>When Yugoslavia was occupied in 1941 and Slovenia was divided among
+                        Germany, Italy, Hungary and the NDH, the present-day Croatian Municipality
+                        of Hum na Sutli and its towns or hamlets of Hum, Lupinjak, Druškovec,
+                        Prišlin and Brezno was given to Germany. 6,530 (Croatian) inhabitants in an
+                        area of 36.85 square kilometres came under Germany's rule, while the annexed
+                        territory belonged to the Šmarje District based in Rogaška Slatina. The main
+                        reason behind the annexation was industry – the glassworks Straža in Hum was
+                        highly advanced at that time and connected with the Štajerska region. Its
+                        owner was German. Thus, the border did not run along the Sotla River but
+                        along the banks of the Hrvatsko Zagorje region. In the end of June, after
+                        being persuaded by the NDH, this area was re-annexed to Croatia and the
+                        border was moved to the Sotla River.</head>
+                     <graphic url="Pictures/Meje-pano5-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-26-en" n="26">
+                     <head>Example of a bilingual border pass (Grenzkarte). In addition to the
+                        official stamp of the district customs office, and the date of issue and
+                        validity, each permit also contained a description of its owner with
+                        information on age, occupation and place of employment. Source: SI AS 1602,
+                        Deželni svetnik okrožja Celje, šk. 177/1308, “Grenzkarte”.</head>
+                     <graphic url="Pictures/Meje-pano5-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-27-en" n="27">
+                     <head>Today the territory south of Drava close to Ormož is part of Croatia,
+                        however in 1941 it was part of Germany; more precisely, it was part of the
+                        German state province of Styria (Reichsgau Steiermark).</head>
+                     <graphic url="Pictures/Meje-pano5-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-28-en" n="28">
+                     <head>The Sotla river is still a border river between the Republic of Slovenia
+                        and the Republic of Croatia. However, between 1941 and 1945 this was the
+                        border river between the German Reich and the NDH. At the end of 1941, the
+                        Germans heavily guarded its banks and enclosed it with barbed wire and
+                        minefields. Nevertheless, smuggling soon emerged across the river. Most
+                        sought after commodities were sugar, tobacco, copperas, salt, meat, lard,
+                        flour, eggs, even livestock. The photograph shows the exchange of goods at
+                        Sotla river in the immediate vicinity of Rogaška Slatina, most likely in the
+                        summer of 1944. Source: personal archive of Božo Kolar.</head>
+                     <graphic url="Pictures/Meje-pano5-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-29-en" n="29">
+                     <head>The map shows a microstudy of second world war remnants in the field as
+                        shown on a Lidar image – the location is Vonarje. In 1944, in anticipation
+                        of a potential landing of allies in Istria, the Germans greatly fortified
+                        their southern border with firing trenches, machine gun nests and fortified
+                        bunkers.</head>
+                     <graphic url="Pictures/Meje-pano5-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-30-en" n="30">
+                     <head>Remains of a firing trench above the Sotla River at Vonarje. Author:
+                        Daniel Siter.</head>
+                     <graphic url="Pictures/Meje-pano5-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano5-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="ch06" xml:lang="sl" corresp="#en-ch06">
+               <head>Okupacijska meja v Beli krajini 1941–1945</head>
+               <p>Okupacijska meja med fašistično Italijo in Neodvisno državo Hrvaško (NDH) je v
+                  Beli krajini potekala po meji sreza od Trdinovega vrha po grebenu
+                  Gorjancev/Žumberka do reke Kolpe pri Božakovem, nato pa po reki Kolpi navzgor do
+                  Predgrada. Da bi preprečili prehajanje meje slovenskim in hrvaškim partizanskim
+                  brigadam, so Italijani nameravali mejo na Gorjancih/Žumberku utrditi s pasom žične
+                  ograje in bunkerji. Ob Kolpi navzgor naj ne bi bilo žične ograje, ampak samo
+                  utrjeni mostovi in drugi objekti. Zaradi kapitulacije jim je spomladi 1943 uspelo
+                  zgraditi le šest bunkerjev pri Metliki. Meja je močno zarezala v vsakdanje
+                  življenje ljudi, zelo so bili prizadeti predvsem kmetje, ki so imeli zemljo na
+                  obeh straneh meje. Prebivalci Žumberka s pravoslavnimi koreninami so bili mnenja,
+                  da je meja tudi koristna, ker je ustašem preprečevala, da bi prihajali na
+                  italijansko okupirano območje.</p>
+               <p>Maja 1941 so bili tudi posamezni poskusi, da bi se del sreza Črnomelj (Bela
+                  krajina) priključil NDH (Občina Radatoviči), in tudi poskus, da se celotna Bela
+                  krajina priključi nacistični Nemčiji</p>
+               <p>Zelo hitro pa se je razvilo močno partizansko gibanje, tako da so Italijani že
+                  decembra 1942 zapustili manjše, predvsem obmejne postojanke. Od takrat naprej so
+                  se zadrževali le še v večjih krajih: Črnomlju, Vinici, Starem trgu ob Kolpi,
+                  Metliki. Slednjo so v celoti obdali z bodečo žico in bunkerji.</p>
+               <p>Po kapitulaciji Italije septembra 1943 je Bela krajina postala svobodno ozemlje,
+                  kjer se je nastanil Glavni štab Narodnoosvobodilne vojske in partizanskih odredov
+                  Slovenije, Izvršni odbor Osvobodilne fronte in vrsta drugih inštitucij. Do konca
+                  vojne je Belo krajino doletelo le še nekaj posameznih vdorov Nemcev in
+                  ustašev.</p>
+               <p>Dandanes se nehote same po sebi ponujajo primerjave med nekdanjo okupacijsko mejo
+                  in sedanjo ograjeno in ožičeno mejo z Republiko Hrvaško, še posebej ob reki
+                  Kolpi.</p>
+               <figure xml:id="orbit-6" rend="orbit">
+                  <figure xml:id="figure-31" n="31">
+                     <head>Italijanska vojska je 4. maja 1941 vkorakala v Metliko. Rus, Kronika
+                        mesta Metlike, 15. Na sliki v bunker spremenjena hiša pri mostu čez Kolpo,
+                        in 1942. Fotografijo hrani Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano6-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-32" n="32">
+                     <head>Ostanki italijanskega bunkerja pri Rosalnicah, postavljeni so bili na
+                        vzpetinah sredi polj. Avtor fotografije: Sonja Bezenšek. Črnomaljski župnik
+                        Lojze Jože Žabkar je v svojem dnevniku 3. avgusta 1943 zapisal: »Metliški
+                        prošt Alfonz Klemenčič danes goduje, zato sem se ob enajstih odpeljal k
+                        njemu. Metlika – sami bunkerji, žice, jarki. Italijani še zmeraj napenjajo
+                        žico (Rosalnice – Slamna vas). Čemu, ko se imperij podira? Mnogi lepi
+                        spomini me vežejo na Metliko – tu sem bil pred šestimi leti kaplan in sem se
+                        odlično počutil. A danes je vse drugače.« Žabkar, Izpovedi (pesmi in
+                        dnevnik), 89.</head>
+                     <graphic url="Pictures/Meje-pano6-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-33" n="33">
+                     <head>Izjava preloškega župnika Jožeta Pokorna: »Dekleta, zdaj so v Preloki
+                        tuji ljudje, ki nosijo uniforme. Ako bo šla katera s temi fanti plesat, ali
+                        da bi se z njimi družila, ona ni vredna, da bi jo po vojni en slovenski fant
+                        povohal, ni vredna, da jo obsije slovensko sonce.« Marija Starešinič (roj.
+                        1925). Avtor intervjuja: Božidar Flajšman, avtor fotografije: Sonja
+                        Bezenšek, posnel na video: Danilo Orlič, Preloka, 23. september 2017.</head>
+                     <graphic url="Pictures/Meje-pano6-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-34" n="34">
+                     <head>»Bil pa je strah, da bi ustaši prišli. Ustaši so znali, da so bili
+                        Radatoviči opredeljeni za NOB, Žumberčani smo bili sovražniki NDH.« Gabre
+                        Bogdanovič (roj. 1922), Hrast pri Metliki, 29. junij 2017. Avtor intervjuja
+                        in fotografije: Božidar Flajšman, posnel na video: Danilo Orlič, Hrast pri
+                        Metliki, 29. junij 2017.</head>
+                     <graphic url="Pictures/Meje-pano6-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-35" n="35">
+                     <head>Izrez iz italijanskega zemljevida o gradnji utrjene linije med Italijo in
+                        NDH pri Metliki. Rumene pike označujejo že zgrajene betonske bunkerje pri
+                        Rosalnicah. SI AS 1773, t. e. 773, Poveljstvo 14. pehotne divizije Isonzo.
+                        Avtor fotografije: Blaž Štangelj.</head>
+                     <graphic url="Pictures/Meje-pano6-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-36" n="36">
+                     <head>Partizanska skica italijanske postojanke v Ziljah ob Kolpi pri Vinici. SI
+                        AS 1851, Glavni štab, t. e. 59, p. e. 1680. Avtor fotografije: Blaž
+                        Štangelj.</head>
+                     <graphic url="Pictures/Meje-pano6-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-ch06" xml:lang="en" corresp="#ch06">
+               <head>Occupation Border in Bela krajina 1941–1945</head>
+               <p>In Bela krajina the occupier’s border between Fascist Italy and the Independent
+                  State of Croatia (NDH) ran along the boundary of the srez (administrative unit)
+                  from Trdinov vrh along the ridge of the Gorjanci/Žumberak mountain range to the
+                  Kolpa River near Božakovo and then upstream of the Kolpa River to Predgrad. To
+                  prevent Slovene and Croatian partisan brigades from crossing the border, the
+                  Italians intended to fortify the border at the Gorjanci/Žumberak mountain range
+                  with a line of wire fences and bunkers. There was to be no wire fence upstream of
+                  the Kolpa River, only fortified bridges and other facilities. In the spring of
+                  1943, due to Italy’s capitulation, they succeeded in building only 6 bunkers near
+                  Metlika. The border greatly changed people’s daily lives; the farmers who had land
+                  on both sides of the border were affected the most. The residents of Žumberak with
+                  Orthodox roots were of the opinion that the border was also useful because it
+                  prevented the Ustasha from coming to the Italian-occupied area.</p>
+               <p>In May 1941, there were individual attempts to annex a part of the Črnomelj (Bela
+                  krajina) srez to the NDH (Municipality of Radatoviči) and an attempt to annex the
+                  entire Bela krajina to Nazi Germany.</p>
+               <p>A strong partisan movement developed very quickly, forcing the Italians to abandon
+                  their smaller, mainly border posts as early as December 1942. From then on they
+                  stayed only in larger towns: Črnomelj, Vinica, Stari Trg ob Kolpi, and Metlika.
+                  The latter was enclosed entirely by barbed wire and bunkers.</p>
+               <p>After Italy capitulated in September 1943, Bela krajina became a free territory
+                  and chosen as the seat of the Main Headquarters of the National Liberation Army
+                  and Partisan Detachments of Slovenia, of the Executive Committee of the Liberation
+                  Front, and of many other institutions. Until the end of the war Bela krajina
+                  witnessed only a few individual enemy raids launched by Germans and the
+                  Ustasha.</p>
+               <p>Nowadays, we automatically draw comparisons between the former occupier’s border
+                  and today’s fenced and barbed-wire border with the Republic of Croatia, especially
+                  along the Kolpa River.</p>
+               <figure xml:id="orbit-6-en" rend="orbit">
+                  <figure xml:id="figure-31-en" n="31">
+                     <head>On 4 May 1941, the Italian Army marched into Metlika. (Source: Rus,
+                        Zvonko. Kronika mesta Metlike. Metlika: Belokranjsko muzejsko društvo, 2003,
+                        15). Shown in the picture is a house turned into a bunker next to a bridge
+                        over the Kolpa River. Source: personal archive of Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano6-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-32-en" n="32">
+                     <head>Remains of an Italian bunker at Rosalnice. These bunkers were erected on
+                        elevations in the middle of fields (Author: Sonja Bezenšek). The parish
+                        priest of Črnomelj, Lojze Jože Žabkar, wrote in his journal on 3 August
+                        1943: “The provost of Metlika Alfonz Klemenčič is celebrating his name day
+                        today, so I drove there at eleven o’clock. Metlika – nothing but bunkers,
+                        wires, trenches. The Italians are still stringing the wire (Rosalnice –
+                        Slamna vas). What for, when the empire is collapsing? I have many fond
+                        memories of Metlika – I was a curate there six years ago and it was
+                        wonderful. But today everything is different.” Source: Žabkar. Izpovedi
+                        (poems and diary), 89.</head>
+                     <graphic url="Pictures/Meje-pano6-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-33-en" n="33">
+                     <head>“Girls, foreign men wearing uniforms have come to Preloka. If any of you
+                        will go dancing with these boys or spend time with them, then after the war
+                        you will not be worthy of the attention of a Slovene boy or to be warmed by
+                        the Slovene sun.” – a statement from the parish priest of Preloka Jože
+                        Pokorn. Marija Starešinič (born 1925). Interview by: Božidar Flajšman.
+                        Source of the photograph: project archive, Author: Sonja Bezenške, Video:
+                        Danilo Orlič. In Preloka, 23 September 2017.</head>
+                     <graphic url="Pictures/Meje-pano6-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-34-en" n="34">
+                     <head>“We were afraid that the Ustasha would come. The Ustasha knew that
+                        Radatovići had taken the side of the National Liberation Struggle, while we,
+                        the people of Žumberak, were enemies of the NDH.” Gabre Bogdanovič (born
+                        1922), Hrast near Metlika, 29 June 2017. Intervew by: Božidar Flajšman.
+                        Source: project archive, Author of photograph: Božidar Flajšman, Video:
+                        Danilo Orlič. In Hrast pri Metliki, 29 June 2017.</head>
+                     <graphic url="Pictures/Meje-pano6-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-35-en" n="35">
+                     <head>Section of an Italian map on the construction of a fortified line between
+                        Italy and the NDH at Metlika. The yellow dots mark the already built
+                        concrete bunkers at Rosalnice. Source: SI AS 1773, t. e. 773, Poveljstvo 14.
+                        pehotne divizije Isonzo. Author of the photograph: Blaž Štangelj.</head>
+                     <graphic url="Pictures/Meje-pano6-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-36-en" n="36">
+                     <head>Partisan sketch of an Italian post in Zilje by the Kolpa River near
+                        Vinica. Source: SI AS 1851, Glavni štab, t. e. 59, p. e. 1680. Author of the
+                        photograph: Blaž Štangelj.</head>
+                     <graphic url="Pictures/Meje-pano6-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano6-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="ch07" xml:lang="sl" corresp="#en-ch07">
+               <head>Okupacijska meja med Nemčijo in Italijo na Dolenjskem</head>
+               <p>Meja med Nemčijo in Ljubljansko pokrajino je tekla od vzhodnih ljubljanskih
+                  predmestij proti jugovzhodu, severno od Stične, Šentruperta in Krmelja, mimo
+                  Bučke, ki je bila na nemški strani, proti Zameškemu, kjer je dosegla reko Krko. Po
+                  Krki je šla mimo Kostanjevice, ki je bila na italijanski strani, proti Bušeči
+                  vasi. Pred njo je meja prestopila Krko in se usmerila proti Gorjancem. V bližini
+                  Gadove Peči je dosegla točko, kjer je bila tromeja med Nemčijo, Ljubljansko
+                  pokrajino in Neodvisno državo Hrvaško (NDH). Meja, ki jo je določil Hitler, je
+                  bila strateška. Kot naravna meja se je ponujala reka Sava, vendar so Nemci želeli
+                  nadzorovati prostor južno od Save tudi zaradi obrambe gospodarsko pomembnega
+                  prostora. Strateško odločitev o meji dokazuje dejstvo, da je meja potekala po
+                  gričevnatem in hribovitem terenu, ki je Nemcem omogočal pregled tudi nad obmejnim
+                  italijanskim ozemljem.</p>
+               <p>Meja med Ljubljansko pokrajino in NDH je potekala od stare rapalske meje po reki
+                  Kolpi in nato po nekdanji meji med Dravsko banovino in Banovino Hrvaško proti
+                  Gadovi Peči.</p>
+               <p>Majhen del Dolenjske, pet vasi pod Gorjanci, je okupirala NDH in jih vključila v
+                  svoj upravni sistem. Za omenjene vasi je bila ena večjih težav tudi izselitev
+                  duhovnikov, tako da je bila duhovna oskrba le občasna, prihajala pa je iz
+                  frančiškanskega samostana v Samoboru.</p>
+               <p>Nove meje so ostro zasekale v Dolenjsko in jo razdelile na tri dele. Nemčija se je
+                  odločila mejo utrditi in je celotno mejno linijo, ne samo z NDH, pač pa tudi z
+                  Ljubljansko pokrajino, močno zavarovala. Iz obmejnega pasu so izseljevali
+                  prebivalstvo, da bi naredili prostor, med drugim za kočevske Nemce. Uradno
+                  prehajanje meje je veliko težavo predstavljalo ljudem, ki so zaradi službenih,
+                  kmetijskih ali drugih potreb morali oz. želeli prečkati mejo.</p>
+               <p>Zaradi partizanskega gibanja so se leta 1942 tudi Italijani odločili, da bodo
+                  utrdili mejo z NDH. Najprej so načrtovali utrditev meje na Gorjancih, nato pa so
+                  se odločili za utrditev v podnožju Gorjancev, kar je pomenilo, da bi Gorjance
+                  obkrožili. Na Dolenjskem so z utrjevanjem začeli na vzhodu in se postopoma
+                  pomikali proti zahodu, z žico pa so obdali tudi Novo mesto.</p>
+               <figure xml:id="orbit-7" rend="orbit">
+                  <figure xml:id="figure-37" n="37">
+                     <head>V Krmelju so nekdanjo okupacijsko mejo označili kot spomenik v spomin in
+                        opomin na zlo, ki ga je povzročila druga svetovna vojna. Avtor fotografije:
+                        Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano7-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-38" n="38">
+                     <head>Italijanski in nemški vojaki na meji pri Raki na Dolenjskem. MNZS.</head>
+                     <graphic url="Pictures/Meje-pano7-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-39" n="39">
+                     <head>Ostanki podnožja nemškega stražnega stolpa nad Bučko s pogledom proti
+                        Šentjerneju in Gorjancem. Na fotografiji pričevalec Silvo Vene in snemalec
+                        dr. Božidar Flajšman. Avtor fotografije: Bojan Balkovec.</head>
+                     <graphic url="Pictures/Meje-pano7-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-40" n="40">
+                     <head>Pričevalec Jože Jankovič stoji na levem bregu Krke v Kostanjevici, ki je
+                        bil nemški. Mejna k ontrola je bila na s everni strani mostu, ki je na de
+                        sni strani slike. V delu Jankovičeve hiše na otoku je bil italijanski
+                        bunker. Avtor fotografije: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano7-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-41" n="41">
+                     <head>Ob železniški progi v Dobovi stoji visok betonski blok, vanj so
+                        zabetonirane tudi tračnice. Poleg je še ena manjša konstrukcija in med
+                        tiroma še nizek betonski blok. Vse so zgradili Nemci med vojno, če bi bilo
+                        potrebno onesposobiti promet. Miniranje bi uničilo progo, minirane betonske
+                        konstrukcije pa bi zasule progo in še otežile rekonstrukcijo. Avtor
+                        fotografije: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano7-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-42" n="42">
+                     <head>Leta 1941 je več slovenskih vasi južno od Brežic (Jesenice, Obrežje, Nova
+                        vas, Slovenska vas in Čedem) okupirala NDH.</head>
+                     <graphic url="Pictures/Meje-pano7-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-ch07" xml:lang="en" corresp="#ch07">
+               <head>Occupation Border between Germany and Italy in the Dolenjska Region</head>
+               <p>The border between Germany and the Province of Ljubljana ran from the eastern
+                  suburbs of Ljubljana towards the southeast, north of Stična, Šentrupert and
+                  Krmelj, past Bučka, which was on the German side, towards Zameško, where it
+                  reached the Krka River. It proceeded along the Krka River past Kostanjevica, which
+                  was on the Italian side, towards Bušeča vas. Before Bučeča vas the border crossed
+                  the Krka River and turned towards the Gorjanci mountain range. Near Gadova Peč it
+                  reached the tripoint between Germany, the Province of Ljubljana and the
+                  Independent State of Croatia (NDH). The border demarcated by Hitler was a
+                  strategic border. The Sava River would have been the natural choice for a
+                  boundary, but the Germans wanted to control the area south of the Sava to defend
+                  the economically important area. This strategic decision is proved by the fact
+                  that the border ran across hilly terrain, which provided the Germans with a view
+                  of the Italian borderland.</p>
+               <p>The border between the Province of Ljubljana and the NDH ran from the old Rapallo
+                  border, along the Kolpa River and then along the former border between the Drava
+                  Banate and Croatia towards Gadova Peč.</p>
+               <p>A small part of the Dolenjska region, i.e. five villages beneath the Gorjanci
+                  mountain range, was occupied by the NDH, which then incorporated these villages
+                  into its administrative system. One of the greatest problems these villages faced
+                  was the expatriation of priests, which meant that spiritual care was only
+                  occasional and received from the Franciscan monastery in Samobor.</p>
+               <p>These new borders cut into the Dolenjska region, dividing it into three parts.
+                  Germany decided to fortify the border so it secured it along the entire
+                  borderline, not only that with the NDH but that with the Province of Ljubljana
+                  too. The population was being expatriated from the border zone to make room, for
+                  the Gottscheers among others. Official crossing of the border became a great
+                  problem for those who had to or wanted to cross it for business, agricultural or
+                  other needs.</p>
+               <p>Due to the partisan movement, in 1942 the Italians decided that they too would
+                  fortify the border with the NDH. They initially planned to fortify the border at
+                  the Gorjanci mountain range, but then decided to fortify it at the Gorjanci
+                  foothills, which meant that they would encircle them. In the Dolenjska region they
+                  began fortifications in the east and gradually moved westward; they also enclosed
+                  Novo mesto by a wire.</p>
+               <figure xml:id="orbit-7-en" rend="orbit">
+                  <figure xml:id="figure-37-en" n="37">
+                     <head>In Krmelj, the former occupational border was designated as a memorial
+                        and a reminder of the evil caused by the Second World War. Author: Božidar
+                        Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano7-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-38-en" n="38">
+                     <head>Italian and German soldiers on the border at Raka in the Dolenjska
+                        region. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano7-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-39-en" n="39">
+                     <head>Remains of the base of a German watchtower above the village of Bučka
+                        with a view of Šentjernej and the Gorjanci hills. In the photograph, witness
+                        Silvo Vene and cameraman dr. Bozidar Flajšman. Author: Bojan
+                        Balkovec.</head>
+                     <graphic url="Pictures/Meje-pano7-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-40-en" n="40">
+                     <head>A witness, Jože Jankovič, is standing on the once German left bank of the
+                        Krk a River in Kostanjevica. Border control was located on the north side of
+                        the bridge, which is shown on the right side of the picture. A part of
+                        Jankovič's house on the island was an Italian bunker. Author: Božidar
+                        Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano7-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-41-en" n="41">
+                     <head>Next to the railway line in Dobova is a tall concrete block; the rails
+                        have been concreted into it. Next to it is a smaller structure and a low
+                        concrete block between the two tracks. All of them were built by Germans
+                        during the war in case they had to disable traffic. Mining of the block
+                        would destroy the track, while the mined concrete structures would bury it
+                        and make reconstruction even harder. Author: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano7-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-42-en" n="42">
+                     <head>In 1941 several Slovenian villages south of Brežice were occupied by the
+                        NDH (Jesenice na Dolenjskem, Obrežje, Nova vas, Slovenska vas and
+                        Čedem).</head>
+                     <graphic url="Pictures/Meje-pano7-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="ch08" xml:lang="sl" corresp="#en-ch08">
+               <head>Okupacijska meja v visokogorju Julijskih Alp</head>
+               <p>V visokogorju se je okupacijska meja med Italijo in Nemčijo oprla na medvojno
+                  rapalsko mejo med Kraljevino Italijo in Kraljevino Jugoslavijo. Meja je potekala
+                  po razvodju med jadranskim in črnomorskim povodjem. Določevalci meje so se oprli
+                  na že obstoječe mejnike rapalske meje, na katere so na nemško stran mejnikov
+                  vklesali črko »D«, ki je nadomestila dotedanji »J« za Jugoslavijo. Na italijanski
+                  strani mejnikov je ostala črka »I«.</p>
+               <p>Tako kot rapalska meja je preko Triglava potekala tudi okupacijska meja. Triglav,
+                  ki so ga »izgubili« po prvi svetovni vojni, so si Nemci tako ponovno prisvojili –
+                  tudi simbolno, saj so ga kmalu umestili med podobe na državnih poštnih znamkah.
+                  Mejnik na vrhu Triglava so avgusta 1944 pod motom <hi rend="italic">»Na tem vrhu
+                     nikdar več meje!«</hi> odstranili partizani. Takrat so na vrhu tudi izobesili
+                  slovensko zastavo.</p>
+               <p>Zaradi težje prehodnosti visokogorskega reliefa, neposeljenosti in redkih poti je
+                  bila meja intenzivno zastražena predvsem na prelazih in sedlih, preko katerih so
+                  vodile poti in ceste (prelaz Vršič). Planinske koče na nemški strani meje, ki so
+                  bile med obema vojnama v upravljanju Slovenskega planinskega društva, so prešle
+                  pod okrilje Nemškega planinskega društva. Nekatere koče so bile poleti 1941 še
+                  oskrbovane, kasneje pa po večini opuščene, številne tudi uničene, saj bi lahko
+                  služile kot zatočišče partizanom in beguncem. V Aljažev dom v Vratih, takrat sicer
+                  preimenovan v »<hi rend="italic">Kugy-Haus</hi>«, je bila jeseni 1941 nastanjena
+                  nemška »<hi rend="italic">Zoll-Polizei</hi>«.</p>
+               <p>Danes najdemo le redke ostanke meje, saj so številni mejni kamni uničeni – zaradi
+                  povojnega uničevanja ali vpliva gorskega podnebja. V bližini sedel mestoma
+                  naletimo na ostanke bodeče žice.</p>
+               <p>Po kapitulaciji Italije je ta meja <hi rend="italic">de iure</hi> ostala meja med
+                  Italijo in Nemčijo, dejansko pa je bila meja med Nemčijo in Operacijsko cono
+                  Jadransko primorje pod nemško upravo. Od rapalske in okupacijske meje je kot
+                  državna meja do danes ostal odsek meje od Peči (Tromeja) v Karavankah, prek Ponc
+                  do težko dostopne Vevnice.</p>
+               <figure xml:id="orbit-8" rend="orbit">
+                  <figure xml:id="figure-43" n="43">
+                     <head>Sektorski mejnik št. 12 rapalske meje med Kraljevino Italijo in
+                        Kraljevino Jugoslavijo na Prehodavcih v Julijskih Alpah, ki je ostal mejnik
+                        tudi v času druge svetovne vojne, ko je razmejeval Italijo in Nemčijo.
+                        Sektorski mejniki so bili visoki en meter in široki 40 cm. Črka »D« je
+                        označevala Nemčijo. Letnica 1920 označuje leto podpisa rapalske pogodbe.
+                        Avtor fotografije: Matija Zorn. Main boundary stone No. 12 of the Rapallo
+                        border between the Kingdom of Italy and the Kingdom of Yugoslavia at the
+                        Prehodavci pass in the Julian Alps; it was kept as a boundary stone during
+                        World War II when it was used to demarcate Italy and Germany. Main boundary
+                        stones were one metre high and 40cm wide. The letter “D” stood for Germany.
+                        The year 1920 marks the year of the signing of the Treaty of Rapallo.
+                        Author: Matija Zorn.</head>
+                     <graphic url="Pictures/Meje-pano8-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-44" n="44">
+                     <head>Številni mejniki v visokogorju so bili po drugi svetovni vojni uničeni,
+                        nekateri pa zgolj prekucnjeni v sekundarno lego. V celoti ohranjen sektorski
+                        mejnik št. 9 pod sedlom Luknja nad dolino Zadnjice leži nekaj deset metrov
+                        pod mestom, kjer je stal. Avtor fotografije: Matija Zorn. Many boundary
+                        stones in high mountain ranges were destroyed after World War II, while some
+                        were merely tipped over into a secondary position. The fully preserved main
+                        boundary stone No. 9 beneath the Luknja col above the valley of Zadnjica is
+                        located a few tens of metres beneath its original spot. Author: Matija
+                        Zorn.</head>
+                     <graphic url="Pictures/Meje-pano8-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-45" n="45">
+                     <head>Na številnih mestih na mejnike spominjajo le š e betonski temelji in deli
+                        železja. A vtor fotografije: Matija Zorn. In many places, all that is left
+                        of the boundary stones is the concrete foundation and iron elements. Author:
+                        Matija Zorn.</head>
+                     <graphic url="Pictures/Meje-pano7-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-46" n="46">
+                     <head>Pod sedli je bila meja na nemški strani močno zastražena. Približno sto
+                        višinskih metrov pod sedlom Dovška vrata nad dolino Vrat lahko prečno na
+                        dolino sledimo nekdanji žični ograji. Na fotografiji dr. Peter Mikša. Avtor
+                        fotografije: Matija Zorn. Beneath the cols the border was heavily guarded on
+                        the German side. About one hundred metres of altitude beneath the Dovška
+                        vrata col above the valley of Vrata we can follow the former barbed wire
+                        fence transversely to the Valley. In the photograph, dr. Peter Mikša.
+                        Author: Matija Zorn.</head>
+                     <graphic url="Pictures/Meje-pano8-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-47" n="47">
+                     <head>Na območju Rateč lokacije mejnikov rapalske in kasnejše okupacijske meje
+                        še služijo svojemu namenu. Mejnik na nekdanjem železniškem mejnem prehodu
+                        pri Ratečah. Letnica 1947 označuje nov dogovor o meji po drugi svetovni
+                        vojni, ko tudi formalno preneha obstajati rapalska meja. Avtor fotografije:
+                        Matija Zorn. In the area of Rateče the locations of the boundary stones of
+                        the Rapallo border and of the later occupation border still serve their
+                        purpose. A boundary stone at the former railway border crossing at Rateče.
+                        The year 1947 marks the new border agreement reached after World War II when
+                        the Rapallo border formally ceased to exist. Author: Matija Zorn.</head>
+                     <graphic url="Pictures/Meje-pano8-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-48" n="48">
+                     <head>Na grebenu Ponc lokacije današnjih mejnikov sovpadajo z lokacijami
+                        mejnikov rapalske in okupacijske meje. Primer kaže območje Macesnovca. On
+                        the ridge of the Ponce mountain chain the locations of present-day boundary
+                        stones overlap with those of the boundary stones of the Rapallo and
+                        occupation border. This example shows the area of Macesnovec.</head>
+                     <graphic url="Pictures/Meje-pano8-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-ch08" xml:lang="en" corresp="#ch08">
+               <head>Occupation Border in the High Mountain Range of the Julian Alps</head>
+               <p>In the high mountain range, the occupation border between Italy and Germany was
+                  based on the inter- war Rapallo border between the Kingdom of Italy and the
+                  Kingdom of Yugoslavia. The border ran along the watershed between the catchment
+                  area of the Adriatic and the Black Sea. Those who fixed the boundary made use of
+                  the existing boundary stones of the Rapallo border; on the German side they
+                  chiselled the letter “D” into the boundary stones to replace the previous letter
+                  “J” for Yugoslavia. On the Italian side, they kept the letter “I” on the boundary
+                  stones.</p>
+               <p>Just as the Rapallo border had run across Mount Triglav, so did the occupation
+                  border. This way, Germans once again took possession of Triglav, which they had
+                  “lost” after World War I – also on a symbolic level, because it was soon depicted
+                  on German postage stamps. In August 1944, the boundary stone on top of Triglav was
+                  removed by partisans under the slogan <hi rend="italic">“Never another border on
+                     this peak!”</hi> On that occasion, they also hung the Slovene flag on its
+                  summit.</p>
+               <p>Because the Alpine relief was difficult to traverse, unpopulated and rarely
+                  contained paths, the border was intensively guarded mostly at the passes and cols
+                  across which ran paths and roads (Vršič Pass). Mountain huts on the German side of
+                  the border, which had been managed by the Slovene Mountaineering Society in the
+                  inter-war period, were given over to the German Mountaineering Society. In the
+                  summer of 1941, some of the huts were still maintained; later they were mostly
+                  abandoned, while many were destroyed so they could not be used as sanctuaries by
+                  partisans and refugees. In the autumn of 1941, the German <hi rend="italic">Zoll-
+                     Polizei</hi> was stationed at the hut Aljažev dom in the Vrata Valley, which
+                  was renamed Kugy-Haus.</p>
+               <p>Today we can find only rare remains of the border as many of the boundary stones
+                  have been destroyed – either by the post-war destruction or by the mountain
+                  climate. Near the cols we can find remains of the barbed wire here and there.</p>
+               <p>After Italy capitulated, this <hi rend="italic">de iure</hi> border was preserved
+                  as the border between Italy and Germany, but in reality it was the border between
+                  Germany and the Operational Zone of the Adriatic Littoral under German
+                  administration. One remnant of the Rapallo and occupation border is the
+                  present-day segment of the state border between Italy and Slovenia from Mount Peč
+                  (Tromeja) in the Karavanke Mountains, across the Ponce mountain range to the
+                  difficult-to-reach Mount Vevnica.</p>
+               <figure xml:id="orbit-8-en" rend="orbit">
+                  <figure xml:id="figure-43-en" n="43">
+                     <head>Main boundary stone No. 12 of the Rapallo border between the Kingdom of
+                        Italy and the Kingdom of Yugoslavia at the Prehodavci pass in the Julian
+                        Alps; it was kept as a boundary stone during World War II when it was used
+                        to demarcate Italy and Germany. Main boundary stones were one metre high and
+                        40cm wide. The letter “D” stood for Germany. The year 1920 marks the year of
+                        the signing of the Treaty of Rapallo. Author: Matija Zorn.</head>
+                     <graphic url="Pictures/Meje-pano8-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-44-en" n="44">
+                     <head>Many boundary stones in high mountain ranges were destroyed after World
+                        War II, while some were merely tipped over into a secondary position. The
+                        fully preserved main boundary stone No. 9 beneath the Luknja col above the
+                        valley of Zadnjica is located a few tens of metres beneath its original
+                        spot. Author: Matija Zorn.</head>
+                     <graphic url="Pictures/Meje-pano8-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-45-en" n="45">
+                     <head>In many places, all that is left of the boundary stones is the concrete
+                        foundation and iron elements. Author: Matija Zorn.</head>
+                     <graphic url="Pictures/Meje-pano7-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano7-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-46-en" n="46">
+                     <head>Beneath the cols the border was heavily guarded on the German side. About
+                        one hundred metres of altitude beneath the Dovška vrata col above the valley
+                        of Vrata we can follow the former barbed wire fence transversely to the
+                        Valley. In the photograph, dr. Peter Mikša. Author: Matija Zorn.</head>
+                     <graphic url="Pictures/Meje-pano8-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-47-en" n="47">
+                     <head>In the area of Rateče the locations of the boundary stones of the Rapallo
+                        border and of the later occupation border still serve their purpose. A
+                        boundary stone at the former railway border crossing at Rateče. The year
+                        1947 marks the new border agreement reached after World War II when the
+                        Rapallo border formally ceased to exist. Author: Matija Zorn.</head>
+                     <graphic url="Pictures/Meje-pano8-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-48-en" n="48">
+                     <head>On the ridge of the Ponce mountain chain the locations of present-day
+                        boundary stones overlap with those of the boundary stones of the Rapallo and
+                        occupation border. This example shows the area of Macesnovec.</head>
+                     <graphic url="Pictures/Meje-pano8-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="ch09" xml:lang="sl" corresp="#en-ch09">
+               <head>Ljubljana – obmejno mesto v žici</head>
+               <p>Ljubljančane so 6. aprila 1941 presenetili zvoki siren ter letala, ki so
+                  naznanjali začetek druge svetovne vojne na Slovenskem. Pet dni kasneje so v mesto
+                  triumfalno vkorakali italijanski vojaki, zasedli pomembnejše stavbe in mostove ter
+                  na ljubljanskem gradu izobesili italijansko trobojnico. Ljubljana je postala sedež
+                  Ljubljanske pokrajine, v njen severni predel pa je zarezala meja med italijanskim
+                  ter nemškim okupatorjem. Le-ta je najprej potekala po Savi, nato pa so jo Nemci
+                  prestavili na desni breg reke. Mesto je s tem izgubilo pomembno gospodarsko ter
+                  kmetijsko zaledje.</p>
+               <p>Prebivalstvo je posledice okupacije čutilo na vsakem koraku. Spremenjen je bil
+                  upravno politični sistem, gospodarstvo je služilo vojnim potrebam, ljudje pa so
+                  živeli pod pritiskom potujčevanja ter življenjske nevarnosti. Drastično je na
+                  njihov vsakdanjik vplivalo tudi utrjevanje mesta, ki se je pričelo leta 1942, ko
+                  je bila Ljubljanska pokrajina razglašena za vojaško področje. Februarja so
+                  Italijani mesto obkrožili z bodečo žico ter za potrebe utrjevanja zaplenili
+                  gradbeni material, razlastili lastnike, izselili družine ter rušili objekte. Na
+                  strateških mestih so pričeli graditi betonske bunkerje, obrambne zidove in
+                  položaje za težko orožje. Mesto pa so v strahu pred morebitnim odporom utrjevali
+                  tudi od znotraj. Razdeljeno je bilo na več pasov (npr. strogi center z
+                  najpomembnejšimi okupatorjevimi ustanovami, široki center in obkrajni del), ki so
+                  jih pregrajevali s španskimi jezdeci in stražnicami. V samem mestu pa so gradili
+                  tudi bunkerje (npr. na Rožniku). Ljubljančani so se tako znašli ujeti znotraj
+                  dobro utrjenega, zastraženega in težko prehodnega žično-betonskega obroča, ki pa
+                  ni uspel preprečiti odporniškega gibanja.</p>
+               <p>Podobno je bilo tudi po kapitulaciji Italije leta 1943. V prvih dneh nemškega
+                  prevzema oblasti so sicer mejni prehodi ostali nezaščiteni, nato pa je sledila
+                  uvedba strogega nadzora ter ostre raznarodovalne politike. Za prosto gibanje je
+                  bilo potrebno počakati na konec vojne, ki so ga – tako kot začetek – naznanile
+                  sirene. Pravo svobodo pa so prebivalci Ljubljane doživeli 26. maja 1945, ko so na
+                  dan prihoda Josipa Broza - Tita v prestolnico odprli vse bloke na »ljubljanski
+                  meji«. Tako se je končala 1170-dnevna zaprtost mesta in reka Ljubljančanov se je
+                  vila v prej nedostopno mestno okolico.</p>
+               <figure xml:id="orbit-9" rend="orbit">
+                  <figure xml:id="figure-49" n="49">
+                     <head>Ostanki nemškega stražnega stolpa na Ježici. Avtor fotografije: Božidar
+                        Flajšman. Remains of a German watchtower in the Ježica District. Author:
+                        Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano9-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-50" n="50">
+                     <head>Mejni prehod na nemško-italijanski meji pri Šentvidu nad Ljubljano. Po
+                        postavitvi žice je iz in v mesto vodilo 11 cestnih mejnih prehodov, ki pa
+                        jih je bilo mogoče prečkati le z dovoljenjem. Zanj so lahko zaprosile vse
+                        osebe starejše od 14 let. MNZS, avtor fotografije: Jakob Prešeren. Border
+                        crossing on the German-Italian border at Šentvid nad Ljubljano. After the
+                        wire had been placed, 11 road border crossings led from and to the city and
+                        could only be crossed with a permit. Anyone older than 14 could apply for
+                        one. Source: MNZS, Author: Jakob Prešeren.</head>
+                     <graphic url="Pictures/Meje-pano9-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-51" n="51">
+                     <head>Žica na meji v Šentvidu. Pri komisijskem pregledu prve žične meje je bilo
+                        ugotovljeno, da ne ustreza vojaškim zahtevam ter potrebam prebivalstva (npr.
+                        Žale so bile izven žičnega obroča). Tako so žico pomaknili do 250 m navzven,
+                        kljub temu pa je zaobšla Barje, Polje, Kozarje, Savlje in Ježico ter tako
+                        odtrgala še dodaten del zaledja pomembnega za preskrbo. MNZS. Wire on the
+                        border in Šentvid. When the Commission inspected the first wire border it
+                        established that it did not meet the military requirements nor the needs of
+                        the population (e.g. the Žale District was outside of the ring of wire).
+                        Hence, the wire was moved outward by up to 250m but it still bypassed Barje,
+                        Polje, Kozarje, Savlje and Ježica, thus severing another part of the
+                        hinterland that was important for supply. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano8-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano8-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-52" n="52">
+                     <head>Zemljevid utrjenega pasu okoli Ljubljane. Celoten obmejni pas je bil dolg
+                        okoli 30 km, visok okoli 2 metra in širok 5–8 m. Skupaj s telefonsko in
+                        električno napeljavo, reflektorskimi postajami za osvetlitev meje in krožno
+                        stezo na notranji strani pasu je bila utrjena črta široka ok. 80 m. Januarja
+                        1943 je mejo stražilo okoli 2500 vojakov, 500 karabinjerjev, agentov javne
+                        varnosti in kvesturinov za pregledovanje ljudi na cestnih blokih. MNZS. A
+                        map of the fortified zone around Ljubljana. The entire border zone was
+                        around 30km long, around 2 metres high and 5-8m wide. Together with the
+                        telephone and electrical wiring, the floodlight stations for illuminating
+                        the border, and a circular runway on the inner side of the zone, the
+                        fortified line was about 80m wide. In January 1943, the border was guarded
+                        by some 2,500 soldiers, 500 Carabinieri, public security agents, and
+                        Questurini who examined people at the road checkpoints. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano9-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-53" n="53">
+                     <head>Mejni prehod na Celovški cesti med italijansko Šiško ter nemškim
+                        Šentvidom, ki ga je bilo mogoče prečkati s tramvajem. Tramvajsko omrežje se
+                        med vojno ni spremenilo, povečalo pa se je število potnikov. Vozniki so s
+                        tramvaji vsak dan prestopali meje okupirane Ljubljane in so zato morali
+                        imeti posebne dovolilnice. Na progi proti Šentvidu je bil mejni prehod v
+                        bližini gostilne Žibert. Na njem se je tramvaj ustavil, potniki pa so
+                        opravili vse obmejne formalnosti. MNZS. Border crossing at Celovška street
+                        between the Italian district of Šiška and the German district of Šentvid.
+                        The tram network stayed the same during the war but the number of passengers
+                        increased. Tram drivers crossed the borders of occupied Ljubljana on a daily
+                        basis and had to have special permits. On the route towards Šentvid there
+                        was a border crossing near the Žibert Inn. The tram stopped there and the
+                        passengers completed all the border formalities. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano9-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-54" n="54">
+                     <head>Španski jezdeci na Tromostovju. Pregrada je ločevala pas ožjega centra od
+                        širšega. V samem mestnem središču je bilo takšnih pregrad 19, skupno pa so
+                        jih postavili 34. MNZS. Knife-rests on the Tromostovje triple bridge. This
+                        barrier separated the narrow city centre from the broader one. There were 19
+                        such barriers in the city centre, out of a total of 34. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano9-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-ch09" xml:lang="en" corresp="#ch09">
+               <head>Ljubljana – Border City Enclosed by Wire</head>
+               <p>On 6 April 1941, the people of Ljubljana were surprised by the sounds of sirens
+                  and planes, which announced the start of World War II in Slovenia. Five days
+                  later, Italian soldiers marched triumphantly into the city, seized the important
+                  buildings and bridges, and hung the Italian tricolour on top of Ljubljana Castle.
+                  Ljubljana became the seat of the Province of Ljubljana, while its northern
+                  district was severed by the border between the Italian and German occupier. At
+                  first, the border ran along the Sava River but the Germans later moved it to the
+                  right bank of the river. The city thus lost its important economic and
+                  agricultural hinterland.</p>
+               <p>The population felt the effects of occupation at every step. The administrative
+                  and political system was altered, the economy served military needs, and the
+                  people were living under the pressure of denationalisation and mortal danger.
+                  Their daily lives were also drastically affected by the fortification of the city,
+                  which began in 1942 when the Province of Ljubljana was declared a military area.
+                  In February, the city was enclosed by barbed wire, building material was
+                  confiscated for fortification needs, owners were dispossessed, families evicted,
+                  and buildings were torn down. They started building concrete bunkers, defensive
+                  walls and heavy artillery stations in strategic locations. The city was also being
+                  fortified from within. It was divided into several zones (e.g. the city centre
+                  with the occupier’s most important institutions, the broad centre, and the
+                  peripheral area), which were partitioned off with knife-rests and guardhouses; in
+                  fear of potential resistance they also built bunkers in the city itself (e.g. on
+                  Rožnik Hill). Thus the people of Ljubljana found themselves trapped within a
+                  heavily fortified, guarded and difficult to penetrate ring of wire and concrete,
+                  which nevertheless did not prevent the resistance movement.</p>
+               <p>A similar situation occurred after Italy capitulated in 1943. In the first few
+                  days after the Germans had seized power, the border crossings were unguarded, but
+                  this was soon followed by the introduction of strict control and a severe
+                  denationalisation policy. People could not move freely until the end of the war,
+                  which was announced by sirens – just as its beginning had been. The people of
+                  Ljubljana experienced true freedom on 26 May 1945, when all the checkpoints on the
+                  “Ljubljana border” were opened on the day that Josip Broz - Tito arrived in the
+                  capital. This marked the end to the 1,170 days the city had spent closed off, and
+                  a river of its residents wound its way to the previously inaccessible
+                  outskirts.</p>
+               <figure xml:id="orbit-9-en" rend="orbit">
+                  <figure xml:id="figure-49-en" n="49">
+                     <head>Remains of a German watchtower in the Ježica District. Author: Božidar
+                        Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano9-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-50-en" n="50">
+                     <head>Border crossing on the German-Italian border at Šentvid nad Ljubljano.
+                        After the wire had been placed, 11 road border crossings led from and to the
+                        city and could only be crossed with a permit. Anyone older than 14 could
+                        apply for one. Source: MNZS, Author: Jakob Prešeren.</head>
+                     <graphic url="Pictures/Meje-pano9-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-51-en" n="51">
+                     <head>Wire on the border in Šentvid. When the Commission inspected the first
+                        wire border it established that it did not meet the military requirements
+                        nor the needs of the population (e.g. the Žale District was outside of the
+                        ring of wire). Hence, the wire was moved outward by up to 250m but it still
+                        bypassed Barje, Polje, Kozarje, Savlje and Ježica, thus severing another
+                        part of the hinterland that was important for supply. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano9-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-52-en" n="52">
+                     <head>A map of the fortified zone around Ljubljana. The entire border zone was
+                        around 30km long, around 2 metres high and 5-8m wide. Together with the
+                        telephone and electrical wiring, the floodlight stations for illuminating
+                        the border, and a circular runway on the inner side of the zone, the
+                        fortified line was about 80m wide. In January 1943, the border was guarded
+                        by some 2,500 soldiers, 500 Carabinieri, public security agents, and
+                        Questurini who examined people at the road checkpoints. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano9-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-53-en" n="53">
+                     <head>Border crossing at Celovška street between the Italian district of Šiška
+                        and the German district of Šentvid. The tram network stayed the same during
+                        the war but the number of passengers increased. Tram drivers crossed the
+                        borders of occupied Ljubljana on a daily basis and had to have special
+                        permits. On the route towards Šentvid there was a border crossing near the
+                        Žibert Inn. The tram stopped there and the passengers completed all the
+                        border formalities. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano9-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-54-en" n="54">
+                     <head>Knife-rests on the Tromostovje triple bridge. This barrier separated the
+                        narrow city centre from the broader one. There were 19 such barriers in the
+                        city centre, out of a total of 34. Source: MNZS.</head>
+                     <graphic url="Pictures/Meje-pano9-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano9-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="ch10" xml:lang="sl" corresp="#en-ch10">
+               <head>Prekmurje med okupacijo</head>
+               <p>Prekmurje so najprej zasedli Nemci in ga nato 16. aprila 1941 na svečanosti v
+                  Murski Soboti predali Madžarom. Pod madžarsko okupacijo se je znašlo okoli 90.000
+                  prebivalcev, med njimi je bilo okoli 15.000 Madžarov. Pridobljeno ozemlje so
+                  Madžari šteli za del izgubljenih južnih pokrajin (Délvidék). Občutki prebivalstva
+                  so bili mešani, madžarska manjšina in del promadžarsko usmerjenega prebivalstva
+                  sta bila za Madžarsko, manjši del pa je bil navdušen nad Nemčijo. Pod Nemčijo so
+                  prišli kraji z večinsko nemškim prebivalstvom: Fikšinci, Kramarovci, Ocinje in
+                  Rottenberg, kot del razdeljene Serdice. Podobno kot potok Ledava je razmejitveno
+                  vlogo imel tudi levi pritok Mure – potok Kučnica, ki je kot eden od mejnih
+                  vodotokov vse od srednjega veka dalje veljal za naravno razmejitveno črto med
+                  Nemškim cesarstvom in Ogrsko. Le da v času okupacije ni razmejeval Kraljevine
+                  Jugoslavije in Avstrije, pač pa Nemčijo in Madžarsko. Tromeja je postala
+                  dvomeja.</p>
+               <p>Upravno se je vzpostavilo stanje, kot je bilo pred koncem 1. svetovne vojne.
+                  Prekmurje je bilo razdeljeno na lendavski in soboški okraj, kar je madžarski
+                  parlament potrdil z zakonom, sprejetim 16. decembra 1941, s katerim je po dobrih
+                  dveh desetletjih južne pokrajine ponovno priključil k Madžarski. Po nemški zasedbi
+                  Madžarske marca 1944 so na osnovi antisemitskih zakonov sledile deportacije
+                  prekmurskih Judov v koncentracijska taborišča. Večina jih je bila usmrčena aprila
+                  in maja 1944 v Auschwitzu. Tudi slovenskim uradnikom, učiteljem in primorskim
+                  kolonistom, ki so zaradi grozot soške fronte in nato fašizma svoje novo domovanje
+                  v obdobju Jugoslavije našli v Prekmurju, ob takratni državni meji med Jugoslavijo
+                  in Madžarsko (obmejni kraji Benice, Petišovci, Pince, Kamovci in Dolga vas),
+                  madžarski okupator ni prizanesel. Primorski naseljenci so bili prisilno izseljeni
+                  in kot t. i. neavtohtoni Prekmurci junija 1942 internirani v madžarsko taborišče
+                  Sárvár. Slovenci v Prekmurju so se morali spet navaditi na jezikovna preimenovanja
+                  v madžarščino, na madžarski izobraževalni sistem ter vsesplošni nadzor represivnih
+                  organov. Oborožen partizanski odpor je bil ob začetku okupacije zatrt, ves čas pa
+                  je obstajal tihi odpor izobražencev, ki so jih obsodili na več procesih. Prekmurje
+                  je bilo osvobojeno v štirih dneh, od 30. marca do 4. aprila 1945, osvobodili pa so
+                  ga vojaki Rdeče armade in partizani Prekmurske čete.</p>
+               <figure xml:id="orbit-10" rend="orbit">
+                  <figure xml:id="figure-55" n="55">
+                     <head>Prihod madžarske vojske v Dolnjo Lendavo 16. aprila 1941. Fotografijo
+                        hrani Štefan Vida.</head>
+                     <graphic url="Pictures/Meje-pano10-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-56" n="56">
+                     <head>Po priključitvi Prekmurja k Madžarski so železniško povezavo z
+                        notranjostjo Madžarske ponovno vzpostavili. Na sliki delavci med polaganjem
+                        tračnic pri Hodošu leta 1941. Fotografija je v lasti družine
+                        Bočkorec.</head>
+                     <graphic url="Pictures/Meje-pano10-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-57" n="57">
+                     <head>Slavolok z napisom »Pozdravljamo vas ob prazniku osvobojenja!«,
+                        postavljen v Murski Soboti ob svečanosti 29. junija 1941. Pomurski muzej Mur
+                        - ska Sobota.</head>
+                     <graphic url="Pictures/Meje-pano10-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-58" n="58">
+                     <head>Madžarski in nemški orožniki s civilisti na nem - ško-madžarski meji leta
+                        1942. Fotografijo hrani Silvester Štingl.</head>
+                     <graphic url="Pictures/Meje-pano10-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-59" n="59">
+                     <head>Madžarska oblast je v številnih krajih v Prekmurju postavila t. i.
+                        Državne zastave (Országzászló), s čimer so želeli tudi simbolično izraziti
+                        priključitev Prekmurja k Madžarski. Na fotografiji svečanost ob posvetitvi
+                        Országzászló v Beltincih leta 1942. Göncz, Felszabadulás vagy megszállás.
+                        MNMI, 105.</head>
+                     <graphic url="Pictures/Meje-pano10-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-60" n="60">
+                     <head>16. aprila 1941 so Nemci oblast v Prekmurju predali Madžarom, razen v
+                        štirih naseljih na severozahodu pokrajine. Na skici je nemško-madžarska meja
+                        pri naselju Serdica (Seregháza), z vrisanim spornim območjem (vitás
+                        terület). V Serdici je bila meja po reki Ledavi. Na mostu med dvema deloma
+                        vasi jo je nemški oficir začrtal kar s škornjem, predmet spora pa je bil
+                        mlin na madžarski strani vasi, ki je bil v nemški lasti. Prehodi meje in
+                        omejen prenos dobrin so bili mogoči, a ob strogi nemški kontroli. Niso pa
+                        smeli kupčevati z živino, ki je morala biti označena (D za Nemčijo in U za
+                        Madžarsko). MNL OL K-64 - 1942 - 41.(96. cs.).</head>
+                     <graphic url="Pictures/Meje-pano10-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-ch10" xml:lang="en" corresp="#ch10">
+               <head>Prekmurje during Occupation</head>
+               <p>Prekmurje was occupied at first by Germans who then turned it over to Hungarians
+                  on 16 April 1941 at a ceremony in Murska Sobota. Around 90,000 inhabitants came
+                  under Hungarian occupation, including some 15,000 Hungarians. The Hungarians
+                  considered this newly acquired territory a part of the lost southern provinces
+                  (Délvidék). The population had mixed feelings; the Hungarian minority and a
+                  segment of the pro-Hungarian population was in favour of Hungary, while a smaller
+                  segment was enthusiastic about Germany. Localities with a majority German
+                  population fell under Germany: Fikšinci, Kramarovci, Ocinje and Rottenberg, as
+                  part of the divided Serdica. Similarly as the Ledava Stream, the left tributary of
+                  the Mura River – the Kučnica Stream had the role of a boundary; as a border stream
+                  it had been used as a natural boundary line between the German Empire and Hungary
+                  since the Middle Ages, but now it no longer separated the territory of the Kingdom
+                  of Yugoslavia and Austria, but that of Germany and Hungary. Thus the tripoint
+                  became a bipoint.</p>
+               <p>The administrative regime from before the end of World War I was re-established.
+                  Prekmurje was divided into the Lendava and Sobota Districts, which the Hungarian
+                  parliament ratified with an act adopted on 16 December 1941, with which it
+                  re-annexed the southern provinces to Hungary after more than two decades. After
+                  the Germans occupied Hungary in March 1944, the Jews of Prekmurje were deported to
+                  concentration camps pursuant to anti-Semitic laws. Most of them were executed in
+                  April and May 1944 in Auschwitz. Even the Slovene officials, teachers and
+                  colonists from the Primorska region, who had fled from the atrocities of the
+                  Isonzo Front and later of Fascism and had found their new abode in Prekmurje at
+                  the then state border between Yugoslavia and Hungary (the border towns of Benice,
+                  Petišovci, Pince, Kamovci and Dolga vas), were not spared by the Hungarian
+                  occupier. In June 1942, the settlers from Primorska were evicted and interned at
+                  the Hungarian camp Sárvár as the so-called non-autochthonous people of Prekmurje.
+                  Slovenes in Prekmurje once again had to get used to Hungarian names, to the
+                  Hungarian education system and to the overall control exerted by repressive
+                  authorities. The armed partisan resistance was crushed at the beginning of the
+                  occupation, however, there was a continuous silent resistance of the
+                  intelligentsia, who were convicted at several trials. Prekmurje was liberated in
+                  four days, from 30 March to 4 April 1945 by Red Army soldiers and partisans of the
+                  Prekmurje Company.</p>
+               <figure xml:id="orbit-10-en" rend="orbit">
+                  <figure xml:id="figure-55-en" n="55">
+                     <head>Arrival of the Hungarian Army in Dolnja Lendava on 16 April 1941. Source:
+                        private archive of Štefan Vida.</head>
+                     <graphic url="Pictures/Meje-pano10-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-56-en" n="56">
+                     <head>After the annexation of Prekmurje to Hungary, the rail link to the
+                        interior of Hungary was re-established. The picture shows workers laying the
+                        tracks at Hodoš in 1941. Source: private archive of the Bočkorec
+                        family.</head>
+                     <graphic url="Pictures/Meje-pano10-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-57-en" n="57">
+                     <head>A triumphal arch bearing the inscription “We Salute You on Liberation
+                        Day” erected in Murska Sobota at a ceremony on 29 June 1941. Source:
+                        Pomurski muzej Murska Sobota.</head>
+                     <graphic url="Pictures/Meje-pano10-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-58-en" n="58">
+                     <head>Members of the Hungarian and German armed police force with civilians at
+                        the German-Hungarian border in 1942. Source: private archive of Silvester
+                        Štingl.</head>
+                     <graphic url="Pictures/Meje-pano10-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-59-en" n="59">
+                     <head>In many places throughout Prekmurje, Hungarian authorities hung the
+                        so-called State Flags (Országzászló) to symbolically show the annexation of
+                        Prekmurje to Hungary. The photograph shows the consecration ceremony of an
+                        Országzászló in Beltinci in 1942. Source: Göncz, Felszabadulás vagy
+                        megszállás. MNMI, 105.</head>
+                     <graphic url="Pictures/Meje-pano10-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-60-en" n="60">
+                     <head>On 16 April 1941, Germans handed over control of Prekmurje to the
+                        Hungarians, except in four settlements in the northwest of the region. The
+                        sketch shows the German- Hungarian border at the settlement of Serdica
+                        (Seregháza), with the disputed area (vitás terület) drawn in. In Serdica the
+                        border ran along the Ledava River. On the bridge between the two parts of
+                        the village, a German officer drew the border with his boot; the subject of
+                        dispute was a mill on the Hungarian side of the village, which was owned by
+                        Germans. Border crossings and a limited transfer of goods were possible but
+                        under strict German supervision. People were not allowed to trade in
+                        livestock and it had to be marked (D for Germany and U for Hungary). Source:
+                        MNL OL K-64 - 1942 - 41.(96. cs.).</head>
+                     <graphic url="Pictures/Meje-pano10-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano10-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="ch11" xml:lang="sl" corresp="#en-ch11">
+               <head>Preko Polhograjskega hribovja do Ljubljane</head>
+               <p>Delitev ozemlja med okupatorji je povzročila, da je tudi v notranjost slovenskega
+                  ozemlja zarezala meja. Njen dobršen del je potekal po nekdanji rapalski meji, ki
+                  je bila določena z Rapalska pogodbo leta 1920. Potekala je po vrhovih Peč,
+                  Jalovec, Triglav, Možic, Porezen, Blegoš, Črni vrh nad Cerknim, Bevki, Hotedršica,
+                  Planina, Javornik, Biška gora, Griž, Snežnik, Kastav ter nato vzhodno od Matulj
+                  proti morju. Z okupacijo se je njena funkcija spremenila. Od Peči do naselja
+                  Spodnji Vrsnik je nekdanja rapalska meja postala meja med Kraljevino Italijo ter
+                  nemško okupacijsko cono. Nato pa se je pri mejniku št. 40 – ki je postal tromejnik
+                  – razcepila. Nekdanja rapalska meja od Spodnjega Vrsnika proti Hotedršici je
+                  razmejevala ozemlje Kraljevine Italije ter njeno okupirano območje imenovano
+                  Ljubljanska pokrajina. Drugi krak, ki je razmejeval nemško okupirano ozemlje ter
+                  Ljubljansko pokrajino, pa se je od tromejnika spustil v Brekovice ter se nato
+                  povzpel proti Opalam in se po liniji Račeva–Lesec–Podlesec– Žirovski vrh–Suhi Dol
+                  nadaljeval proti Planini nad Horjulom ter Polhograjskemu hribovju.</p>
+               <p>Določitvi meje je sledila njena realizacija na terenu. Na stari rapalski meji
+                  večja dela niso bila potrebna, drugače je bilo z novo mejo, ki jo je bilo potrebno
+                  utrditi ter zastražiti. Po mejni liniji so postavili bodečo žico, pas v okolici
+                  meje pa so minirali. Za potrebe nadzora nad mejo je okupator izsekal dobršen del
+                  gozda, porušil nekatera gospodarska ter bivalna poslopja ter na pomembnejših
+                  mestih zgradil tudi različne objekte, npr. stražne stolpe. Za dodaten nadzor meje
+                  sta okupatorja, tako nemški kot italijanski, poskrbela z enotami, ki so bile
+                  nastanjene ob meji ter jo z obhodi redno preverjale. Meja je tako postala težko
+                  prehodna in obmejno prebivalstvo se je moralo posluževati ilegalnih načinov
+                  prehajanja meje. To se je spremenilo po kapitulaciji Italije ter z nemškim
+                  prevzemom nadzora nad njenim okupiranim območjem, saj meja ni bila več aktualna.
+                  Nemška vojska je tako za svoje potrebe izkopala mine, postavljene ob prometnicah
+                  ter travnikih, in na nekaterih delih odpeljala tudi žico. Temeljito čiščenje
+                  obmejnega ozemlja pa je sledilo šele po koncu druge svetovne vojne.</p>
+               <figure xml:id="orbit-11" rend="orbit">
+                  <figure xml:id="figure-61" n="61">
+                     <head>Milan Košir iz Črnega Vrha nad Polhovim Gradcem s spominsko zbirko
+                        ohranja spomin na okupacijsko mejo, ki je tekla preko Polhograjskega
+                        hribovja. Avtor fotografije: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano11-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-62" n="62">
+                     <head>Preliminarna mikroštudija dela meje med Italijo in Nemčijo v
+                        Polhograjskih dolomitih (bližina Ljubljane), kjer so označena mesta stavb,
+                        ki so bile zaradi novega mejnega pasu porušene, in mesta smrtnih žrtev
+                        zaradi miniranja mejnega pasu s strani okoliških prebivalcev. Karto hrani
+                        Milan Košir.</head>
+                     <graphic url="Pictures/Meje-pano11-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-63" n="63">
+                     <head>Raziskovalci (od leve: dr. Matija Zorn, Maruša Nartnik, dr. Božo Repe,
+                        dr. Bojan Balkovec, dr. Božidar Flajšman, dr. Peter Mikša in dr. Bor - če
+                        Ilievski) pri mejnem kamnu pod Domačijo Pr’Mahačk v bližini Polhograjske
+                        Grmade. Avtor fotografije: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano11-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-64" n="64">
+                     <head>Vojaki in civilisti ob meji. Fotografijo hrani Milan Košir.</head>
+                     <graphic url="Pictures/Meje-pano11-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-65" n="65">
+                     <head>Ostanki nemškega stražnega stolpa na Goljeku, 809 metrov visokem vrh nad
+                        Topolom (Sveta Katarina) nad Ljubljano. Avtor fotografije: Peter
+                        Mikša.</head>
+                     <graphic url="Pictures/Meje-pano11-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-66" n="66">
+                     <head>Spominsko obeležje za vse žrtve medvojne meje med Italijo in Nemčijo pri
+                        Medvedovem malnu (med Planino, Butajnovo in Zalogom). Avtor fotografije:
+                        Peter Mikša.</head>
+                     <graphic url="Pictures/Meje-pano11-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-ch11" xml:lang="en" corresp="#ch11">
+               <head>Over Polhov Gradec Hills to Ljubljana</head>
+               <p>When the territory was divided among the occupiers, the border cut into the
+                  interior of Slovene territory. The better part of the border ran along the former
+                  Rapallo border which had been fixed by the Treaty of Rapallo in 1920. It ran
+                  across the peaks of Peč, Jalovec, Triglav, Možic, Porezen, Blegoš, Črni Vrh nad
+                  Cerknim, Bevki, Hotedršica, Planina, Javornik, Biška gora, Griž-Snežnik, Kastav
+                  and then east of Matulji towards the sea. The occupation changed its function.
+                  From Mount Peč to the settlement of Spodnji Vrsnik the former Rapallo border
+                  became the border between the Kingdom of Italy and the German Occupation Zone.
+                  Then it forked at boundary marker No. 40 – which became a tripoint boundary
+                  marker. The former Rapallo border from Spodnji Vrsnik towards Hotedršica
+                  demarcated the territory of the Kingdom of Italy and its occupied zone called the
+                  Province of Ljubljana. The second branch, which demarcated the German-occupied
+                  territory and the Province of Ljubljana, descended from the tripoint boundary
+                  marker towards Brekovice, then ascended towards Opale and continued along the
+                  Račeva – Lesec – Podlesec – Žirovski vrh – Suhi Dol line towards Planina nad
+                  Horjulom and Polhograjsko hribovje.</p>
+               <p>After the border had been fixed, it was marked in the field. No major works were
+                  required at the old Rapallo border, but the new border had to be fortified and
+                  guarded. Barbed wire was placed along the borderline, while the zone near the
+                  border was mined. In order to control the border, the occupier thinned much of the
+                  forest, demolished certain outbuildings and residential buildings, and built
+                  various facilities, e.g. watchtowers, in important locations. The German and
+                  Italian occupiers ensured additional control of the border with units stationed at
+                  the border that performed regular patrols. The border therefore became difficult
+                  to cross and the border population had to resort to illegal methods of crossing
+                  it. This changed after Italy had capitulated and the Germans had taken control of
+                  its occupied territory, because the border became yesterday’s news. For its own
+                  needs, the German Army dug up the mines placed along traffic roads and meadows,
+                  and in some places also removed the wire. The borderland was not thoroughly
+                  cleared until the end of World War II.</p>
+               <figure xml:id="orbit-11-en" rend="orbit">
+                  <figure xml:id="figure-61-en" n="61">
+                     <head>With his commemorative collection, Milan Košir from Črni Vrh above Polhov
+                        Gradec is preserving the memory of the occupation border which ran across
+                        the Polhov Gradec hills. Author: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano11-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-62-en" n="62">
+                     <head>Preliminary microstudy of a section of the border between Italy and
+                        Germany at the Polhov Gradec Dolomites (vicinity of Ljubljana), marking the
+                        locations of buildings that had been torn town because of the new border
+                        zone and the locations of fatalities among the local population because of
+                        the mining of the border zone. Source: private archive of Milan
+                        Košir.</head>
+                     <graphic url="Pictures/Meje-pano11-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-63-en" n="63">
+                     <head>Researchers (from left to right: dr. Matija Zorn, Maruša Nartnik, dr.
+                        Božo Repe, dr. Bojan Balkovec, dr. Božidar Flajšman, dr. Peter Mikša in dr.
+                        Borče Ilievski) at the boundary marker beneath the homestead Domačija
+                        Pr’Mahačk near the hill Polhograjska Grmada. Author: Božidar
+                        Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano11-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-64-en" n="64">
+                     <head>Soldiers and civilians at the border. Source: private archive of Milan
+                        Košir.</head>
+                     <graphic url="Pictures/Meje-pano11-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-65-en" n="57">
+                     <head>Remains of a German watchtower on Goljek, a hill 809 metres high above
+                        the village of Topol (Sveta Katarina) above Ljubljana. Source: Author: Peter
+                        Mikša.</head>
+                     <graphic url="Pictures/Meje-pano11-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-66-en" n="66">
+                     <head>A memorial for all the victims of the inter-war border between Italy and
+                        Germany at Medvedov maln (between Planina, Butajnova and Zalog. Author:
+                        Peter Mikša.</head>
+                     <graphic url="Pictures/Meje-pano11-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano11-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="ch12" xml:lang="sl" corresp="#en-ch12">
+               <head>Tromeje</head>
+               <p>Druga svetovna vojna je na slovenskem ozemlju vzpostavila štiri tromejne točke, ki
+                  so bile zaznamovane tako na zemljevidih kot na terenu. Tromeji na Spodnjem Vrsniku
+                  v bližini Žirov in v današnji hrvaški občini Svibovac Podravski v bližini Središča
+                  ob Dravi sta bili novi, medtem ko sta bili tromejni točki na Peči pri Ratečah na
+                  Gorenjskem ter pri Gadovi Peči v današnji brežiški občini že stari administrativni
+                  in mednarodni točki razmejitve.</p>
+               <p>Tromeja pri vasi Brvi pod Gadovo Pečjo je bila stara administrativna meja v času
+                  Habsburške monarhije, saj je delila avstrijsko in ogrsko polovico cesarstva. V
+                  času med letoma 1941 in 1943 pa je bila to meja med tretjim rajhom, italijanskim
+                  okupacijskim ozemljem ter Neodvisno državo Hrvaško (NDH). Tromeja je posegla
+                  globoko na ozemlje nekdanje Kranjske, kljub temu pa je bil mejni kamen, ki je
+                  označeval tromejo, star avstrijski. Tega je raziskovalna skupina na podlagi
+                  natančnih izračunov našla, ga izkopala in primerno označila.</p>
+               <p>Na vzhodu je druga tromejna točka južno od Središča ob Dravi označevala stičišče
+                  med okupacijskimi ozemlji tretjega rajha, Madžarske ter NDH. Točka tromeje je bila
+                  s časom pozabljena, a jo je raziskovalna skupina ponovno odkrila na podlagi
+                  izračunov, ki smo jih dobili s primerjavo zemljevidov iz druge svetovne vojne z
+                  novimi in katerih odstopanja so mogoča le za 25 metrov. Tromejna točka se danes
+                  nahaja v Republiki Hrvaški, v občini Svibovac Podravski. Zanimivo pa je, da je v
+                  tem delu madžarsko okupacijsko ozemlje seglo preko reke Drave.</p>
+               <p>Rapalska meja je sekala slovensko etnično ozemlje na dva dela vse od prve svetovne
+                  vojne. Torej so bile vse mejne točke prvotno bilateralne. Z izbruhom vojne pa je
+                  Italija okupirala še dodaten del slovenskega ozemlja, t. i. Ljubljansko pokrajino.
+                  Tukajšnja administracija se je razlikovala od priključenih ozemelj onkraj rapalske
+                  meje. Razlika med tema dvema ozemljema je botrovala k temu, da je rapalski mejni
+                  kamen številka 40 postal tromejni kamen med nemškim rajhom, Kraljevino Italijo in
+                  italijanskim okupacijskim ozemljem – Ljubljansko pokrajino. Kamen se je nahajal v
+                  vasi Spodnji Vrsnik v bližini Žirov.</p>
+               <p>Četrta mejna točka se je nahajala na Peči pri Ratečah, kjer je tromeja še danes.
+                  Vse do prve svetovne vojne je bila to deželna tromeja, nato pa je postala
+                  stičiščna točka treh držav. Izjema je le obdobje med drugo svetovno vojno, ko je
+                  ta točka razmejevala Kraljevino Italijo, nemški rajh in nemško okupacijsko območje
+                  Spodnja Koroška. Tu je torej stala začetna točka tistega dela rapalske meje, ki se
+                  je med drugo svetovno vojno preoblikoval v državno mejo med Italijo in Nemčijo in
+                  se je zaključila z zgoraj omenjeno tromejno točko pri Spodnjem Vrsniku.</p>
+               <figure xml:id="orbit-12" rend="orbit">
+                  <figure xml:id="figure-67" n="67">
+                     <head>Del raziskovalne ekipe (dr. Matija Zorn, dr. Božidar Flajšman, dr. Božo
+                        Repe, dr. Peter Mikša) je 16. novembra 2017 v družbi Lojzeta Štiha in Ivana
+                        Petrišiča, predsednika in podpredsednika ZZB NOB Krško, v odročnem predelu
+                        občine Brežice pri Gadovi Peči odkril zakopan mejni kamen na tromeji med
+                        Nemčijo, Italijo in Neodvisno državo Hrvaško. Avtor fotografije: Božidar
+                        Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano12-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-68" n="68">
+                     <head>Na fotografiji raziskovalna skupina (z leve: dr. Božidar Flajšman, dr.
+                        Darja Kerec, dr. Božo Repe, dr. Peter Mikša in dr. Kornelija Ajlec) markira
+                        tromejno točko z improviziranim napisom. Na zaraščenem desnem bregu reke
+                        Drave, južno od Središča ob Dravi na današnji hrvaški strani, je
+                        raziskovalna ekipa 13. aprila 2018 označila tromejno točko med Nemčijo,
+                        Madžarsko in Neodvisno državo Hrvaško. Danes na tem poplavnem, blatnem in
+                        zaraščenem predelu ni mogoče najti fizičnih preostankov nekdanje državne
+                        meje. Avtor fotografije: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano12-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-69" n="69">
+                     <head>Na Spodnjem Vrstniku je mejni kamen Rapalske meje št. 40 v času druge
+                        svetovne vojne postal točka tromeje med Nemčijo, Kraljevino Italijo in
+                        Ljubljansko pokrajino, novim italijanskim okupacijskim ozemljem. Danes se ta
+                        kamen nahaja v Mestnem muzeju Idrija. Avtor fotografije: Darko Viler, Mestni
+                        muzej Idrija.</head>
+                     <graphic url="Pictures/Meje-pano12-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-70" n="70">
+                     <head>Tromeje na Slovenskem med 2. svetovno vojno.</head>
+                     <graphic url="Pictures/Meje-pano12-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-71" n="71">
+                     <head>Današnja tromeja med Avstrijo, Italijo in Slovenijo je bila v času druge
+                        svetovne vojne tromeja med Kraljevino Italijo, nemškim rajhom in nemškim
+                        okupacijskim ozemljem Spodnja Koroška. Obeležje iz tistega časa žal ni bilo
+                        evidentirano, v uvid pa se nam ponuja tromejnik iz leta 1939, ko ga je
+                        obiskal jugoslovanski mladoletni kralj Peter II. Karađorđević. Fotografijo
+                        hrani Nani Poljanec/Ljudski muzej Rogaška Slatina.</head>
+                     <graphic url="Pictures/Meje-pano12-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-72" n="72">
+                     <head>Dr. Božo Repe, dr. Darja Kerec, dr. Božidar Flajšman, dr. Kornelija Ajlec
+                        in dr. Peter Mikša pri današnjem tromejnem kamnu med Madžarsko, Slovenijo in
+                        Hrvaško. Avtor fotografije: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano12-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-ch12" xml:lang="en" corresp="#ch12">
+               <head>Tripoints</head>
+               <p>World War II established four tripoints on Slovene territory, which were marked on
+                  maps and in the field. The tripoints in Spodnji Vrsnik near Žiri and in the
+                  present-day Croatian Municipality of Svibovec Podravski near Središče ob Dravi
+                  were new, while the tripoint at Peč near Rateče in the Gorenjska region and the
+                  one at Gadova Peč in the present- day Municipality of Brežice were old
+                  administrative and international boundary points.</p>
+               <p>The tripoint at the village of Brvi beneath Gadova Peč was the old administrative
+                  border of the Habsburg Monarchy, separating the Austrian from the Hungarian half
+                  of the empire. Between 1941 and 1943, it served as the border between the Third
+                  Reich, the Italian Occupation Zone and the NDH. This tripoint reached deeply into
+                  the territory of the former Carniola, yet the boundary marker that marked the
+                  tripoint was an old Austrian one. The research team found it with the help of
+                  precise calculations, dug it up, and properly marked it.</p>
+               <p>The second tripoint of the Eastern side of Slovenia, south of Središče ob Dravi
+                  marked the junction between the occupation zones of the Third Reich, Hungary, and
+                  the NDH. The tripoint’s location was forgotten through time, but the research team
+                  rediscovered it using the calculations obtained by comparing the maps from the
+                  World War II with new ones, which deviate by no more than 25 metres. Today, the
+                  tripoint is located in the Republic of Croatia, in the Municipality of Svibovac
+                  Podravski. Interestingly, in this area the Hungarian Occupation Zone reached
+                  across the Drava River.</p>
+               <p>Ever since World War I, the Rapallo border had cut Slovene ethnic territory in
+                  two. Consequently, all of the border points were originally bilateral. When the
+                  war broke out, Italy occupied another part of Slovene territory, the so-called
+                  Province of Ljubljana. Its administration differed from that of the annexed
+                  territories beyond the Rapallo border. The difference between these two
+                  territories resulted in the fact that the Rapallo boundary marker No. 40 became a
+                  tripoint marker between the German Reich, the Kingdom of Italy and the Italian
+                  Occupation Zone – the Province of Ljubljana. The marker was located in the village
+                  of Spodnji Vrsnik near Žiri.</p>
+               <p>The fourth tripoint was located at Mount Peč near Rateče, where it still exists
+                  today. It had been a provincial tripoint until World War I, and later became a
+                  junction point between three countries. The only exception was the period during
+                  World War II when this point demarcated the Kingdom of Italy, the German Reich and
+                  the German Occupation Zone of Lower Carinthia. This was therefore the starting
+                  point of the part of the Rapallo border that was transformed into the state border
+                  between Italy and Germany during World War II, and which ended with the
+                  above-mentioned tripoint in Spodnji Vrsnik.</p>
+               <figure xml:id="orbit-12-en" rend="orbit">
+                  <figure xml:id="figure-67-en" n="67">
+                     <head>On 16 November 2017, a part of the research team (dr. Matija Zorn, dr.
+                        Božidar Flajšman, dr. Božo Repe, dr. Peter Mikša), accompanied by Lojze Štih
+                        and Ivan Petrišič, the president and vice-president of ZZB NOB Krško,
+                        discovered a buried boundary marker in a remote area of the Municipality of
+                        Brežice near Gadova Peč, at the tripoint between Germany, Italy and the
+                        Independent State of Croatia. Author: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano12-image1-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image1-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image1-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-68-en" n="68">
+                     <head>The photograph shows the research team (from left to right: dr. Božidar
+                        Flajšman, dr. Darja Kerec, dr. Božo Repe, dr. Peter Mikša in dr. Kornelija
+                        Ajlec) marking the tripoint with an improvised inscription. On 13 April
+                        2018, the research team marked a tripoint between Germany, Hungary and the
+                        Independent State of Croatia on the over grown right bank of the Drava
+                        River, south of Središče ob Dravi on today’s Croatian side. No physical
+                        remains of the former state border can be found in this flooded, muddy
+                        region, rich in vegetation. Author: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano12-image2-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image2-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image2-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-69-en" n="69">
+                     <head>During World War II, boundary marker No. 40 of the Rapallo border in
+                        Spodnji Vrsnik became a tripoint marker between Germany, the Kingdom of
+                        Italy and the Province of Ljubljana, Italy's new occupation zone. Today this
+                        marker is kept by the museum Mestni muzej Idrija. Source: Idrija Municipal
+                        Museum, Author: Darko Viler.</head>
+                     <graphic url="Pictures/Meje-pano12-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image3-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-70-en" n="70">
+                     <head>A map of tripoints in Slovenia during World War II.</head>
+                     <graphic url="Pictures/Meje-pano12-image4-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image4-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image4-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-71-en" n="71">
+                     <head>During World War II, the present-day tripoint between Austria, Italy and
+                        Slovenia was the tripoint between the Kingdom of Italy, the German Reich and
+                        the German Occupation Zone of Lower Carinthia. Unfortunately, the monument
+                        from those times has not been recorded, but we can see the tripoint marker
+                        from 1939 when it was visited by the underage King of Yugoslavia Peter II
+                        Karađorđević. Source: Nani Poljanec, Ljudski muzej Rogaška Slatina/Rogaška
+                        Slatina Folk Museum.</head>
+                     <graphic url="Pictures/Meje-pano12-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image5-thumb.jpg"/>
+                  </figure>
+                  <figure xml:id="figure-72-en" n="72">
+                     <head>Dr. Božo Repe, dr. Darja Kerec, dr. Božidar Flajšman, dr. Kornelija Ajlec
+                        and dr. Peter Mikša at the present-day tripoint marker between Hungary,
+                        Slovenia and Croatia. Author: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano12-image6-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image6-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano12-image6-thumb.jpg"/>
+                  </figure>
+               </figure>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
