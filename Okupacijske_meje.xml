@@ -47,7 +47,7 @@
       <body>
          <div type="part" xml:id="exhibition01">
             <head>Mejni kamni, bodeča žica, stražni stolpi in minska polja</head>
-            <div type="chapter" xml:id="exh01-ch01" xml:lang="sl" corresp="#en-ch01">
+            <div type="chapter" xml:id="exh01-ch01" xml:lang="sl" corresp="#exh-en-ch01">
                <head>Napravite mi to deželo nemško … italijansko … madžarsko … hrvaško! Vloga
                   okupacijskih meja v raznarodovalni politiki in življenju slovenskega
                   prebivalstva</head>
@@ -146,7 +146,7 @@
                   <p>Originalni opis slike</p>
                </div>
             </div>
-            <div type="chapter" xml:id="en-ch01" xml:lang="en" corresp="#ch01">
+            <div type="chapter" xml:id="exh01-en-ch01" xml:lang="en" corresp="#exh01-ch01">
                <head>Make This Country German ... Italian ... Hungarian ... Croatian! Role of
                   Occupation Borders in the Denationalisation Policy and in the Lives of Slovene
                   Population</head>
@@ -234,7 +234,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="ch02" xml:lang="sl" corresp="#en-ch02">
+            <div type="chapter" xml:id="exh-ch02" xml:lang="sl" corresp="#exh-en-ch02">
                <head>Okupacija Slovenije leta 1941</head>
                <p>Nacistična Nemčija: svoj del zasedenega slovenskega ozemlja je razdelila na dve
                   začasni upravni enoti: Spodnjo Štajersko ter Gorenjsko z Mežiško dolino. Sedeža
@@ -315,7 +315,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="en-ch02" xml:lang="en" corresp="#ch02">
+            <div type="chapter" xml:id="exh-en-ch02" xml:lang="en" corresp="#exh-ch02">
                <head>Occupation of Slovenia in 1941</head>
                <p>Nazi Germany: Germany divided the Slovene territory it had occupied into two
                   temporary administrative units: Spodnja Štajerska and Gorenjska with Mežiška
@@ -404,7 +404,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="ch03" xml:lang="sl" corresp="#en-ch03">
+            <div type="chapter" xml:id="exh-ch03" xml:lang="sl" corresp="#exh-en-ch03">
                <head>Mejna območja in značilnosti okupacijske meje na Slovenskem</head>
                <p>Z zasedbo slovenskega etničnega ozemlja je bilo leta 1941 na Slovenskem pet
                   različnih mejnih območij in meja. Te so bile: meja med Nemčijo in Madžarsko, meja
@@ -454,15 +454,7 @@
                      <graphic url="Pictures/Meje-pano3-image2-slide.jpg"/>
                      <graphic url="Pictures/Meje-pano3-image2-thumb.jpg"/>
                   </figure>
-                  <figure xml:id="figure-15" n="15">
-                     <head>Betonski ostanki temeljev nemških stražnih stolpov na Toškem čelu pri
-                        Ljubljani in del ekipe projekta (z leve) dr. Peter Mikša, dr. Božidar
-                        Flajšman, dr. Bojan Balkovec in dr. Božo Repe. Avtor fotografije: Božidar
-                        Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano3-image3-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano3-image3-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano3-image3-thumb.jpg"/>
-                  </figure>
+                  
                   <figure xml:id="figure-16" n="16">
                      <head>Mejni kamen med Neodvisno državo Hrvaško in Nemčijo pri Novi vasi. Avtor
                         fotografije: Matija Zorn.</head>
@@ -470,13 +462,7 @@
                      <graphic url="Pictures/Meje-pano3-image4-slide.jpg"/>
                      <graphic url="Pictures/Meje-pano3-image4-thumb.jpg"/>
                   </figure>
-                  <figure xml:id="figure-17" n="17">
-                     <head>Dr. Peter Mikša in dr. Bojan Balkovec pri meritvah mejnega kamna. Avtor
-                        fotografije: Božidar Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano3-image5-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano3-image5-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano3-image5-thumb.jpg"/>
-                  </figure>
+                  
                   <figure xml:id="figure-18" n="18">
                      <head>Tromejni kamen med Nemčijo, Italijo in NDH, ki ga je odkrila raziskovalna
                         ekipa projekta “Okupacijske meje”. Meje so tu potekale v glavnem po nekdanji
@@ -489,8 +475,24 @@
                      <graphic url="Pictures/Meje-pano3-image6-thumb.jpg"/>
                   </figure>
                </figure>
+               <div type="research">
+                     <figure xml:id="figure-15" n="15">
+                     <p>Betonski ostanki temeljev nemških stražnih stolpov na Toškem čelu pri
+                        Ljubljani in del ekipe projekta (z leve) dr. Peter Mikša, dr. Božidar
+                        Flajšman, dr. Bojan Balkovec in dr. Božo Repe. Avtor fotografije: Božidar
+                        Flajšman.</p>
+                     <graphic url="Pictures/Meje-pano3-image3-normal.jpg"/>                     
+                  </figure>
+               </div>
+               <div type="research">
+                  <figure xml:id="figure-17" n="17">                     
+                     <graphic url="Pictures/Meje-pano3-image5-normal.jpg"/>
+                     <p>Dr. Peter Mikša in dr. Bojan Balkovec pri meritvah mejnega kamna. Avtor
+                        fotografije: Božidar Flajšman.</p>
+                  </figure>
+               </div>
             </div>
-            <div type="chapter" xml:id="en-ch03" xml:lang="en" corresp="#ch03">
+            <div type="chapter" xml:id="exh-en-ch03" xml:lang="en" corresp="#exh-ch03">
                <head>Borderlands and Characteristics of the Occupation Border in Slovenia</head>
                <p>The occupation of Slovene ethnic territory in 1941 created five different
                   borderlands and borders in Slovenia. These were: the border between Germany and
@@ -543,30 +545,14 @@
                      <graphic url="Pictures/Meje-pano3-image2-normal.jpg"/>
                      <graphic url="Pictures/Meje-pano3-image2-slide.jpg"/>
                      <graphic url="Pictures/Meje-pano3-image2-thumb.jpg"/>
-                  </figure>
-                  <figure xml:id="figure-15-en" n="15">
-                     <head>Concrete remains of the foundations of German watchtowers on the hill
-                        Toško čelo near Ljubljana and a part of the project team (from left) dr.
-                        Peter Mikša, dr. Božidar Flajšman, dr. Bojan Balkovec and dr. Božo Repe at
-                        the concrete foundation of a watchtower. Author: Božidar Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano3-image3-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano3-image3-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano3-image3-thumb.jpg"/>
-                  </figure>
+                  </figure>                  
                   <figure xml:id="figure-16-en" n="16">
                      <head>A boundary marker between the Independent State of Croatia and Germany at
                         Nova vas. Author: Matija Zorn.</head>
                      <graphic url="Pictures/Meje-pano3-image4-normal.jpg"/>
                      <graphic url="Pictures/Meje-pano3-image4-slide.jpg"/>
                      <graphic url="Pictures/Meje-pano3-image4-thumb.jpg"/>
-                  </figure>
-                  <figure xml:id="figure-17-en" n="17">
-                     <head>Dr. Peter Mikša and dr. Bojan Balkovec measuring the boundary marker.
-                        Author: Božidar Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano3-image5-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano3-image5-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano3-image5-thumb.jpg"/>
-                  </figure>
+                  </figure>                  
                   <figure xml:id="figure-18-en" n="18">
                      <head>A tripoint marker between Germany, Italy and the NDH discovered by the
                         project research team. In these parts, the borders mostly followed the
@@ -580,8 +566,28 @@
                      <graphic url="Pictures/Meje-pano3-image6-thumb.jpg"/>
                   </figure>
                </figure>
+               <div type="research">
+                  <figure xml:id="figure-15-en" n="15">
+                     <head>Concrete remains of the foundations of German watchtowers on the hill
+                        Toško čelo near Ljubljana and a part of the project team (from left) dr.
+                        Peter Mikša, dr. Božidar Flajšman, dr. Bojan Balkovec and dr. Božo Repe at
+                        the concrete foundation of a watchtower. Author: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano3-image3-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image3-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image3-thumb.jpg"/>
+                  </figure>
+               </div>
+               <div type="research">
+                  <figure xml:id="figure-17-en" n="17">
+                     <head>Dr. Peter Mikša and dr. Bojan Balkovec measuring the boundary marker.
+                        Author: Božidar Flajšman.</head>
+                     <graphic url="Pictures/Meje-pano3-image5-normal.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image5-slide.jpg"/>
+                     <graphic url="Pictures/Meje-pano3-image5-thumb.jpg"/>
+                  </figure>
+               </div>
             </div>
-            <div type="chapter" xml:id="ch04" xml:lang="sl" corresp="#en-ch04">
+            <div type="chapter" xml:id="exh-ch04" xml:lang="sl" corresp="#exh-en-ch04">
                <head>Diplomatsko določanje meja</head>
                <p>O razdelitvi slovenskega ozemlja med okupatorji ni bilo posebnih dogovarjanj ali
                   konferenc. Meje je okvirno določil Hitler 27. marca 1941, dokončno pa s
@@ -682,7 +688,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="en-ch04" xml:lang="en" corresp="#ch04">
+            <div type="chapter" xml:id="exh-en-ch04" xml:lang="en" corresp="#exh-ch04">
                <head>Diplomatic Demarcation of Borders</head>
                <p>No special negotiations or conferences were held regarding the division of Slovene
                   territory among the occupiers. The boundaries were roughly fixed by Hitler on 27
@@ -788,7 +794,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="ch05" xml:lang="sl" corresp="#en-ch05">
+            <div type="chapter" xml:id="exh-ch05" xml:lang="sl" corresp="#exh-en-ch05">
                <head>Meja med Nemčijo in NDH – južna meja rajha</head>
                <p>Meja med Nemčijo in NDH je bila dolga približno 100 km, večina mejne linije je
                   potekala po reki Sotli. Nova meja se je v glavnem skladala z narodnostno in staro
@@ -883,7 +889,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="en-ch05" xml:lang="en" corresp="#ch05">
+            <div type="chapter" xml:id="exh-en-ch05" xml:lang="en" corresp="#exh-ch05">
                <head>Border between Germany and the NDH – Reich’s Southern Border</head>
                <p>The border between Germany and the NDH was about 100km long; most of the
                   borderline ran along the Sotla River. For the most part, the new border matched
@@ -984,7 +990,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="ch06" xml:lang="sl" corresp="#en-ch06">
+            <div type="chapter" xml:id="exh-ch06" xml:lang="sl" corresp="#exh-en-ch06">
                <head>Okupacijska meja v Beli krajini 1941–1945</head>
                <p>Okupacijska meja med fašistično Italijo in Neodvisno državo Hrvaško (NDH) je v
                   Beli krajini potekala po meji sreza od Trdinovega vrha po grebenu
@@ -1036,27 +1042,7 @@
                      <graphic url="Pictures/Meje-pano6-image2-slide.jpg"/>
                      <graphic url="Pictures/Meje-pano6-image2-thumb.jpg"/>
                   </figure>
-                  <figure xml:id="figure-33" n="33">
-                     <head>Izjava preloškega župnika Jožeta Pokorna: »Dekleta, zdaj so v Preloki
-                        tuji ljudje, ki nosijo uniforme. Ako bo šla katera s temi fanti plesat, ali
-                        da bi se z njimi družila, ona ni vredna, da bi jo po vojni en slovenski fant
-                        povohal, ni vredna, da jo obsije slovensko sonce.« Marija Starešinič (roj.
-                        1925). Avtor intervjuja: Božidar Flajšman, avtor fotografije: Sonja
-                        Bezenšek, posnel na video: Danilo Orlič, Preloka, 23. september 2017.</head>
-                     <graphic url="Pictures/Meje-pano6-image3-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano6-image3-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano6-image3-thumb.jpg"/>
-                  </figure>
-                  <figure xml:id="figure-34" n="34">
-                     <head>»Bil pa je strah, da bi ustaši prišli. Ustaši so znali, da so bili
-                        Radatoviči opredeljeni za NOB, Žumberčani smo bili sovražniki NDH.« Gabre
-                        Bogdanovič (roj. 1922), Hrast pri Metliki, 29. junij 2017. Avtor intervjuja
-                        in fotografije: Božidar Flajšman, posnel na video: Danilo Orlič, Hrast pri
-                        Metliki, 29. junij 2017.</head>
-                     <graphic url="Pictures/Meje-pano6-image4-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano6-image4-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano6-image4-thumb.jpg"/>
-                  </figure>
+                                    
                   <figure xml:id="figure-35" n="35">
                      <head>Izrez iz italijanskega zemljevida o gradnji utrjene linije med Italijo in
                         NDH pri Metliki. Rumene pike označujejo že zgrajene betonske bunkerje pri
@@ -1075,8 +1061,29 @@
                      <graphic url="Pictures/Meje-pano6-image6-thumb.jpg"/>
                   </figure>
                </figure>
+               <div type="interview">
+                  <figure xml:id="figure-34" n="34">                     
+                     <graphic url="Pictures/Meje-pano6-image4-normal.jpg"/>
+                  </figure>
+                  <p>»Bil pa je strah, da bi ustaši prišli. Ustaši so znali, da so bili
+                        Radatoviči opredeljeni za NOB, Žumberčani smo bili sovražniki NDH.« Gabre
+                        Bogdanovič (roj. 1922), Hrast pri Metliki, 29. junij 2017. Avtor intervjuja
+                        in fotografije: Božidar Flajšman, posnel na video: Danilo Orlič, Hrast pri
+                        Metliki, 29. junij 2017.</p>
+               </div>
+               <div type="interview">
+                  <figure xml:id="figure-33" n="33">                     
+                     <graphic url="Pictures/Meje-pano6-image3-normal.jpg"/>
+                     <p>Izjava preloškega župnika Jožeta Pokorna: »Dekleta, zdaj so v Preloki
+                        tuji ljudje, ki nosijo uniforme. Ako bo šla katera s temi fanti plesat, ali
+                        da bi se z njimi družila, ona ni vredna, da bi jo po vojni en slovenski fant
+                        povohal, ni vredna, da jo obsije slovensko sonce.« Marija Starešinič (roj.
+                        1925). Avtor intervjuja: Božidar Flajšman, avtor fotografije: Sonja
+                        Bezenšek, posnel na video: Danilo Orlič, Preloka, 23. september 2017.</p>
+                  </figure>
+               </div>
             </div>
-            <div type="chapter" xml:id="en-ch06" xml:lang="en" corresp="#ch06">
+            <div type="chapter" xml:id="exh-en-ch06" xml:lang="en" corresp="#exh-ch06">
                <head>Occupation Border in Bela krajina 1941–1945</head>
                <p>In Bela krajina the occupier’s border between Fascist Italy and the Independent
                   State of Croatia (NDH) ran along the boundary of the srez (administrative unit)
@@ -1131,30 +1138,7 @@
                      <graphic url="Pictures/Meje-pano6-image2-normal.jpg"/>
                      <graphic url="Pictures/Meje-pano6-image2-slide.jpg"/>
                      <graphic url="Pictures/Meje-pano6-image2-thumb.jpg"/>
-                  </figure>
-                  <figure xml:id="figure-33-en" n="33">
-                     <head>“Girls, foreign men wearing uniforms have come to Preloka. If any of you
-                        will go dancing with these boys or spend time with them, then after the war
-                        you will not be worthy of the attention of a Slovene boy or to be warmed by
-                        the Slovene sun.” – a statement from the parish priest of Preloka Jože
-                        Pokorn. Marija Starešinič (born 1925). Interview by: Božidar Flajšman.
-                        Source of the photograph: project archive, Author: Sonja Bezenške, Video:
-                        Danilo Orlič. In Preloka, 23 September 2017.</head>
-                     <graphic url="Pictures/Meje-pano6-image3-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano6-image3-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano6-image3-thumb.jpg"/>
-                  </figure>
-                  <figure xml:id="figure-34-en" n="34">
-                     <head>“We were afraid that the Ustasha would come. The Ustasha knew that
-                        Radatovići had taken the side of the National Liberation Struggle, while we,
-                        the people of Žumberak, were enemies of the NDH.” Gabre Bogdanovič (born
-                        1922), Hrast near Metlika, 29 June 2017. Intervew by: Božidar Flajšman.
-                        Source: project archive, Author of photograph: Božidar Flajšman, Video:
-                        Danilo Orlič. In Hrast pri Metliki, 29 June 2017.</head>
-                     <graphic url="Pictures/Meje-pano6-image4-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano6-image4-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano6-image4-thumb.jpg"/>
-                  </figure>
+                  </figure> 
                   <figure xml:id="figure-35-en" n="35">
                      <head>Section of an Italian map on the construction of a fortified line between
                         Italy and the NDH at Metlika. The yellow dots mark the already built
@@ -1173,8 +1157,31 @@
                      <graphic url="Pictures/Meje-pano6-image6-thumb.jpg"/>
                   </figure>
                </figure>
+               <div type="interview">
+                  <figure xml:id="figure-33-en" n="33">
+                     <graphic url="Pictures/Meje-pano6-image3-normal.jpg"/>
+                     <p>“Girls, foreign men wearing uniforms have come to Preloka. If any of you
+                        will go dancing with these boys or spend time with them, then after the war
+                        you will not be worthy of the attention of a Slovene boy or to be warmed by
+                        the Slovene sun.” – a statement from the parish priest of Preloka Jože
+                        Pokorn. Marija Starešinič (born 1925). Interview by: Božidar Flajšman.
+                        Source of the photograph: project archive, Author: Sonja Bezenške, Video:
+                        Danilo Orlič. In Preloka, 23 September 2017.</p>                     
+                  </figure>
+               </div>
+               <div type="interview">
+                  <figure xml:id="figure-34-en" n="34">                     
+                     <graphic url="Pictures/Meje-pano6-image4-normal.jpg"/>
+                     <p>“We were afraid that the Ustasha would come. The Ustasha knew that
+                        Radatovići had taken the side of the National Liberation Struggle, while we,
+                        the people of Žumberak, were enemies of the NDH.” Gabre Bogdanovič (born
+                        1922), Hrast near Metlika, 29 June 2017. Intervew by: Božidar Flajšman.
+                        Source: project archive, Author of photograph: Božidar Flajšman, Video:
+                        Danilo Orlič. In Hrast pri Metliki, 29 June 2017.</p>
+                  </figure>
+               </div>
             </div>
-            <div type="chapter" xml:id="ch07" xml:lang="sl" corresp="#en-ch07">
+            <div type="chapter" xml:id="exh-ch07" xml:lang="sl" corresp="#exh-en-ch07">
                <head>Okupacijska meja med Nemčijo in Italijo na Dolenjskem</head>
                <p>Meja med Nemčijo in Ljubljansko pokrajino je tekla od vzhodnih ljubljanskih
                   predmestij proti jugovzhodu, severno od Stične, Šentruperta in Krmelja, mimo
@@ -1258,7 +1265,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="en-ch07" xml:lang="en" corresp="#ch07">
+            <div type="chapter" xml:id="exh-en-ch07" xml:lang="en" corresp="#exh-ch07">
                <head>Occupation Border between Germany and Italy in the Dolenjska Region</head>
                <p>The border between Germany and the Province of Ljubljana ran from the eastern
                   suburbs of Ljubljana towards the southeast, north of Stična, Šentrupert and
@@ -1350,7 +1357,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="ch08" xml:lang="sl" corresp="#en-ch08">
+            <div type="chapter" xml:id="exh-ch08" xml:lang="sl" corresp="#exh-en-ch08">
                <head>Okupacijska meja v visokogorju Julijskih Alp</head>
                <p>V visokogorju se je okupacijska meja med Italijo in Nemčijo oprla na medvojno
                   rapalsko mejo med Kraljevino Italijo in Kraljevino Jugoslavijo. Meja je potekala
@@ -1461,7 +1468,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="en-ch08" xml:lang="en" corresp="#ch08">
+            <div type="chapter" xml:id="exh-en-ch08" xml:lang="en" corresp="#exh-ch08">
                <head>Occupation Border in the High Mountain Range of the Julian Alps</head>
                <p>In the high mountain range, the occupation border between Italy and Germany was
                   based on the inter- war Rapallo border between the Kingdom of Italy and the
@@ -1556,7 +1563,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="ch09" xml:lang="sl" corresp="#en-ch09">
+            <div type="chapter" xml:id="exh-ch09" xml:lang="sl" corresp="#exh-en-ch09">
                <head>Ljubljana – obmejno mesto v žici</head>
                <p>Ljubljančane so 6. aprila 1941 presenetili zvoki siren ter letala, ki so
                   naznanjali začetek druge svetovne vojne na Slovenskem. Pet dni kasneje so v mesto
@@ -1675,7 +1682,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="en-ch09" xml:lang="en" corresp="#ch09">
+            <div type="chapter" xml:id="exh-en-ch09" xml:lang="en" corresp="#exh-ch09">
                <head>Ljubljana – Border City Enclosed by Wire</head>
                <p>On 6 April 1941, the people of Ljubljana were surprised by the sounds of sirens
                   and planes, which announced the start of World War II in Slovenia. Five days
@@ -1774,7 +1781,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="ch10" xml:lang="sl" corresp="#en-ch10">
+            <div type="chapter" xml:id="exh-ch10" xml:lang="sl" corresp="#exh-en-ch10">
                <head>Prekmurje med okupacijo</head>
                <p>Prekmurje so najprej zasedli Nemci in ga nato 16. aprila 1941 na svečanosti v
                   Murski Soboti predali Madžarom. Pod madžarsko okupacijo se je znašlo okoli 90.000
@@ -1865,7 +1872,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="en-ch10" xml:lang="en" corresp="#ch10">
+            <div type="chapter" xml:id="exh-en-ch10" xml:lang="en" corresp="#exh-ch10">
                <head>Prekmurje during Occupation</head>
                <p>Prekmurje was occupied at first by Germans who then turned it over to Hungarians
                   on 16 April 1941 at a ceremony in Murska Sobota. Around 90,000 inhabitants came
@@ -1962,7 +1969,7 @@
                   </figure>
                </figure>
             </div>
-            <div type="chapter" xml:id="ch11" xml:lang="sl" corresp="#en-ch11">
+            <div type="chapter" xml:id="exh-ch11" xml:lang="sl" corresp="#exh-en-ch11">
                <head>Preko Polhograjskega hribovja do Ljubljane</head>
                <p>Delitev ozemlja med okupatorji je povzročila, da je tudi v notranjost slovenskega
                   ozemlja zarezala meja. Njen dobršen del je potekal po nekdanji rapalski meji, ki
@@ -2011,15 +2018,7 @@
                      <graphic url="Pictures/Meje-pano11-image2-slide.jpg"/>
                      <graphic url="Pictures/Meje-pano11-image2-thumb.jpg"/>
                   </figure>
-                  <figure xml:id="figure-63" n="63">
-                     <head>Raziskovalci (od leve: dr. Matija Zorn, Maruša Nartnik, dr. Božo Repe,
-                        dr. Bojan Balkovec, dr. Božidar Flajšman, dr. Peter Mikša in dr. Bor - če
-                        Ilievski) pri mejnem kamnu pod Domačijo Pr’Mahačk v bližini Polhograjske
-                        Grmade. Avtor fotografije: Božidar Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano11-image3-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano11-image3-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano11-image3-thumb.jpg"/>
-                  </figure>
+                  
                   <figure xml:id="figure-64" n="64">
                      <head>Vojaki in civilisti ob meji. Fotografijo hrani Milan Košir.</head>
                      <graphic url="Pictures/Meje-pano11-image4-normal.jpg"/>
@@ -2043,8 +2042,17 @@
                      <graphic url="Pictures/Meje-pano11-image6-thumb.jpg"/>
                   </figure>
                </figure>
+               <div type="research">
+                  <figure xml:id="figure-63" n="63">                     
+                     <graphic url="Pictures/Meje-pano11-image3-normal.jpg"/>
+                     <p>Raziskovalci (od leve: dr. Matija Zorn, Maruša Nartnik, dr. Božo Repe,
+                        dr. Bojan Balkovec, dr. Božidar Flajšman, dr. Peter Mikša in dr. Bor - če
+                        Ilievski) pri mejnem kamnu pod Domačijo Pr’Mahačk v bližini Polhograjske
+                        Grmade. Avtor fotografije: Božidar Flajšman.</p>
+                  </figure>
+               </div>
             </div>
-            <div type="chapter" xml:id="en-ch11" xml:lang="en" corresp="#ch11">
+            <div type="chapter" xml:id="exh-en-ch11" xml:lang="en" corresp="#exh-ch11">
                <head>Over Polhov Gradec Hills to Ljubljana</head>
                <p>When the territory was divided among the occupiers, the border cut into the
                   interior of Slovene territory. The better part of the border ran along the former
@@ -2095,17 +2103,7 @@
                      <graphic url="Pictures/Meje-pano11-image2-normal.jpg"/>
                      <graphic url="Pictures/Meje-pano11-image2-slide.jpg"/>
                      <graphic url="Pictures/Meje-pano11-image2-thumb.jpg"/>
-                  </figure>
-                  <figure xml:id="figure-63-en" n="63">
-                     <head>Researchers (from left to right: dr. Matija Zorn, Maruša Nartnik, dr.
-                        Božo Repe, dr. Bojan Balkovec, dr. Božidar Flajšman, dr. Peter Mikša in dr.
-                        Borče Ilievski) at the boundary marker beneath the homestead Domačija
-                        Pr’Mahačk near the hill Polhograjska Grmada. Author: Božidar
-                        Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano11-image3-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano11-image3-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano11-image3-thumb.jpg"/>
-                  </figure>
+                  </figure>                  
                   <figure xml:id="figure-64-en" n="64">
                      <head>Soldiers and civilians at the border. Source: private archive of Milan
                         Košir.</head>
@@ -2130,8 +2128,18 @@
                      <graphic url="Pictures/Meje-pano11-image6-thumb.jpg"/>
                   </figure>
                </figure>
+               <div type="research">
+                  <figure xml:id="figure-63-en" n="63">                     
+                     <graphic url="Pictures/Meje-pano11-image3-normal.jpg"/>
+                     <p>Researchers (from left to right: dr. Matija Zorn, Maruša Nartnik, dr.
+                        Božo Repe, dr. Bojan Balkovec, dr. Božidar Flajšman, dr. Peter Mikša in dr.
+                        Borče Ilievski) at the boundary marker beneath the homestead Domačija
+                        Pr’Mahačk near the hill Polhograjska Grmada. Author: Božidar
+                        Flajšman.</p>
+                  </figure>
+               </div>
             </div>
-            <div type="chapter" xml:id="ch12" xml:lang="sl" corresp="#en-ch12">
+            <div type="chapter" xml:id="exh-ch12" xml:lang="sl" corresp="#exh-en-ch12">
                <head>Tromeje</head>
                <p>Druga svetovna vojna je na slovenskem ozemlju vzpostavila štiri tromejne točke, ki
                   so bile zaznamovane tako na zemljevidih kot na terenu. Tromeji na Spodnjem Vrsniku
@@ -2169,30 +2177,8 @@
                   je med drugo svetovno vojno preoblikoval v državno mejo med Italijo in Nemčijo in
                   se je zaključila z zgoraj omenjeno tromejno točko pri Spodnjem Vrsniku.</p>
                <figure xml:id="orbit-12" rend="orbit">
-                  <figure xml:id="figure-67" n="67">
-                     <head>Del raziskovalne ekipe (dr. Matija Zorn, dr. Božidar Flajšman, dr. Božo
-                        Repe, dr. Peter Mikša) je 16. novembra 2017 v družbi Lojzeta Štiha in Ivana
-                        Petrišiča, predsednika in podpredsednika ZZB NOB Krško, v odročnem predelu
-                        občine Brežice pri Gadovi Peči odkril zakopan mejni kamen na tromeji med
-                        Nemčijo, Italijo in Neodvisno državo Hrvaško. Avtor fotografije: Božidar
-                        Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano12-image1-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image1-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image1-thumb.jpg"/>
-                  </figure>
-                  <figure xml:id="figure-68" n="68">
-                     <head>Na fotografiji raziskovalna skupina (z leve: dr. Božidar Flajšman, dr.
-                        Darja Kerec, dr. Božo Repe, dr. Peter Mikša in dr. Kornelija Ajlec) markira
-                        tromejno točko z improviziranim napisom. Na zaraščenem desnem bregu reke
-                        Drave, južno od Središča ob Dravi na današnji hrvaški strani, je
-                        raziskovalna ekipa 13. aprila 2018 označila tromejno točko med Nemčijo,
-                        Madžarsko in Neodvisno državo Hrvaško. Danes na tem poplavnem, blatnem in
-                        zaraščenem predelu ni mogoče najti fizičnih preostankov nekdanje državne
-                        meje. Avtor fotografije: Božidar Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano12-image2-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image2-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image2-thumb.jpg"/>
-                  </figure>
+                  
+                  
                   <figure xml:id="figure-69" n="69">
                      <head>Na Spodnjem Vrstniku je mejni kamen Rapalske meje št. 40 v času druge
                         svetovne vojne postal točka tromeje med Nemčijo, Kraljevino Italijo in
@@ -2220,17 +2206,42 @@
                      <graphic url="Pictures/Meje-pano12-image5-slide.jpg"/>
                      <graphic url="Pictures/Meje-pano12-image5-thumb.jpg"/>
                   </figure>
-                  <figure xml:id="figure-72" n="72">
-                     <head>Dr. Božo Repe, dr. Darja Kerec, dr. Božidar Flajšman, dr. Kornelija Ajlec
-                        in dr. Peter Mikša pri današnjem tromejnem kamnu med Madžarsko, Slovenijo in
-                        Hrvaško. Avtor fotografije: Božidar Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano12-image6-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image6-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image6-thumb.jpg"/>
-                  </figure>
+                  
                </figure>
+               <div type="research">
+                  <figure xml:id="figure-67" n="67">
+                     <graphic url="Pictures/Meje-pano12-image1-normal.jpg"/>
+                     <p>Del raziskovalne ekipe (dr. Matija Zorn, dr. Božidar Flajšman, dr. Božo
+                        Repe, dr. Peter Mikša) je 16. novembra 2017 v družbi Lojzeta Štiha in Ivana
+                        Petrišiča, predsednika in podpredsednika ZZB NOB Krško, v odročnem predelu
+                        občine Brežice pri Gadovi Peči odkril zakopan mejni kamen na tromeji med
+                        Nemčijo, Italijo in Neodvisno državo Hrvaško. Avtor fotografije: Božidar
+                        Flajšman.</p>
+                  </figure>
+               </div>
+               <div type="research">
+                  <figure xml:id="figure-68" n="68">
+                     <graphic url="Pictures/Meje-pano12-image2-normal.jpg"/>
+                     <p>Na fotografiji raziskovalna skupina (z leve: dr. Božidar Flajšman, dr.
+                        Darja Kerec, dr. Božo Repe, dr. Peter Mikša in dr. Kornelija Ajlec) markira
+                        tromejno točko z improviziranim napisom. Na zaraščenem desnem bregu reke
+                        Drave, južno od Središča ob Dravi na današnji hrvaški strani, je
+                        raziskovalna ekipa 13. aprila 2018 označila tromejno točko med Nemčijo,
+                        Madžarsko in Neodvisno državo Hrvaško. Danes na tem poplavnem, blatnem in
+                        zaraščenem predelu ni mogoče najti fizičnih preostankov nekdanje državne
+                        meje. Avtor fotografije: Božidar Flajšman.</p>
+                  </figure>
+               </div>
+               <div type="research">
+                  <figure xml:id="figure-72" n="72">
+                     <graphic url="Pictures/Meje-pano12-image6-normal.jpg"/>
+                     <p>Dr. Božo Repe, dr. Darja Kerec, dr. Božidar Flajšman, dr. Kornelija Ajlec
+                        in dr. Peter Mikša pri današnjem tromejnem kamnu med Madžarsko, Slovenijo in
+                        Hrvaško. Avtor fotografije: Božidar Flajšman.</p>
+                  </figure>
+               </div>
             </div>
-            <div type="chapter" xml:id="en-ch12" xml:lang="en" corresp="#ch12">
+            <div type="chapter" xml:id="exh-en-ch12" xml:lang="en" corresp="#exh-ch12">
                <head>Tripoints</head>
                <p>World War II established four tripoints on Slovene territory, which were marked on
                   maps and in the field. The tripoints in Spodnji Vrsnik near Žiri and in the
@@ -2270,31 +2281,7 @@
                   point of the part of the Rapallo border that was transformed into the state border
                   between Italy and Germany during World War II, and which ended with the
                   above-mentioned tripoint in Spodnji Vrsnik.</p>
-               <figure xml:id="orbit-12-en" rend="orbit">
-                  <figure xml:id="figure-67-en" n="67">
-                     <head>On 16 November 2017, a part of the research team (dr. Matija Zorn, dr.
-                        Božidar Flajšman, dr. Božo Repe, dr. Peter Mikša), accompanied by Lojze Štih
-                        and Ivan Petrišič, the president and vice-president of ZZB NOB Krško,
-                        discovered a buried boundary marker in a remote area of the Municipality of
-                        Brežice near Gadova Peč, at the tripoint between Germany, Italy and the
-                        Independent State of Croatia. Author: Božidar Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano12-image1-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image1-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image1-thumb.jpg"/>
-                  </figure>
-                  <figure xml:id="figure-68-en" n="68">
-                     <head>The photograph shows the research team (from left to right: dr. Božidar
-                        Flajšman, dr. Darja Kerec, dr. Božo Repe, dr. Peter Mikša in dr. Kornelija
-                        Ajlec) marking the tripoint with an improvised inscription. On 13 April
-                        2018, the research team marked a tripoint between Germany, Hungary and the
-                        Independent State of Croatia on the over grown right bank of the Drava
-                        River, south of Središče ob Dravi on today’s Croatian side. No physical
-                        remains of the former state border can be found in this flooded, muddy
-                        region, rich in vegetation. Author: Božidar Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano12-image2-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image2-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image2-thumb.jpg"/>
-                  </figure>
+               <figure xml:id="orbit-12-en" rend="orbit">    
                   <figure xml:id="figure-69-en" n="69">
                      <head>During World War II, boundary marker No. 40 of the Rapallo border in
                         Spodnji Vrsnik became a tripoint marker between Germany, the Kingdom of
@@ -2322,16 +2309,40 @@
                      <graphic url="Pictures/Meje-pano12-image5-normal.jpg"/>
                      <graphic url="Pictures/Meje-pano12-image5-slide.jpg"/>
                      <graphic url="Pictures/Meje-pano12-image5-thumb.jpg"/>
-                  </figure>
-                  <figure xml:id="figure-72-en" n="72">
-                     <head>Dr. Božo Repe, dr. Darja Kerec, dr. Božidar Flajšman, dr. Kornelija Ajlec
-                        and dr. Peter Mikša at the present-day tripoint marker between Hungary,
-                        Slovenia and Croatia. Author: Božidar Flajšman.</head>
-                     <graphic url="Pictures/Meje-pano12-image6-normal.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image6-slide.jpg"/>
-                     <graphic url="Pictures/Meje-pano12-image6-thumb.jpg"/>
-                  </figure>
+                  </figure>                  
                </figure>
+               <div type="research">
+                  <figure xml:id="figure-67-en" n="67">
+                     <graphic url="Pictures/Meje-pano12-image1-normal.jpg"/>
+                     <p>On 16 November 2017, a part of the research team (dr. Matija Zorn, dr.
+                        Božidar Flajšman, dr. Božo Repe, dr. Peter Mikša), accompanied by Lojze Štih
+                        and Ivan Petrišič, the president and vice-president of ZZB NOB Krško,
+                        discovered a buried boundary marker in a remote area of the Municipality of
+                        Brežice near Gadova Peč, at the tripoint between Germany, Italy and the
+                        Independent State of Croatia. Author: Božidar Flajšman.</p>
+                  </figure>
+               </div>
+               <div type="research">
+                  <figure xml:id="figure-68-en" n="68">                     
+                     <graphic url="Pictures/Meje-pano12-image2-normal.jpg"/>
+                     <p>The photograph shows the research team (from left to right: dr. Božidar
+                        Flajšman, dr. Darja Kerec, dr. Božo Repe, dr. Peter Mikša in dr. Kornelija
+                        Ajlec) marking the tripoint with an improvised inscription. On 13 April
+                        2018, the research team marked a tripoint between Germany, Hungary and the
+                        Independent State of Croatia on the over grown right bank of the Drava
+                        River, south of Središče ob Dravi on today’s Croatian side. No physical
+                        remains of the former state border can be found in this flooded, muddy
+                        region, rich in vegetation. Author: Božidar Flajšman.</p>
+                  </figure>
+               </div>
+               <div type="research">
+                  <figure xml:id="figure-72-en" n="72">                     
+                     <graphic url="Pictures/Meje-pano12-image6-normal.jpg"/>
+                     <p>Dr. Božo Repe, dr. Darja Kerec, dr. Božidar Flajšman, dr. Kornelija Ajlec
+                        and dr. Peter Mikša at the present-day tripoint marker between Hungary,
+                        Slovenia and Croatia. Author: Božidar Flajšman.</p>
+                  </figure>
+               </div>
             </div>
          </div>
       </body>
