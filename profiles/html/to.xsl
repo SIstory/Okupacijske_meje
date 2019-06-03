@@ -58,12 +58,15 @@
    <!-- Iz datoteke ../../../../publikacije-XSLT/sistory/html5-foundation6-chs/to.xsl -->
    <xsl:param name="outputDir">docs/</xsl:param>
    
+   <xsl:param name="homeLabel">SIstory</xsl:param>
+   <xsl:param name="homeURL">https://github.com/SIstory/Okupacijske_meje</xsl:param>
+   
    <xsl:param name="splitLevel">1</xsl:param>
    
    <!-- Iz datoteke ../../../../publikacije-XSLT/sistory/html5-foundation6-chs/my-html_param.xsl -->
    <xsl:param name="title-bar-sticky">false</xsl:param>
    
-   <xsl:param name="chapterAsSIstoryPublications">true</xsl:param>
+   <xsl:param name="chapterAsSIstoryPublications">false</xsl:param>
    
    <xsl:param name="documentationLanguage">en</xsl:param>
    
@@ -82,6 +85,18 @@
    <xsl:param name="description"></xsl:param>
    <xsl:param name="keywords"></xsl:param>
    <xsl:param name="title"></xsl:param>
+   
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>Novo ime za glavno vsebino (glavna navigacija)</desc>
+      <param name="thisLanguage"></param>
+   </doc>
+   <xsl:template name="nav-body-head">
+      <xsl:param name="thisLanguage"/>
+      <xsl:choose>
+         <xsl:when test="$thisLanguage = 'en'">Exhibitions</xsl:when>
+         <xsl:otherwise>Razstave</xsl:otherwise>
+      </xsl:choose>
+   </xsl:template>
    
    <xsldoc:doc xmlns:xsldoc="http://www.oxygenxml.com/ns/doc/xsl">
       <xsldoc:desc>V css in javascript Hook dodam imageViewer</xsldoc:desc>
