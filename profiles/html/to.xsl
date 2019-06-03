@@ -53,7 +53,8 @@
   
    <!-- Uredi parametre v skladu z dodatnimi zahtevami za pretvorbo te publikacije: -->
    <!-- ../../../  -->
-   <xsl:param name="path-general">http://www2.sistory.si/publikacije/</xsl:param>
+   <!-- http://www2.sistory.si/publikacije/ -->
+   <xsl:param name="path-general"></xsl:param>
    
    <!-- Iz datoteke ../../../../publikacije-XSLT/sistory/html5-foundation6-chs/to.xsl -->
    <xsl:param name="outputDir">docs/</xsl:param>
@@ -225,6 +226,33 @@
       <iframe width="420" height="315"
          src="https://www.youtube.com/embed/{tokenize(@url,'/')[last()]}">
       </iframe> 
+   </xsl:template>
+   
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>KAZALO SLIK: ga mora preurediti, ker prvotno procesira samo $splitLevel = 0, sedaj pa imamo $splitLevel = 1</desc>
+   </doc>
+   <xsl:template name="images">
+      <xsl:param name="thisLanguage"/>
+      <!-- izpiše vse slike -->
+      <ul class="circel">
+         <xsl:for-each select="//tei:figure[if ($languages-locale='true') then ancestor::tei:div[@xml:id][@xml:lang=$thisLanguage] else @xml:id][tei:graphic][not(@type='chart')]">
+            <xsl:variable name="figure-id" select="@xml:id"/>
+            <!-- Preuredim v skladu s tem projektu, vendar dolgoročno potrebno najti bolj vzdržno rešitev!!! -->
+            <xsl:variable name="image-chapter-id" select="ancestor::tei:div[@xml:id][parent::tei:div[parent::tei:body]]/@xml:id"/>
+            <xsl:variable name="sistoryPath">
+               <xsl:if test="$chapterAsSIstoryPublications='true'">
+                  <xsl:call-template name="sistoryPath">
+                     <xsl:with-param name="chapterID" select="$image-chapter-id"/>
+                  </xsl:call-template>
+               </xsl:if>
+            </xsl:variable>
+            <li>
+               <a href="{concat($sistoryPath,$image-chapter-id,'.html#',$figure-id)}">
+                  <xsl:value-of select="tei:head"/>
+               </a>
+            </li>
+         </xsl:for-each>
+      </ul><!-- konec procesiranja slik -->
    </xsl:template>
    
    
