@@ -133,12 +133,27 @@
       <desc>Orbit - slides. Vedno so kodirani kot figure/figure</desc>
    </doc>
    <xsl:template match="tei:figure[@rend='orbit']">
-      <!-- anchors -->
       <xsl:for-each select="tei:figure">
-         <a id="{@xml:id}"></a>
+         <figure id="{@xml:id}">
+            <img class="imageviewer" style="height:600px;" src="{tei:graphic[contains(@url,'normal')]/@url}" data-high-res-src="{tei:graphic[1]/@url}" alt="{normalize-space(tei:head)}"/>
+            <figcaption>
+               <xsl:value-of select="normalize-space(tei:head)"/>
+            </figcaption>
+         </figure>
       </xsl:for-each>
+      
+      <!-- anchors -->
+      <!--<xsl:for-each select="tei:figure">
+         <a id="{@xml:id}"></a>
+      </xsl:for-each>-->
       <div class="row">
          <div class="small-12 medium-10 large-8 small-centered columns">
+            <h3>
+               <xsl:choose>
+                  <xsl:when test="parent::tei:div/@xml:lang ='en'">Image Gallery</xsl:when>
+                  <xsl:otherwise>Galerija slik</xsl:otherwise>
+               </xsl:choose>
+            </h3>
             <div class="orbit" role="region" aria-label="Slike, Pictures" data-orbit="">
                <div class="orbit-wrapper">
                   <div class="orbit-controls">
@@ -155,7 +170,7 @@
                               </xsl:choose>
                            </xsl:attribute>
                            <figure class="orbit-figure" style="height: 400px; width: 600px;">
-                              <img class="orbit-image imageviewer" src="{tei:graphic[contains(@url,'slide')]/@url}" data-high-res-src="{tei:graphic[contains(@url,'normal')]/@url}" alt="{normalize-space(tei:head)}"/>
+                              <img class="orbit-image imageviewer" src="{tei:graphic[contains(@url,'slide')]/@url}" data-high-res-src="{tei:graphic[1]/@url}" alt="{normalize-space(tei:head)}"/>
                               <figcaption class="orbit-caption">
                                  <xsl:value-of select="normalize-space(tei:head)"/>
                               </figcaption>
@@ -223,13 +238,14 @@
       <desc>Vključi youtube kodo</desc>
    </doc>
    <xsl:template match="tei:media[@mimeType='video/youtube' or @mimeType='video/x-youtube']">
-      <iframe width="420" height="315"
-         src="https://www.youtube.com/embed/{tokenize(@url,'/')[last()]}">
-      </iframe> 
+      <div class="responsive-embed">
+         <iframe width="420" height="315" src="https://www.youtube.com/embed/{tokenize(@url,'/')[last()]}" frameborder="0" allowfullscreen=""/>
+      </div>
    </xsl:template>
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc>KAZALO SLIK: ga mora preurediti, ker prvotno procesira samo $splitLevel = 0, sedaj pa imamo $splitLevel = 1</desc>
+      <param name="thisLanguage"></param>
    </doc>
    <xsl:template name="images">
       <xsl:param name="thisLanguage"/>

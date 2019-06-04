@@ -3,9 +3,14 @@
 *.epub
 *.bak
 *.jpg
+*.JPG
 *.jpeg
 *.png
+*.PNG
+*.tif
 *.zip
+*.doc
+*.docx
 
 archive/
 sources/
