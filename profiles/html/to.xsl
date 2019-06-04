@@ -88,6 +88,23 @@
    <xsl:param name="title"></xsl:param>
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>Ne procesiram štetja besed v kolofonu</desc>
+   </doc>
+   <xsl:template name="countWords"/>
+   
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>Novo ime za front front/div</desc>
+      <param name="thisLanguage"></param>
+   </doc>
+   <xsl:template name="nav-front-head">
+      <xsl:param name="thisLanguage"/>
+      <xsl:choose>
+         <xsl:when test="$thisLanguage = 'en'">About</xsl:when>
+         <xsl:otherwise>O projektu</xsl:otherwise>
+      </xsl:choose>
+   </xsl:template>
+   
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc>Novo ime za glavno vsebino (glavna navigacija)</desc>
       <param name="thisLanguage"></param>
    </doc>
@@ -130,72 +147,17 @@
    </xsl:template>
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
-      <desc>Orbit - slides. Vedno so kodirani kot figure/figure</desc>
+      <desc>Slike, ki imajo vključeno možnost povečanja slike z imageviewer</desc>
    </doc>
-   <xsl:template match="tei:figure[@rend='orbit']">
-      <xsl:for-each select="tei:figure">
-         <figure id="{@xml:id}">
-            <img class="imageviewer" style="height:600px;" src="{tei:graphic[contains(@url,'normal')]/@url}" data-high-res-src="{tei:graphic[1]/@url}" alt="{normalize-space(tei:head)}"/>
-            <figcaption>
-               <xsl:value-of select="normalize-space(tei:head)"/>
-            </figcaption>
-         </figure>
-         <br/>
-         <br/>
-      </xsl:for-each>
-      
-      <!-- anchors -->
-      <!--<xsl:for-each select="tei:figure">
-         <a id="{@xml:id}"></a>
-      </xsl:for-each>-->
-      <div class="row">
-         <div class="small-12 medium-10 large-8 small-centered columns">
-            <h3>
-               <xsl:choose>
-                  <xsl:when test="parent::tei:div/@xml:lang ='en'">Image Gallery</xsl:when>
-                  <xsl:otherwise>Galerija slik</xsl:otherwise>
-               </xsl:choose>
-            </h3>
-            <div class="orbit" role="region" aria-label="Slike, Pictures" data-orbit="">
-               <div class="orbit-wrapper">
-                  <div class="orbit-controls">
-                     <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
-                     <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
-                  </div>
-                  <ul class="orbit-container" id="{@xml:id}">
-                     <xsl:for-each select="tei:figure">
-                        <li>
-                           <xsl:attribute name="class">
-                              <xsl:choose>
-                                 <xsl:when test="position() = 1">orbit-slide is-active</xsl:when>
-                                 <xsl:otherwise>orbit-slide</xsl:otherwise>
-                              </xsl:choose>
-                           </xsl:attribute>
-                           <figure class="orbit-figure" style="height: 400px; width: 600px;">
-                              <img class="orbit-image imageviewer" src="{tei:graphic[contains(@url,'slide')]/@url}" data-high-res-src="{tei:graphic[1]/@url}" alt="{normalize-space(tei:head)}"/>
-                              <figcaption class="orbit-caption">
-                                 <xsl:value-of select="normalize-space(tei:head)"/>
-                              </figcaption>
-                           </figure>
-                        </li>
-                     </xsl:for-each>
-                  </ul>
-               </div>
-               <nav class="orbit-bullets">
-                  <xsl:for-each select="tei:figure">
-                     <button data-slide="{position() - 1}">
-                        <xsl:if test="position() = 1">
-                           <xsl:attribute name="class">is-active</xsl:attribute>
-                        </xsl:if>
-                        <span class="show-for-sr">
-                           <xsl:value-of select="normalize-space(tei:head)"/>
-                        </span>
-                     </button>
-                  </xsl:for-each>
-               </nav>
-            </div>
-         </div>
-      </div>
+   <xsl:template match="tei:figure[@rend='imageviewer']">
+      <figure id="{@xml:id}">
+         <img class="imageviewer" style="height:600px;" src="{tei:graphic[contains(@url,'normal')]/@url}" data-high-res-src="{tei:graphic[1]/@url}" alt="{normalize-space(tei:head)}"/>
+         <figcaption>
+            <xsl:value-of select="normalize-space(tei:head)"/>
+         </figcaption>
+      </figure>
+      <br/>
+      <br/>
    </xsl:template>
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
@@ -273,5 +235,18 @@
       </ul><!-- konec procesiranja slik -->
    </xsl:template>
    
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>Sem moral okleščiti prvotni listBibl is sistory profila, ker je dvakrat kazal listBibl/head</desc>
+   </doc>
+   <xsl:template match="tei:listBibl">
+      <ul>
+         <xsl:if test="@xml:id">
+            <xsl:attribute name="id">
+               <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+         </xsl:if>
+         <xsl:apply-templates/>
+      </ul>
+   </xsl:template>
    
 </xsl:stylesheet>
