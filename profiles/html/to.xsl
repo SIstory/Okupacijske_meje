@@ -116,6 +116,18 @@
       </xsl:choose>
    </xsl:template>
    
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>Novo ime za izpis naziva bibliografije na gornji navigaciji</desc>
+      <param name="thisLanguage"></param>
+   </doc>
+   <xsl:template name="nav-bibl-head">
+      <xsl:param name="thisLanguage"/>
+      <xsl:choose>
+         <xsl:when test="$thisLanguage = 'en'">Results</xsl:when>
+         <xsl:otherwise>Rezultati</xsl:otherwise>
+      </xsl:choose>
+   </xsl:template>
+   
    <xsldoc:doc xmlns:xsldoc="http://www.oxygenxml.com/ns/doc/xsl">
       <xsldoc:desc>V css in javascript Hook dodam imageViewer</xsldoc:desc>
    </xsldoc:doc>
