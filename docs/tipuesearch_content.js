@@ -287,12 +287,12 @@ var tipuesearch = {"pages": [
 { "title": "Tripoints", "text": "A map of tripoints in Slovenia during World War II.", "tags": "", "url": "en-exh01-ch12.html#figure-70-en" },
 { "title": "Tripoints", "text": "During World War II, the present-day tripoint between Austria, Italy and Slovenia was the tripoint between the Kingdom of Italy, the German Reich and the German Occupation Zone of Lower Carinthia. Unfortunately, the monument from those times has not been recorded, but we can see the tripoint marker from 1939 when it was visited by the underage King of Yugoslavia Peter II Karađorđević. Source: Nani Poljanec, Ljudski muzej Rogaška Slatina/Rogaška Slatina Folk Museum.", "tags": "", "url": "en-exh01-ch12.html#figure-71-en" },
 { "title": "Tripoints", "text": "Dr. Božo Repe, dr. Darja Kerec, dr. Božidar Flajšman, dr. Kornelija Ajlec and dr. Peter Mikša at the present-day tripoint marker between Hungary, Slovenia and Croatia. Author: Božidar Flajšman.", "tags": "", "url": "en-exh01-ch12.html#figure-72-en" },
-{ "title": "Filmi", "text": "Otroci meje", "tags": "", "url": "movies.html#movies-1" },
-{ "title": "Movies", "text": "Children of the Border", "tags": "", "url": "en-movies.html#en-movies-1" },
 { "title": "Raziskovalni rezultati projekta", "text": "Raziskovalni rezultati projekta", "tags": "", "url": "results.html#results-head-1" },
 { "title": "", "text": "Repe, Božo. Diplomatsko razkosanje Slovenije med drugo svetovno vojno in določanje meja na terenu. Zgodovinski časopis 73, št. 1-2 (2019): 158-192.", "tags": "", "url": "results.html#bibl-1" },
 { "title": "Research results of the project", "text": "Research results of the project", "tags": "", "url": "en-results.html#en-results-head-1" },
-{ "title": "", "text": "Repe, Božo. Diplomatsko razkosanje Slovenije med drugo svetovno vojno in določanje meja na terenu [Diplomatic Division of Slovenia during World War II and On-Site Delineation of Borders]. Zgodovinski časopis 73, no. 1-2 (2019): 158-192.", "tags": "", "url": "en-results.html#en-bibl-1" }
+{ "title": "", "text": "Repe, Božo. Diplomatsko razkosanje Slovenije med drugo svetovno vojno in določanje meja na terenu [Diplomatic Division of Slovenia during World War II and On-Site Delineation of Borders]. Zgodovinski časopis 73, no. 1-2 (2019): 158-192.", "tags": "", "url": "en-results.html#en-bibl-1" },
+{ "title": "Filmi", "text": "Otroci meje", "tags": "", "url": "movies.html#movies-1" },
+{ "title": "Movies", "text": "Children of the Border", "tags": "", "url": "en-movies.html#en-movies-1" }
 
                      ]};
                 

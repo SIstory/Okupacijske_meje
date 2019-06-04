@@ -5082,20 +5082,6 @@
          </div>-->
       </body>
       <back>
-         <div type="appendix" xml:id="movies" xml:lang="sl" corresp="#en-movies">
-            <head>Filmi</head>
-            <figure xml:id="movies-1">
-               <head xml:id="movies-1-head">Otroci meje</head>
-               <media url="https://youtu.be/CvGTkzQWYTU" mimeType="video/x-youtube"/>
-            </figure>
-         </div>
-         <div type="appendix" xml:id="en-movies" xml:lang="en" corresp="#movies">
-            <head>Movies</head>
-            <figure xml:id="en-movies-1">
-               <head xml:id="en-movies-1-head">Children of the Border</head>
-               <media url="https://youtu.be/0NZp3PfVdTQ" mimeType="video/x-youtube"/>
-            </figure>
-         </div>
          <div type="bibliogr" xml:id="results" xml:lang="sl" corresp="#en-results">
             <head xml:id="results-head-1">Raziskovalni rezultati projekta</head>
             <listBibl>
@@ -5184,6 +5170,20 @@
                      26. apr. 2019 / avtorji razstave Božo Repe ... [et al.]</hi>. 2019. <ref
                         target="https://plus.cobiss.si/opac7/bib/69372770">COBISS</ref></bibl>
             </listBibl>
+         </div>
+         <div type="appendix" xml:id="movies" xml:lang="sl" corresp="#en-movies">
+            <head>Filmi</head>
+            <figure xml:id="movies-1">
+               <head xml:id="movies-1-head">Otroci meje</head>
+               <media url="https://youtu.be/CvGTkzQWYTU" mimeType="video/x-youtube"/>
+            </figure>
+         </div>
+         <div type="appendix" xml:id="en-movies" xml:lang="en" corresp="#movies">
+            <head>Movies</head>
+            <figure xml:id="en-movies-1">
+               <head xml:id="en-movies-1-head">Children of the Border</head>
+               <media url="https://youtu.be/0NZp3PfVdTQ" mimeType="video/x-youtube"/>
+            </figure>
          </div>
          <divGen type="index" xml:id="persons" xml:lang="sl" corresp="#en-persons">
             <head>Seznam oseb</head>
