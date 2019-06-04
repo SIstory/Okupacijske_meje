@@ -25,8 +25,6 @@
             <respStmt>
                <resp>Računalniški zapis in kodiranje TEI / Digital encoding, TEI markup</resp>
                <name>Andrej Pančur</name>
-               <name>Mojca Šorn</name>
-               <name>Neja Blaj Hribar</name>
                <name>Mihael Ojsteršek</name>
             </respStmt>
             <respStmt>
@@ -1866,6 +1864,12 @@
                   </figure>
                </figure>
             </div>
+            <div type="chapter" xml:id="exh01-ch13" xml:lang="sl" corresp="#en-exh01-ch13">
+               <head xml:id="OKPM-head-ch13-1">Otroci meje</head>
+               <figure xml:id="OKPM-figure-ch13-1">
+                  <media url="https://youtu.be/CvGTkzQWYTU" mimeType="video/x-youtube"/>
+               </figure>
+            </div>
          </div>
          <div type="part" xml:id="en-exhibition01" xml:lang="en" corresp="#exhibition01">
             <head xml:id="OKPM-head-99">Boundary Stones, Barbed Wire, Watchtowers and
@@ -3456,6 +3460,12 @@
                         url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano12-image6-thumb.jpg"
                      />
                   </figure>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="en-exh01-ch13" xml:lang="en" corresp="#exh01-ch13">
+               <head xml:id="OKPM-head-ch13en-1">Otroci meje</head>
+               <figure xml:id="OKPM-figure-ch13en-1">
+                  <media url="https://youtu.be/CvGTkzQWYTU" mimeType="video/x-youtube"/>
                </figure>
             </div>
          </div>

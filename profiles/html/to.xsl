@@ -140,6 +140,8 @@
                <xsl:value-of select="normalize-space(tei:head)"/>
             </figcaption>
          </figure>
+         <br/>
+         <br/>
       </xsl:for-each>
       
       <!-- anchors -->
