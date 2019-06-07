@@ -3,7 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Okupacijske meje 1941-1945</title>
+            <title xml:lang="sl">Napravite mi to deželo nemško - italijansko - madžarsko - hrvaško!
+               Vloga okupacijskih meja v raznarodovalni politiki in življenju slovenskega prebivalstva.</title>
+            <title xml:lang="en">Make This Land German ... Italian ... Hungarian ... Croatian!
+               The Role of the Occupation Border in the Denationalization Policy and the Lives of the Slovene Population.</title>
             <respStmt>
                <resp>Avtorji razstav</resp>
                <name>dr. Božo Repe</name>
@@ -22,6 +25,10 @@
                <resp>Fotografi in snemalci</resp>
                <name>Sonja Bezenšek</name>
                <name>Danilo Orlič</name>
+            </respStmt>
+            <respStmt>
+               <resp>Prevodi</resp>
+               <name>FUROCAT, prevajalsko podjetje, d.o.o.</name>
             </respStmt>
             <respStmt>
                <resp>Računalniški zapis in kodiranje TEI / Digital encoding, TEI markup</resp>
@@ -5082,6 +5089,28 @@
          </div>-->
       </body>
       <back>
+         <div type="appendix" xml:id="movies" xml:lang="sl" corresp="#en-movies">
+            <head>Filmi</head>
+            <figure xml:id="movies-1">
+               <head xml:id="movies-1-head">O projektu 2018</head>
+               <media url="https://youtu.be/UpO9O0g" mimeType="video/x-youtube"/>
+            </figure>
+            <figure xml:id="movies-2">
+               <head xml:id="movies-2-head">Otroci meje</head>
+               <media url="https://youtu.be/CvGTkzQWYTU" mimeType="video/x-youtube"/>
+            </figure>
+         </div>
+         <div type="appendix" xml:id="en-movies" xml:lang="en" corresp="#movies">
+            <head>Movies</head>
+            <figure xml:id="en-movies-1">
+               <head xml:id="en-movies-1-head">About the Project</head>
+               <media url="https://youtu.be/SHC0el2Nj3M" mimeType="video/x-youtube"/>
+            </figure>
+            <figure xml:id="en-movies-2">
+               <head xml:id="en-movies-2-head">Children of the Border</head>
+               <media url="https://youtu.be/0NZp3PfVdTQ" mimeType="video/x-youtube"/>
+            </figure>
+         </div>
          <div type="bibliogr" xml:id="results" xml:lang="sl" corresp="#en-results">
             <head xml:id="results-head-1">Raziskovalni rezultati projekta</head>
             <listBibl>
@@ -5089,6 +5118,10 @@
                <bibl xml:id="bibl-1">Repe, Božo. "Diplomatsko razkosanje Slovenije med drugo
                   svetovno vojno in določanje meja na terenu". <hi rend="italic">Zgodovinski
                      časopis</hi> 73, št. 1-2 (2019): 158-192.</bibl>
+               <bibl>Repe, Božo, Matija Zorn, Kornelija Ajlec in Peter Mikša. <hi rend="italic">Mejni
+                  kamni, bodeča žica, stražni stolpi in minska polja : življenje ob okupacijskih mejah
+                  v Sloveniji, 1941-1945.</hi> Ljubljana : Znanstvena založba Filozofske fakultete, 2019.
+                  <ref target="https://plus.cobiss.si/opac7/bib/299668992">COBISS</ref></bibl>
             </listBibl>
             <listBibl>
                <head><hi rend="bold">Razstave:</hi></head>
@@ -5125,6 +5158,25 @@
                      26. apr. 2019 / avtorji razstave Božo Repe ... [et al.]</hi>. 2019. <ref
                         target="https://plus.cobiss.si/opac7/bib/69372770">COBISS</ref></bibl>
             </listBibl>
+            <listBibl>
+               <head><hi rend="bold">Elektronski viri: spletni videoposnetki</hi></head>
+               <bibl>Repe, Božo. "About the Project." YouTube video, 5:04 "zgodovina.si", 6. 2. 2019.
+                  <ref target="https://youtu.be/SHC0el2Nj3M">https://youtu.be/SHC0el2Nj3M</ref>. 
+                  <ref target="https://plus.cobiss.si/opac7/bib/69051234">COBISS</ref></bibl>
+               <bibl>Repe, Božo. "O projektu 2018." YouTube video, 5:04 "zgodovina.si", 10. 10. 2018.
+                  <ref target="https://youtu.be/UpO9O0g">https://youtu.be/UpO9O0g</ref>. 
+                  <ref target="https://plus.cobiss.si/opac7/bib/68806242">COBISS</ref></bibl>
+               <bibl>Tahija, Frančiška, Jože Jankovič, Matevž Košir, Anton Grah, Janko (Janta) Goleš,
+                  Silvo Vene, Anton Stipanič, Zdenko Roter in Branko Mikša. "Children of the Border"
+                  YouTube video, 8:56 "zgodovina.si", 16. 2. 2019.
+                  <ref target="https://youtu.be/0NZp3PfVdTQ">https://youtu.be/0NZp3PfVdTQ</ref>. 
+                  <ref target="https://plus.cobiss.si/opac7/bib/69050978">COBISS</ref></bibl>
+               <bibl>Tahija, Frančiška, Jože Jankovič, Matevž Košir, Anton Grah, Janko (Janta) Goleš,
+                  Silvo Vene, Anton Stipanič, Zdenko Roter in Branko Mikša. "Otroci meje."
+                  YouTube video, 8:56 "zgodovina.si", 30. 1. 2019.
+                  <ref target="https://youtu.be/CvGTkzQWYTU">https://youtu.be/CvGTkzQWYTU</ref>. 
+                  <ref target="https://plus.cobiss.si/opac7/bib/68809826">COBISS</ref></bibl>
+            </listBibl>
          </div>
          <div type="bibliogr" xml:id="en-results" xml:lang="en" corresp="#results">
             <head xml:id="en-results-head-1">Research results of the project</head>
@@ -5134,6 +5186,10 @@
                   svetovno vojno in določanje meja na terenu" [Diplomatic Division of Slovenia
                   during World War II and On-Site Delineation of Borders]. <hi rend="italic"
                      >Zgodovinski časopis</hi> 73, no. 1-2 (2019): 158-192.</bibl>
+               <bibl>Repe, Božo, Matija Zorn, Kornelija Ajlec and Peter Mikša. <hi rend="italic">Mejni
+                  kamni, bodeča žica, stražni stolpi in minska polja : življenje ob okupacijskih mejah
+                  v Sloveniji, 1941-1945.</hi> Ljubljana : Znanstvena založba Filozofske fakultete, 2019.
+                  <ref target="https://plus.cobiss.si/opac7/bib/299668992">COBISS</ref></bibl>
             </listBibl>
             <listBibl>
                <head><hi rend="bold">Exhibitions:</hi></head>
@@ -5170,20 +5226,25 @@
                      26. apr. 2019 / avtorji razstave Božo Repe ... [et al.]</hi>. 2019. <ref
                         target="https://plus.cobiss.si/opac7/bib/69372770">COBISS</ref></bibl>
             </listBibl>
-         </div>
-         <div type="appendix" xml:id="movies" xml:lang="sl" corresp="#en-movies">
-            <head>Filmi</head>
-            <figure xml:id="movies-1">
-               <head xml:id="movies-1-head">Otroci meje</head>
-               <media url="https://youtu.be/CvGTkzQWYTU" mimeType="video/x-youtube"/>
-            </figure>
-         </div>
-         <div type="appendix" xml:id="en-movies" xml:lang="en" corresp="#movies">
-            <head>Movies</head>
-            <figure xml:id="en-movies-1">
-               <head xml:id="en-movies-1-head">Children of the Border</head>
-               <media url="https://youtu.be/0NZp3PfVdTQ" mimeType="video/x-youtube"/>
-            </figure>
+            <listBibl>
+               <head><hi rend="bold">Electronic resources: online videos</hi></head>
+               <bibl>Repe, Božo. "About the Project." YouTube video, 5:04 "zgodovina.si", Februar 6, 2019.
+                  <ref target="https://youtu.be/SHC0el2Nj3M">https://youtu.be/SHC0el2Nj3M</ref>. 
+                  <ref target="https://plus.cobiss.si/opac7/bib/69051234">COBISS</ref></bibl>
+               <bibl>Repe, Božo. "O projektu 2018." YouTube video, 5:04 "zgodovina.si", October 10, 2018.
+                  <ref target="https://youtu.be/UpO9O0g">https://youtu.be/UpO9O0g</ref>. 
+                  <ref target="https://plus.cobiss.si/opac7/bib/68806242">COBISS</ref></bibl>
+               <bibl>Tahija, Frančiška, Jože Jankovič, Matevž Košir, Anton Grah, Janko (Janta) Goleš,
+                  Silvo Vene, Anton Stipanič, Zdenko Roter in Branko Mikša. "Children of the Border"
+                  YouTube video, 8:56 "zgodovina.si", Februar 2, 2019.
+                  <ref target="https://youtu.be/0NZp3PfVdTQ">https://youtu.be/0NZp3PfVdTQ</ref>. 
+                  <ref target="https://plus.cobiss.si/opac7/bib/69050978">COBISS</ref></bibl>
+               <bibl>Tahija, Frančiška, Jože Jankovič, Matevž Košir, Anton Grah, Janko (Janta) Goleš,
+                  Silvo Vene, Anton Stipanič, Zdenko Roter in Branko Mikša. "Otroci meje."
+                  YouTube video, 8:56 "zgodovina.si", Januar 30, 2019.
+                  <ref target="https://youtu.be/CvGTkzQWYTU">https://youtu.be/CvGTkzQWYTU</ref>. 
+                  <ref target="https://plus.cobiss.si/opac7/bib/68809826">COBISS</ref></bibl>
+            </listBibl>
          </div>
          <divGen type="index" xml:id="persons" xml:lang="sl" corresp="#en-persons">
             <head>Seznam oseb</head>
