@@ -3473,6 +3473,18 @@
                <p xml:id="OKPM4-p-124">Dandanes se same po sebi ponujajo primerjave med nekdanjo
                   okupacijsko mejo in sedanjo ograjeno in ožičeno mejo z Republiko Hrvaško, še
                   posebej ob reki Kolpi.</p>
+               <figure rend="imageviewer" xml:id="figure-74" n="74">
+                  <head>Postojanke italijanskega okupatorja v Beli krajini 1. marca 1942</head>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-normal.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-slide.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-thumb.jpg"
+                  />
+               </figure>
                <figure rend="imageviewer" xml:id="figure-73" n="73">
                   <head>Iz poročila Žandarmerijske stanice Dolnji Suhor je razvidno, da je 20
                      posameznikov iz vasi v okolici Suhorja zbiralo podpise za priključitev Bele
@@ -3490,18 +3502,6 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image1-slide.jpg"/>
                   <graphic
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image1-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-74" n="74">
-                  <head>Postojanke italijanskega okupatorja v Beli krajini 1. marca 1942</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-thumb.jpg"
                   />
                </figure>
                <figure rend="imageviewer" xml:id="figure-75" n="75">
@@ -3533,6 +3533,7 @@
                         sonce.</quote>
                      <bibl>Avtorica fotografije: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://youtu.be/xuVmLPmkVgw" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-77" n="77">
                   <head>Intervju: Ilija Strahinič iz Doljanov</head>
@@ -3547,6 +3548,8 @@
                         ljudi bojali. Ali na sreču nisu uspeli doči.</quote>
                      <bibl>Avtor fotografije: Božidar Flajšman.</bibl>
                   </cit>
+                  <!-- od 0.05 https://youtu.be/1dq_69vKHpY https://www.youtube.com/embed/1dq_69vKHpY?start=60&amp;end=65 -->
+                  <media url="https://www.youtube.com/embed/1dq_69vKHpY?start=60&amp;end=65" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-78" n="78">
                   <head>Intervju: Janko (Janta) Goleš iz Vukšićev pri Radatovićih.</head>
@@ -3558,6 +3561,7 @@
                         pravoslavni.</quote>
                      <bibl> Avtorica fotografije: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://youtu.be/B9ejRZckQ0U" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-79" n="79">
                   <head>Intervju: Boris Anton Weiss iz Predgrada.</head>
@@ -3574,6 +3578,7 @@
                         trgu, ni bilo.</quote>
                      <bibl>Avtor fotografije: Božidar Flajšman.</bibl>
                   </cit>
+                  <media url="https://youtu.be/d3FiuLvMqAU" mimeType="video/x-youtube"/>
                </figure>
             </div>
             <div type="chapter" xml:id="exh04-ch02" xml:lang="sl" corresp="#exh04-en-ch02">
@@ -4631,6 +4636,18 @@
                <p xml:id="OKPM4-p-160">Nowadays, we automatically draw comparisons between the
                   former occupation border and today’s fenced and barbed-wire border with the
                   Republic of Croatia, especially along the Kolpa River.</p>
+               <figure rend="imageviewer" xml:id="figure-74-en" n="74">
+                  <head>Italian occupier military posts in White Carniola on 1 March 1942</head>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-normal.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-slide.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-thumb.jpg"
+                  />
+               </figure>
                <figure rend="imageviewer" xml:id="figure-73-en" n="73">
                   <head>The report of the Dolnji Suhor Gendarmerie Station clearly shows that 20
                      individuals from villages in the vicinity of Suhor were collecting signatures
@@ -4650,18 +4667,6 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image1-slide.jpg"/>
                   <graphic
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image1-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-74-en" n="74">
-                  <head>Italian occupier military posts in White Carniola on 1 March 1942</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano4-image2-thumb.jpg"
                   />
                </figure>
                <figure rend="imageviewer" xml:id="figure-75-en" n="75">
@@ -4694,6 +4699,7 @@
                         the Slovene sun.</quote>
                      <bibl>Author: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://youtu.be/xuVmLPmkVgw" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-77-en" n="77">
                   <head>Interview: Ilija Strahinič from Doljani.</head>
@@ -4708,6 +4714,8 @@
                         The people were afraid back then. But luckily they never arrived.</quote>
                      <bibl>Author: Božidar Flajšman.</bibl>
                   </cit>
+                  <!-- od 0.05 -->
+                  <media url="https://youtu.be/1dq_69vKHpY" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-78-en" n="78">
                   <head>Interview: Janko (Janta) Goleš from Vukšiči near Radatovići.</head>
@@ -4719,6 +4727,7 @@
                         preparing a revolt. Our roots are Orthodox.</quote>
                      <bibl>Author: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://youtu.be/B9ejRZckQ0U" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-79-en" n="79">
                   <head>Interview: Boris Anton Weiss from Predgrad.</head>
@@ -4735,6 +4744,7 @@
                         soldiers in the valley of Poljane, with the exception of Stari trg.</quote>
                      <bibl>Author: Božidar Flajšman.</bibl>
                   </cit>
+                  <media url="https://youtu.be/d3FiuLvMqAU" mimeType="video/x-youtube"/>
                </figure>
             </div>
             <div type="chapter" xml:id="exh04-en-ch02" xml:lang="en" corresp="#exh04-ch02">
