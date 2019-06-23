@@ -3549,7 +3549,7 @@
                      <bibl>Avtor fotografije: Božidar Flajšman.</bibl>
                   </cit>
                   <!-- od 0.05 https://youtu.be/1dq_69vKHpY https://www.youtube.com/embed/1dq_69vKHpY?start=60&amp;end=65 -->
-                  <media url="https://www.youtube.com/embed/1dq_69vKHpY?start=60&amp;end=65" mimeType="video/x-youtube"/>
+                  <media url="https://www.youtube.com/embed/1dq_69vKHpY?start=5" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-78" n="78">
                   <head>Intervju: Janko (Janta) Goleš iz Vukšićev pri Radatovićih.</head>
@@ -3901,6 +3901,7 @@
                         potrebovali prepustnice za prehod iz ožičene Metlike.</quote>
                      <bibl>Avtorica fotografije: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://www.youtube.com/embed/szQsP0R_lrM?start=69" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-95" n="95">
                   <head>Intervju: Marija Koležnik</head>
@@ -4080,6 +4081,7 @@
                         mi ni bilo znano.</quote>
                      <bibl>Avtorica fotografije: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://www.youtube.com/embed/dio_y0OlTPY?start=128&amp;end=450" mimeType="video/x-youtube"/>
                </figure>
             </div>
             <div type="chapter" xml:id="exh04-ch06" xml:lang="sl" corresp="#exh04-en-ch06">
@@ -4180,8 +4182,9 @@
                         house come to Radatovići /…/ They captured over 350 boys /…/ they decided to
                         send them to the Rab concentration camp to reduce the number of potential
                         rebels. A group of 30 ran away, but the rest were taken to Rab.</quote>
-                     <bibl>Author: Sonja Bezenšek.</bibl>
+                     <bibl>Avtorica fotografije: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://www.youtube.com/embed/1AQsaDL21iE?start=5" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-110" n="110">
                   <head>Intervju: Franc Kočevar iz Bojanje vasi.</head>
@@ -4193,6 +4196,7 @@
                         požgali Bojanjo vas.</quote>
                      <bibl>Avtor fotografije: Božidar Flajšman.</bibl>
                   </cit>
+                  <media url="https://youtu.be/RkzrM-xplPc" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-111" n="111">
                   <head>Intervju: Nežka Kobetič iz Zagozdaca pri Predgradu.</head>
@@ -4203,6 +4207,7 @@
                         ker je bil brat pri partizanih.</quote>
                      <bibl>Avtor fotografije: Božidar Flajšman.</bibl>
                   </cit>
+                  <media url="https://www.youtube.com/embed/d4eQpQi5aCA?start=17&amp;end=56" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-112" n="112">
                   <head>Intervju: Darka Čop (rojena Šimenc) iz Črnomlja.</head>
@@ -4218,38 +4223,36 @@
                         umrli, otroci so ostali. To je bilo grozno, grozno je bilo.</quote>
                      <bibl>Avtorica fotografije: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://youtu.be/qDTSr9tPiro" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-113" n="113">
                   <head>Intervju: Ivan Starešinič iz Žuničev.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image9-thumb.jpg"/>
+                  <graphic url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image10-thumb.jpg"/>
                   <cit>
                      <quote>Niti eden Žuničan ni šel v italijansko koncentracijsko taborišče. Imeli
                         smo srečo, kajti kamioni so že prišli, da nas odpeljejo, pa je italijanski
                         komandant v Žuničih to preprečil.</quote>
                      <bibl>Avtor fotografije: Božidar Flajšman.</bibl>
                   </cit>
-                  <p>Po pričevanjih Marije Starešinič s Preloke se je enaka situacija ponovila tudi
-                     v Bojancih. Zaradi ljubezni med italijanskim komandantom in dekletom Zoro iz
-                     Bojancev. Italijanski komandant je enostavno preprečil, da bi kogarkoli iz
-                     Bojancev odpeljali v internacijo.</p>
-                  <p>Razmere v posameznih krajih so bile očitno različne.</p>
+                  <media url="https://www.youtube.com/embed/FlxifP3kYTc?start=5" mimeType="video/x-youtube"/>
                </figure>
+               <p>Po pričevanjih Marije Starešinič s Preloke se je enaka situacija ponovila tudi
+                  v Bojancih. Zaradi ljubezni med italijanskim komandantom in dekletom Zoro iz
+                  Bojancev. Italijanski komandant je enostavno preprečil, da bi kogarkoli iz
+                  Bojancev odpeljali v internacijo.</p>
+               <p>Razmere v posameznih krajih so bile očitno različne.</p>
                <figure rend="imageviewer" xml:id="figure-114" n="114">
                   <head>Danica Car iz Brezovice še vedno hrani bankovec za 50 »reich« mark, poklonil
                      ji ga je ranjeni nemški vojak, ki so ga tudi zdravili v partizanskih
-                     bolnišnicah na Žumberku. Avtor fotografije: Božidar Flajšman. Danica Car from
-                     Brezovica still keeps a 50 Reichsmark banknote, which was given to her by a
-                     wounded German soldier, who was treated in partisan hospitals in Žumberak.
-                     Author: Božidar Flajšman.</head>
+                     bolnišnicah na Žumberku. Avtor fotografije: Božidar Flajšman.</head>
                   <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image10.jpg"/>
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image9.jpg"/>
                   <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image10-normal.jpg"/>
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image9-normal.jpg"/>
                   <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image10-slide.jpg"/>
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image9-slide.jpg"/>
                   <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image10-thumb.jpg"
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image9-thumb.jpg"
                   />
                </figure>
             </div>
@@ -4310,6 +4313,7 @@
                         v jok, mama kaj bomo jedli.</quote>
                      <bibl>Avtorica fotografije: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://youtu.be/07o0UM0hbbY" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-118" n="118">
                   <head>Intervju: Zvone Radkovič iz Bereče vasi.</head>
@@ -4322,6 +4326,7 @@
                         Italijani smo bežali nazaj.</quote>
                      <bibl>Avtor fotografije: Božidar Flajšman.</bibl>
                   </cit>
+                  <media url="https://www.youtube.com/embed/B4XbHA-T3J8?start=5&amp;end=52" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-119" n="119">
                   <head>Intervju: Terezija (Zinko) Selakovič</head>
@@ -4334,11 +4339,14 @@
                      letališča pri Krasincu prepeljali v Dalmacijo in Italijo, kjer so dočakali
                      konec vojne. Med njimi tudi Terezijo (Zinko) Selakovič iz Drag pri Metliki, ki
                      so jo prepeljali v Bari. Takole se spominja:</p>
-                  <quote>Angleži so za nas skrbeli. Mi smo bili pod njihovim patronatom /…/ od leta
+                  <cit>
+                     <quote>Angleži so za nas skrbeli. Mi smo bili pod njihovim patronatom /…/ od leta
                      1944 do 1945 leta. Ko je bilo konc vojne 9. maja, pa smo domov prišli.</quote>
+                  </cit>
                   <bibl>Avtor fotografije: Božidar Flajšman.</bibl>
-                  <p> V roki drži fotografijo, posneto v Bariju. Na njej sta njena brata Ivan in
+                  <p>V roki drži fotografijo, posneto v Bariju. Na njej sta njena brata Ivan in
                      Martin. </p>
+                  <media url="https://youtu.be/L4ICzv32gbI" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-120" n="120">
                   <head>Intervju: Tončka Adam iz Dragatuša.</head>
@@ -4356,14 +4364,13 @@
                         morem povedat, kako je bilo hudo. Dragatuš so porušili. Skušali so zadet
                         tudi že zgrajeno železniško postajo, petkrat so obkrožli Dragatuš, pa tega
                         zaboga niso mogli zadet. Niso je mogli potrefit.</quote>
-                     <bibl> Avtorica fotografije: Sonja Bezenšek.</bibl>
+                     <bibl>Avtorica fotografije: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://youtu.be/hHbwTk2T9ZI" mimeType="video/x-youtube"/>
                </figure>
             </div>
             <div type="chapter" xml:id="exh04-ch08" xml:lang="sl" corresp="#exh04-en-ch08">
                <head xml:id="OKPM4-head-241">Zilje na prepihu vojne</head>
-               <head xml:id="OKPM4-head-242">»To je bilo strašno, ker so bile matere notri, Birička
-                  se je omrtvila.«</head>
                <p xml:id="OKPM4-p-150">Zilje so majhna vas, ki je v začetku leta 2018 štela 127
                   prebivalcev. Ležijo nekako na pol poti med Vinico in Preloko. Pred drugo svetovno
                   vojno je bil v Vinici sedež občine, na Preloki pa sedež župnije. Ob začetku druge
@@ -4384,14 +4391,6 @@
                   začeli z množičnimi aretacijami in pošiljanjem civilnega prebivalstva v
                   koncentracijska taborišča. Župljane iz Župnije Preloka so v taborišče odgnali v
                   začetku avgusta 1942.</p>
-               <p xml:id="OKPM4-p-153">Leta 1913 sta Marko Čadonič iz vasi Balkovci in Frančiška
-                  Erdeljac iz hrvaške vasi Prilišće odšla v Ameriko. Tam sta se spoznala in se leta
-                  1916 poročila.</p>
-               <p xml:id="OKPM4-p-154">V letih 1917, 1918 in 1919 so se jima rodili Marko, Marija in
-                  Franc. Spomladi 1920 se je mlada družina vrnila v Balkovce. Kasneje se je oče
-                  vrnil v ZDA, kjer je že pred začetkom druge svetovne vojne umrl. Njegovi sinovi so
-                  odraščali skupaj z njegovim mlajšim polbratom Jožetom, ki se je v Balkovcih rodil
-                  leta 1917. Ko se je začela druga svetovna vojna, so bili že možje.</p>
                <figure rend="imageviewer" xml:id="figure-121" n="121">
                   <head>Zilje</head>
                   <graphic
@@ -4444,6 +4443,39 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image3-thumb.jpg"
                   />
                </figure>
+               <p xml:id="OKPM4-p-155">Po zapisih župnika Jožeta Pokorna so Italijani iz Župnije
+                  Preloka v taborišče odpeljali 53 »mož in fantov«. Upravitelj šole Feliks Jug piše,
+                  da so jih odpeljali 57. Na pot niso smeli vzeti dodatne obleke in hrane. V
+                  taboriščih so vladale neznosne razmere in jetniki so umirali. Po podatkih Feliksa
+                  Juga se od 57 odpeljanih ni vrnilo 17 ujetnikov. Devet otrok je ostalo brez očeta.
+                  Tisti, ki so se z Raba vrnili, so poročali o grozotah, ki so jih doživeli.</p>
+               <figure rend="imageviewer" xml:id="figure-130" n="130">
+                  <head>Dopis, ki ga je na škofijski ordinariat v Ljubljani poslal Jože Pokorn,
+                     župnik na Preloki. V dopisu je med drugim opozarjal na hudo stisko svojcev, ki
+                     internirancem niso mogli poslati paketov in niso vedeli, ali so bili ti sploh
+                     še živi. Nadškofijski arhiv Ljubljana.</head>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-normal.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-slide.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-thumb.jpg"
+                  />
+               </figure>
+            </div>
+            <div type="chaper" xml:id="exh04-ch08a" xml:lang="sl" corresp="#exh04-en-ch08a">
+               <head xml:id="OKPM4-head-242">»To je bilo strašno, ker so bile matere notri, Birička
+                  se je omrtvila.«</head>
+               <p xml:id="OKPM4-p-153">Leta 1913 sta Marko Čadonič iz vasi Balkovci in Frančiška
+                  Erdeljac iz hrvaške vasi Prilišće odšla v Ameriko. Tam sta se spoznala in se leta
+                  1916 poročila.</p>
+               <p xml:id="OKPM4-p-154">V letih 1917, 1918 in 1919 so se jima rodili Marko, Marija in
+                  Franc. Spomladi 1920 se je mlada družina vrnila v Balkovce. Kasneje se je oče
+                  vrnil v ZDA, kjer je že pred začetkom druge svetovne vojne umrl. Njegovi sinovi so
+                  odraščali skupaj z njegovim mlajšim polbratom Jožetom, ki se je v Balkovcih rodil
+                  leta 1917. Ko se je začela druga svetovna vojna, so bili že možje.</p>
                <figure rend="imageviewer" xml:id="figure-124" n="124">
                   <head>Na levi fotografiji je Franc Čadonič (1919–1942), na desni pa sta levo Jože
                      Čadonič (1917–1942) in desno Marko Čadonič (1917–2000). Franc in Marko sta bila
@@ -4486,21 +4518,14 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-thumb.jpg"
                   />
                </figure>
-            </div>
-            <div type="chapter" xml:id="exh04-ch09" xml:lang="sl" corresp="#exh04-en-ch09">
-               <head xml:id="OKPM4-head-249">Na poti v šolo</head>
-               <p xml:id="OKPM4-p-155">Po zapisih župnika Jožeta Pokorna so Italijani iz Župnije
-                  Preloka v taborišče odpeljali 53 »mož in fantov«. Upravitelj šole Feliks Jug piše,
-                  da so jih odpeljali 57. Na pot niso smeli vzeti dodatne obleke in hrane. V
-                  taboriščih so vladale neznosne razmere in jetniki so umirali. Po podatkih Feliksa
-                  Juga se od 57 odpeljanih ni vrnilo 17 ujetnikov. Devet otrok je ostalo brez očeta.
-                  Tisti, ki so se z Raba vrnili, so poročali o grozotah, ki so jih doživeli.</p>
-               <p xml:id="OKPM4-p-156">Otroci iz Zilj so hodili v šolo na Preloko. Okupatorji šolske
-                  mladine niso preganjali. Pouk je brez dolgih prekinitev potekal vsa leta vojne. Za
-                  otroke je bila najbolj pretresljiva smrt očetov ali drugih sorodnikov v
-                  taboriščih, med igro pa jim je pretila tudi neposredna nevarnost. Ko so se kopali
-                  v Kolpi, so nanje prek reke streljali ustaši. Na srečo se nikomur ni nič
-                  zgodilo.</p>
+               <figure>
+                  <head>Frančiška Tahija</head>
+                  <media url="https://www.youtube.com/embed/yehSGt7Yvps?start=188&amp;end=298" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <head>Jože Starešinič</head>
+                  <media url="https://www.youtube.com/embed/eN8mwTa0j6Y?start=31" mimeType="video/x-youtube"/>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-127" n="127">
                   <head>Zapiski o pokojnih Francu Čadoniču, Jožetu Čadoniču in Francu Čemasu v
                      kartoteki, ki jo hrani Nadškofijski arhiv v Ljubljani.</head>
@@ -4533,19 +4558,40 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-thumb.jpg"
                   />
                </figure>
+               <figure rend="interview" xml:id="figure-132" n="132">
+                  <head>Intervju: Angele Žugelj</head>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-thumb.jpg"
+                  />
+                  <p>Še živeče priče dogodkov so nam govorile, da je župnik Pokorn najverjetneje
+                     v začetku marca 1943 pri maši prebral imena umrlih. Po pričevanju Angele Žugelj
+                     se je Birička (Frančiška Čadonič, roj. Erdeljac) »omrtvila« (onesvestila).
+                     Župnik je s prižnice namreč prebral, da sta umrla njen sin Franc in svak Jože.</p>
+                  <p>Avtor fotografije: Božidar Flajšman.</p>
+                  <media url="https://youtu.be/yZQx25MPTlU" mimeType="video/x-youtube"/>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="exh04-ch09" xml:lang="sl" corresp="#exh04-en-ch09">
+               <head xml:id="OKPM4-head-249">Na poti v šolo</head>
+               <p xml:id="OKPM4-p-156">Otroci iz Zilj so hodili v šolo na Preloko. Okupatorji šolske
+                  mladine niso preganjali. Pouk je brez dolgih prekinitev potekal vsa leta vojne. Za
+                  otroke je bila najbolj pretresljiva smrt očetov ali drugih sorodnikov v
+                  taboriščih, med igro pa jim je pretila tudi neposredna nevarnost. Ko so se kopali
+                  v Kolpi, so nanje prek reke streljali ustaši. Na srečo se nikomur ni nič
+                  zgodilo.</p>
+               <p xml:id="OKPM4-p-156b">Po pričevanjih so morali otroci v šolo vedno mimo postojanke v Dolnjih
+                  Ziljah. Kako je bilo to neprijetno za otroke, ki so morali dnevno mimo vojakov,
+                  bunkerjev in žičnih ovir, si je nemogoče predstavljati. Zgodba, ki nam jo je
+                  povedala Frančiška Tahija (roj. Balkovec), o pozdravih »Buongiorno!« in »Smrt
+                  fašizmu, svoboda narodu!«, kaže, kakšnim pritiskom so bili izpostavljeni
+                  otroci. Na koncu domače vasi so morali Italijane pozdraviti z »Buongiorno!«,
+                  partizane, ki so jih lahko srečali na bližnjici, ki je vodila čez travnike in
+                  jase, pa so morali pozdraviti s »Smrt fašizmu, svoboda narodu!«. Vojna je grobo
+                  prekinila življenja teh otrok. Izpostavljeni so bili različnim nevarnostim in
+                  oviram. Otroci v šoli na Preloki so pravzaprav imeli s šolanjem še srečo. Kljub
+                  različnim državam, ki so jim izdajale spričevala, so ga uspešno zaključili.</p>
                <figure rend="imageviewer" xml:id="figure-129" n="129">
-                  <head>Po pričevanjih so morali otroci v šolo vedno mimo postojanke v Dolnjih
-                     Ziljah. Kako je bilo to neprijetno za otroke, ki so morali dnevno mimo vojakov,
-                     bunkerjev in žičnih ovir, si je nemogoče predstavljati. Zgodba, ki nam jo je
-                     povedala Frančiška Tahija (roj. Balkovec), o pozdravih »Buongiorno!« in »Smrt
-                     fašizmu, svoboda narodu!«, kaže, kakšnim pritiskom so bili izpostavljeni
-                     otroci. Na koncu domače vasi so morali Italijane pozdraviti z »Buongiorno!«,
-                     partizane, ki so jih lahko srečali na bližnjici, ki je vodila čez travnike in
-                     jase, pa so morali pozdraviti s »Smrt fašizmu, svoboda narodu!«. Vojna je grobo
-                     prekinila življenja teh otrok. Izpostavljeni so bili različnim nevarnostim in
-                     oviram. Otroci v šoli na Preloki so pravzaprav imeli s šolanjem še srečo. Kljub
-                     različnim državam, ki so jim izdajale spričevala, so ga uspešno zaključili. Na
-                     fotografijah so spričevala Frančiške Tahija (roj. Balkovec). V šolskem letu
+                  <head>Na fotografijah so spričevala Frančiške Tahija (roj. Balkovec). V šolskem letu
                      1942–1943 ji je spričevalo izdala Kraljevina Italija, naslednje šolsko leto
                      oblast na svobodnem ozemlju, junija 1945 pa ji je za zadnje vojno šolsko leto
                      (1944/45) spričevalo izdala Demokratična federativna Jugoslavija. Na vseh treh
@@ -4560,21 +4606,6 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-thumb.jpg"
                   />
                </figure>
-               <figure rend="imageviewer" xml:id="figure-130" n="130">
-                  <head>Dopis, ki ga je na škofijski ordinariat v Ljubljani poslal Jože Pokorn,
-                     župnik na Preloki. V dopisu je med drugim opozarjal na hudo stisko svojcev, ki
-                     internirancem niso mogli poslati paketov in niso vedeli, ali so bili ti sploh
-                     še živi. Nadškofijski arhiv Ljubljana.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-thumb.jpg"
-                  />
-               </figure>
                <figure rend="imageviewer" xml:id="figure-131" n="131">
                   <head>Frančiška Tahija roj. Balkovec. Avtor: Božidar Flajšman.</head>
                   <graphic
@@ -4585,22 +4616,6 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-slide.jpg"/>
                   <graphic
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-132" n="132">
-                  <head>Še živeče priče dogodkov so nam govorile, da je župnik Pokorn najverjetneje
-                     v začetku marca 1943 pri maši prebral imena umrlih. Po pričevanju Angele Žugelj
-                     se je Birička (Frančiška Čadonič, roj. Erdeljac) »omrtvila« (onesvestila).
-                     Župnik je s prižnice namreč prebral, da sta umrla njen sin Franc in svak Jože.
-                     Avtor fotografije: Božidar Flajšman.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-thumb.jpg"
                   />
                </figure>
             </div>
@@ -4714,8 +4729,7 @@
                         The people were afraid back then. But luckily they never arrived.</quote>
                      <bibl>Author: Božidar Flajšman.</bibl>
                   </cit>
-                  <!-- od 0.05 -->
-                  <media url="https://youtu.be/1dq_69vKHpY" mimeType="video/x-youtube"/>
+                  <media url="https://www.youtube.com/embed/1dq_69vKHpY?start=5" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-78-en" n="78">
                   <head>Interview: Janko (Janta) Goleš from Vukšiči near Radatovići.</head>
@@ -5091,6 +5105,7 @@
                         Metlika, which was enclosed by barbed wire.</quote>
                      <bibl>Author: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://www.youtube.com/embed/szQsP0R_lrM?start=69" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-95-en" n="95">
                   <head>Interview: Marija Koležnik</head>
@@ -5281,6 +5296,7 @@
                         Croatia, but I never knew where to.</quote>
                      <bibl>Author: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://www.youtube.com/embed/dio_y0OlTPY?start=128&amp;end=450" mimeType="video/x-youtube"/>
                </figure>
             </div>
             <div type="chapter" xml:id="exh04-en-ch06" xml:lang="en" corresp="#exh04-ch06">
@@ -5370,6 +5386,7 @@
                         were taken to Rab.</quote>
                      <bibl>Author: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://www.youtube.com/embed/1AQsaDL21iE?start=5" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-110-en" n="110">
                   <head>Interview: Franc Kočevar from Bojanja vas.</head>
@@ -5381,6 +5398,7 @@
                         on 7 August 1942.</quote>
                      <bibl>Author: Božidar Flajšman.</bibl>
                   </cit>
+                  <media url="https://youtu.be/RkzrM-xplPc" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-111-en" n="111">
                   <head>Interview: Nežka Kobetič from Zagozdac near Predgrad.</head>
@@ -5391,6 +5409,7 @@
                         They burnt it because my brother was a partisan.</quote>
                      <bibl>Author: Božidar Flajšman.</bibl>
                   </cit>
+                  <media url="https://www.youtube.com/embed/d4eQpQi5aCA?start=17&amp;end=56" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-112-en" n="112">
                   <head>Interview: Darka Čop (maiden name Šimenc) from Črnomelj.</head>
@@ -5407,35 +5426,36 @@
                         horrible.</quote>
                      <bibl>Author: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://youtu.be/qDTSr9tPiro" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-113-en" n="113">
                   <head>Interview: Ivan Starešinič from Žuniči.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image9-thumb.jpg"/>
+                  <graphic url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image10-thumb.jpg"/>
                   <cit>
                      <quote>Not a single inhabitant of Žuniči went to an Italian concentration camp.
                         We were lucky, because the lorries had already arrived to take us away, but
                         the Italian commandant in Žuniči prevented it.</quote>
                      <bibl>Author: Božidar Flajšman.</bibl>
                   </cit>
-                  <p>According to the account of Marija Starešinič from Preloka, the same situation
-                     occurred in Bojanci. Because of the love between the Italian commandant and a
-                     girl named Zora from Bojanci. The Italian commandant simply prevented them from
-                     taking any inhabitant of Bojanci to internment.</p>
-                  <p>The circumstances obviously differed from place to place.</p>
+                  <media url="https://www.youtube.com/embed/FlxifP3kYTc?start=5" mimeType="video/x-youtube"/>
                </figure>
+               <p>According to the account of Marija Starešinič from Preloka, the same situation
+                  occurred in Bojanci. Because of the love between the Italian commandant and a
+                  girl named Zora from Bojanci. The Italian commandant simply prevented them from
+                  taking any inhabitant of Bojanci to internment.</p>
+               <p>The circumstances obviously differed from place to place.</p>
                <figure rend="imageviewer" xml:id="figure-114-en" n="114">
                   <head>Danica Car from Brezovica still keeps a 50 Reichsmark banknote, which was
                      given to her by a wounded German soldier, who was treated in partisan hospitals
                      in Žumberak. Author: Božidar Flajšman.</head>
                   <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image10.jpg"/>
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image9.jpg"/>
                   <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image10-normal.jpg"/>
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image9-normal.jpg"/>
                   <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image10-slide.jpg"/>
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image9-slide.jpg"/>
                   <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image10-thumb.jpg"
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano9-image9-thumb.jpg"
                   />
                </figure>
             </div>
@@ -5494,6 +5514,7 @@
                         going to eat?’</quote>
                      <bibl>Author: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://youtu.be/07o0UM0hbbY" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-118-en" n="118">
                   <head>Interview: Zvone Radkovič from Bereča vas.</head>
@@ -5506,6 +5527,7 @@
                         Italians, were there, we ran back.</quote>
                      <bibl>Author: Božidar Flajšman.</bibl>
                   </cit>
+                  <media url="https://www.youtube.com/embed/B4XbHA-T3J8?start=5&amp;end=52" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-119-en" n="119">
                   <head>Interview: Terezija (Zinka) Selakovič from Drage near Metlika</head>
@@ -5524,8 +5546,9 @@
                         to 1945. When the war ended on 9 May, we came home.</quote>
                   </cit>
                   <bibl>Author: Božidar Flajšman.</bibl>
-                  <p> She is holding a photograph taken in Bari. It shows her brothers Ivan and
+                  <p>She is holding a photograph taken in Bari. It shows her brothers Ivan and
                      Martin.</p>
+                  <media url="https://youtu.be/L4ICzv32gbI" mimeType="video/x-youtube"/>
                </figure>
                <figure rend="interview" xml:id="figure-120-en" n="120">
                   <head>Tončka Adam from Dragatuš.</head>
@@ -5547,12 +5570,11 @@
                         couldn't hit the mark.</quote>
                      <bibl>Author: Sonja Bezenšek.</bibl>
                   </cit>
+                  <media url="https://youtu.be/hHbwTk2T9ZI" mimeType="video/x-youtube"/>
                </figure>
             </div>
             <div type="chapter" xml:id="exh04-en-ch08" xml:lang="en" corresp="#exh04-ch08">
                <head xml:id="OKPM4-head-314">Zilje at the Crossroads of War</head>
-               <head xml:id="OKPM4-head-315">»It was horrible because mothers were inside; Birička
-                  fainted«</head>
                <p xml:id="OKPM4-p-186">Zilje is a small village which had 127 inhabitants in early
                   2018. It is situated roughly halfway between Vinica and Preloka. Before World War
                   II, the seat of the municipality was located in Vinica, while the seat of the
@@ -5574,15 +5596,6 @@
                   circumstances changed. During the offensive the Italians began making mass arrests
                   and sending civilian population to concentration camps. The inhabitants of the
                   Preloka parish were banished to a camp in early August 1942.</p>
-               <p xml:id="OKPM4-p-189">In 1913, Marko Čadonič from the village of Balkovci and
-                  Frančiška Erdeljac from the Croatian village of Prilišče went to America. They met
-                  each other there and got married in 1916.</p>
-               <p xml:id="OKPM4-p-190">In 1917, 1918 and 1919, their children Marko, Marija and
-                  Franc were born. In the spring of 1920, the young family returned to Balkovci.
-                  Somewhat later, the father returned to the USA, where he died before World War II
-                  started. In Marko's native village, a son named Jože was born to his father in
-                  1917. The boys grew up and by the time World War II started they were grown
-                  men.</p>
                <figure rend="imageviewer" xml:id="figure-121-en" n="121">
                   <head>Zilje</head>
                   <graphic
@@ -5640,6 +5653,42 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image3-thumb.jpg"
                   />
                </figure>
+               <p xml:id="OKPM4-p-191">According to the notes of the parish priest Pokorn, the
+                  Italians took 53 »men and boys« from the Preloka parish to a camp. The school’s
+                  headmaster Feliks Jug wrote about 57 men and boys being taken. They were taken
+                  without a change of clothes or food. The conditions in the camps were unbearable
+                  and the prisoners were dying. Feliks Jug wrote that 17 prisoners out of 57 never
+                  returned. Nine children lost their fathers. Those who had returned from Rab spoke
+                  of the atrocities endured there.</p>
+               <figure rend="imageviewer" xml:id="figure-130-en" n="130">
+                  <head>The letter sent by Jože Pokorn, a parish priest in Preloka, to Škofijski
+                     ordinariat (Episcopal Ordinariat) in Ljubljana. In the letter he points out,
+                     among other things, the great distress of family members who are unable to send
+                     packages to the internees and who do not know whether they are even alive.
+                     Archiepiscopal Archives Ljubljana.</head>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-normal.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-slide.jpg"/>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-thumb.jpg"
+                  />
+               </figure>
+            </div>
+            <div type="chapter" xml:id="exh04-en-ch08a" xml:lang="en" corresp="#exh04-ch08a">
+               <head xml:id="OKPM4-head-315">»It was horrible because mothers were inside; Birička
+                  fainted«</head>
+               <p xml:id="OKPM4-p-189">In 1913, Marko Čadonič from the village of Balkovci and
+                  Frančiška Erdeljac from the Croatian village of Prilišče went to America. They met
+                  each other there and got married in 1916.</p>
+               <p xml:id="OKPM4-p-190">In 1917, 1918 and 1919, their children Marko, Marija and
+                  Franc were born. In the spring of 1920, the young family returned to Balkovci.
+                  Somewhat later, the father returned to the USA, where he died before World War II
+                  started. In Marko's native village, a son named Jože was born to his father in
+                  1917. The boys grew up and by the time World War II started they were grown
+                  men.</p>
                <figure rend="imageviewer" xml:id="figure-124-en" n="124">
                   <head>Shown in the left picture is Franc Čadonič (1919-1942); the man on the left
                      in the right picture is Jože Čadonič (1917-1942) and on the right is Marko
@@ -5683,23 +5732,14 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-thumb.jpg"
                   />
                </figure>
-            </div>
-            <div type="chapter" xml:id="exh04-en-ch09" xml:lang="en" corresp="#exh04-ch09">
-               <head xml:id="OKPM4-head-322">On the Way to School</head>
-               <p xml:id="OKPM4-p-191">According to the notes of the parish priest Pokorn, the
-                  Italians took 53 »men and boys« from the Preloka parish to a camp. The school’s
-                  headmaster Feliks Jug wrote about 57 men and boys being taken. They were taken
-                  without a change of clothes or food. The conditions in the camps were unbearable
-                  and the prisoners were dying. Feliks Jug wrote that 17 prisoners out of 57 never
-                  returned. Nine children lost their fathers. Those who had returned from Rab spoke
-                  of the atrocities endured there.</p>
-               <p xml:id="OKPM4-p-192">The children from Zilje attended school in Preloka. The
-                  occupiers did not harass schoolchildren. Lessons were held throughout the war
-                  years without any lengthy suspensions. The most shocking thing the children
-                  experienced was the death of their fathers or other relatives in camps. But the
-                  children themselves were also in danger when playing. When they were bathing in
-                  the Kolpa River, the Ustasha shot at them from across the river. Luckily, no one
-                  got hurt.</p>
+               <figure>
+                  <head>Frančiška Tahija</head>
+                  <media url="https://www.youtube.com/embed/yehSGt7Yvps?start=188&amp;end=298" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <head>Jože Starešinič</head>
+                  <media url="https://www.youtube.com/embed/eN8mwTa0j6Y?start=31" mimeType="video/x-youtube"/>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-127-en" n="127">
                   <head>Notes about the late Franc Čadonič, Jože Čadonič and Franc Čemas in a file
                      kept by Nadškofijski arhiv Archiepiscopal Archives Ljubljana</head>
@@ -5734,22 +5774,46 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-thumb.jpg"
                   />
                </figure>
+               <figure rend="interview" xml:id="figure-132-en" n="132">
+                  <head>Interview: Angele Žugelj</head>
+                  <graphic
+                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-thumb.jpg"
+                  />
+                  <p>Most likely in the beginning of March 1943, the parish priest Pokorn had to
+                     read the names of the deceased during mass; various witnesses have corroborated
+                     this. According to Angela Žugelj, Birička fainted. Birička is Frančiška Čadonič
+                     (maiden name Erdeljac). The parish priest read from the pulpit that her son
+                     Franc and brother-in-law Jože had died.</p>
+                  <p>Author: Božidar Flajšman.</p>
+                  <media url="https://youtu.be/yZQx25MPTlU" mimeType="video/x-youtube"/>
+               </figure>
+            </div>
+            <div type="chapter" xml:id="exh04-en-ch09" xml:lang="en" corresp="#exh04-ch09">
+               <head xml:id="OKPM4-head-322">On the Way to School</head>
+               <p xml:id="OKPM4-p-192">The children from Zilje attended school in Preloka. The
+                  occupiers did not harass schoolchildren. Lessons were held throughout the war
+                  years without any lengthy suspensions. The most shocking thing the children
+                  experienced was the death of their fathers or other relatives in camps. But the
+                  children themselves were also in danger when playing. When they were bathing in
+                  the Kolpa River, the Ustasha shot at them from across the river. Luckily, no one
+                  got hurt.</p>
+               <p xml:id="OKPM4-p-192a">According to eyewitness accounts, the children had to pass by the post in
+                  Dolnje Zilje on their way to school. It is impossible to imagine how
+                  uncomfortable that must have been for children to walk by soldiers, bunkers and
+                  barbed wire obstacles every day. The story we heard from Frančiška Tahija
+                  (maiden name Balkovec) about the greeting »Buongiorno«, which they were taught
+                  by the Italians, and the greeting »Death to Fascism, freedom to the people«
+                  they were taught by the partisans, may seem adorable. However, it shows the
+                  pressure the children were under as they passed by different soldiers on their
+                  way to school. At the end of their native village they had to walk by Italians,
+                  but if they took a shortcut across the meadows and clearings, they might have
+                  run into partisans. The war turned those children's lives upside down. They
+                  were exposed to various dangers and obstacles. The children in the school in
+                  Preloka were in fact lucky. They successfully completed their schooling,
+                  despite the fact that their school-leaving certificates were issued by
+                  different countries.</p>
                <figure rend="imageviewer" xml:id="figure-129-en" n="129">
-                  <head>According to eyewitness accounts, the children had to pass by the post in
-                     Dolnje Zilje on their way to school. It is impossible to imagine how
-                     uncomfortable that must have been for children to walk by soldiers, bunkers and
-                     barbed wire obstacles every day. The story we heard from Frančiška Tahija
-                     (maiden name Balkovec) about the greeting »Buongiorno«, which they were taught
-                     by the Italians, and the greeting »Death to Fascism, freedom to the people«
-                     they were taught by the partisans, may seem adorable. However, it shows the
-                     pressure the children were under as they passed by different soldiers on their
-                     way to school. At the end of their native village they had to walk by Italians,
-                     but if they took a shortcut across the meadows and clearings, they might have
-                     run into partisans. The war turned those children's lives upside down. They
-                     were exposed to various dangers and obstacles. The children in the school in
-                     Preloka were in fact lucky. They successfully completed their schooling,
-                     despite the fact that their school-leaving certificates were issued by
-                     different countries. The picture shows the school-leaving certificates of
+                  <head>The picture shows the school-leaving certificates of
                      Frančiška Tahija (maiden name Balkovec). In the 1942-1943 school year, her
                      school-leaving certificate was issued by the Kingdom of Italy; in the next
                      school year it was issued by the Government of the Free Territory; after the
@@ -5767,22 +5831,6 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-thumb.jpg"
                   />
                </figure>
-               <figure rend="imageviewer" xml:id="figure-130-en" n="130">
-                  <head>The letter sent by Jože Pokorn, a parish priest in Preloka, to Škofijski
-                     ordinariat (Episcopal Ordinariat) in Ljubljana. In the letter he points out,
-                     among other things, the great distress of family members who are unable to send
-                     packages to the internees and who do not know whether they are even alive.
-                     Archiepiscopal Archives Ljubljana.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-thumb.jpg"
-                  />
-               </figure>
                <figure rend="imageviewer" xml:id="figure-131-en" n="131">
                   <head>Frančiška Tahija, nee Balkovec. Author: Božidar Flajšman.</head>
                   <graphic
@@ -5793,22 +5841,6 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-slide.jpg"/>
                   <graphic
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-132-en" n="132">
-                  <head>Most likely in the beginning of March 1943, the parish priest Pokorn had to
-                     read the names of the deceased during mass; various witnesses have corroborated
-                     this. According to Angela Žugelj, Birička fainted. Birička is Frančiška Čadonič
-                     (maiden name Erdeljac). The parish priest read from the pulpit that her son
-                     Franc and brother-in-law Jože had died. Author: Božidar Flajšman.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-thumb.jpg"
                   />
                </figure>
             </div>

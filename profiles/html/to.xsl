@@ -191,7 +191,7 @@
       <div class="media-object">
          <div class="media-object-section">
             <div class="thumbnail">
-               <img src="{tei:graphic/@url}"/>
+               <img src="{tei:graphic[contains(@url,'thumb')]/@url}"/>
             </div>
          </div>
          <div class="media-object-section">
