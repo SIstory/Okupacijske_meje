@@ -188,7 +188,7 @@
       <desc>Posebno oblikovanje za slike z intervjuji https://foundation.zurb.com/sites/docs/media-object.html</desc>
    </doc>
    <xsl:template match="tei:figure[@rend='interview']">
-      <div class="media-object">
+      <div class="media-object" id="{@xml:id}">
          <div class="media-object-section">
             <div class="thumbnail">
                <img class="imageviewer" src="{tei:graphic[contains(@url,'thumb')]/@url}" data-high-res-src="{tei:graphic[not(contains(@url,'thumb'))]/@url}"/>

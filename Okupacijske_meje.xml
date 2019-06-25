@@ -24,9 +24,15 @@
                <name>dr. Matija Zorn</name>
             </respStmt>
             <respStmt>
+               <resp>Dodatni avtorji</resp>
+               <name>Blaž Štangelj</name>
+            </respStmt>
+            <respStmt>
                <resp>Fotografi in snemalci</resp>
                <name>Sonja Bezenšek</name>
+               <name>dr. Božidar Flajšman</name>
                <name>Danilo Orlič</name>
+               <name>Blaž Štangelj</name>
             </respStmt>
             <respStmt>
                <resp>Prevodi</resp>
@@ -3846,6 +3852,10 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano6-image4-thumb.jpg"
                   />
                </figure>
+               <figure xml:id="figure-90b">
+                  <head>Božidar Flajšman, Blaž Štangelj. Utrjena linija med Italijo in NDH v Beli Krajini</head>
+                  <media url="https://youtu.be/3WphYMxAkUw" mimeType="video/x-youtube"/>
+               </figure>
             </div>
             <div type="chapter" xml:id="exh04-ch04" xml:lang="sl" corresp="#exh04-en-ch04">
                <head xml:id="OKPM4-head-206">Italijani še zmeraj napenjajo žico</head>
@@ -4513,163 +4523,163 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-thumb.jpg"
                   />
                </figure>
-            </div>
-            <div type="chaper" xml:id="exh04-ch08a" xml:lang="sl" corresp="#exh04-en-ch08a">
-               <head xml:id="OKPM4-head-242">»To je bilo strašno, ker so bile matere notri, Birička
-                  se je omrtvila.«</head>
-               <p xml:id="OKPM4-p-153">Leta 1913 sta Marko Čadonič iz vasi Balkovci in Frančiška
-                  Erdeljac iz hrvaške vasi Prilišće odšla v Ameriko. Tam sta se spoznala in se leta
-                  1916 poročila.</p>
-               <p xml:id="OKPM4-p-154">V letih 1917, 1918 in 1919 so se jima rodili Marko, Marija in
-                  Franc. Spomladi 1920 se je mlada družina vrnila v Balkovce. Kasneje se je oče
-                  vrnil v ZDA, kjer je že pred začetkom druge svetovne vojne umrl. Njegovi sinovi so
-                  odraščali skupaj z njegovim mlajšim polbratom Jožetom, ki se je v Balkovcih rodil
-                  leta 1917. Ko se je začela druga svetovna vojna, so bili že možje.</p>
-               <figure rend="imageviewer" xml:id="figure-124" n="124">
-                  <head>Na levi fotografiji je Franc Čadonič (1919–1942), na desni pa sta levo Jože
-                     Čadonič (1917–1942) in desno Marko Čadonič (1917–2000). Franc in Marko sta bila
-                     brata, Jože pa njun stric (polbrat njunega očeta). Fotografiji hrani Franc
-                     Čadonič. Avtorja fotografij nista znana.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-125" n="125">
-                  <head>Poročna slika Marka Čadoniča in Frančiške Erdeljac, poročila sta se 30. maja
-                     1916 v cerkvi sv. Nikolaja v Pittsburghu. Fotografijo hrani Franc Čadonič.
-                     Avtor fotografije ni znan.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-126" n="126">
-                  <head>Franc Čadonič s poročno fotografijo starih staršev, strica Franca, prastrica
-                     Jožeta in očeta Marka. Avtor fotografije: Božidar Flajšman</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-thumb.jpg"
-                  />
-               </figure>
-               <figure>
-                  <head>Frančiška Tahija</head>
-                  <media url="https://www.youtube.com/embed/yehSGt7Yvps?start=188&amp;end=298" mimeType="video/x-youtube"/>
-               </figure>
-               <figure>
-                  <head>Jože Starešinič</head>
-                  <media url="https://www.youtube.com/embed/eN8mwTa0j6Y?start=31" mimeType="video/x-youtube"/>
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-127" n="127">
-                  <head>Zapiski o pokojnih Francu Čadoniču, Jožetu Čadoniču in Francu Čemasu v
-                     kartoteki, ki jo hrani Nadškofijski arhiv v Ljubljani.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-128" n="128">
-                  <head>Ne tako redko so bili med interniranci starši z otroki. Interniranca sta
-                     bila tako tudi Franc Čemas in njegov sin Ivan. Oče naj bi sinu dajal del svoje
-                     hrane, da bi ta lažje preživel. Sam je zaradi razmer v taborišču umrl in
-                     sporočilo o njegovi smrti, ki ga je moral župnik poslati družini, vidimo zgoraj
-                     desno. Ivan se je po kapitulaciji Italije septembra 1943 zdravil, da bi se
-                     okrepil za pot domov. Slikan je pred bolnišnico, ki je bila nekoč hotel. Na
-                     levi strani je sklep sodišča, ki je zaradi smrti očeta vdovi podelil skrbniške
-                     pravice za njene otroke. Fotografijo in dokument hrani Jože Čemas.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="interview" xml:id="figure-132" n="132">
-                  <head>Intervju: Angele Žugelj</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6.jpg"
-                  />
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-thumb.jpg"
-                  />
-                  <p>Še živeče priče dogodkov so nam govorile, da je župnik Pokorn najverjetneje
-                     v začetku marca 1943 pri maši prebral imena umrlih. Po pričevanju Angele Žugelj
-                     se je Birička (Frančiška Čadonič, roj. Erdeljac) »omrtvila« (onesvestila).
-                     Župnik je s prižnice namreč prebral, da sta umrla njen sin Franc in svak Jože.</p>
-                  <p>Avtor fotografije: Božidar Flajšman.</p>
-                  <media url="https://youtu.be/yZQx25MPTlU" mimeType="video/x-youtube"/>
-               </figure>
-            </div>
-            <div type="chapter" xml:id="exh04-ch09" xml:lang="sl" corresp="#exh04-en-ch09">
-               <head xml:id="OKPM4-head-249">Na poti v šolo</head>
-               <p xml:id="OKPM4-p-156">Otroci iz Zilj so hodili v šolo na Preloko. Okupatorji šolske
-                  mladine niso preganjali. Pouk je brez dolgih prekinitev potekal vsa leta vojne. Za
-                  otroke je bila najbolj pretresljiva smrt očetov ali drugih sorodnikov v
-                  taboriščih, med igro pa jim je pretila tudi neposredna nevarnost. Ko so se kopali
-                  v Kolpi, so nanje prek reke streljali ustaši. Na srečo se nikomur ni nič
-                  zgodilo.</p>
-               <p xml:id="OKPM4-p-156b">Po pričevanjih so morali otroci v šolo vedno mimo postojanke v Dolnjih
-                  Ziljah. Kako je bilo to neprijetno za otroke, ki so morali dnevno mimo vojakov,
-                  bunkerjev in žičnih ovir, si je nemogoče predstavljati. Zgodba, ki nam jo je
-                  povedala Frančiška Tahija (roj. Balkovec), o pozdravih »Buongiorno!« in »Smrt
-                  fašizmu, svoboda narodu!«, kaže, kakšnim pritiskom so bili izpostavljeni
-                  otroci. Na koncu domače vasi so morali Italijane pozdraviti z »Buongiorno!«,
-                  partizane, ki so jih lahko srečali na bližnjici, ki je vodila čez travnike in
-                  jase, pa so morali pozdraviti s »Smrt fašizmu, svoboda narodu!«. Vojna je grobo
-                  prekinila življenja teh otrok. Izpostavljeni so bili različnim nevarnostim in
-                  oviram. Otroci v šoli na Preloki so pravzaprav imeli s šolanjem še srečo. Kljub
-                  različnim državam, ki so jim izdajale spričevala, so ga uspešno zaključili.</p>
-               <figure rend="imageviewer" xml:id="figure-129" n="129">
-                  <head>Na fotografijah so spričevala Frančiške Tahija (roj. Balkovec). V šolskem letu
-                     1942–1943 ji je spričevalo izdala Kraljevina Italija, naslednje šolsko leto
-                     oblast na svobodnem ozemlju, junija 1945 pa ji je za zadnje vojno šolsko leto
-                     (1944/45) spričevalo izdala Demokratična federativna Jugoslavija. Na vseh treh
-                     spričevalih je kot upravnik podpisan Feliks Jug.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-131" n="131">
-                  <head>Frančiška Tahija roj. Balkovec. Avtor: Božidar Flajšman.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-thumb.jpg"
-                  />
-               </figure>
+               <div type="chaper" xml:id="exh04-ch08-subch01">
+                  <head xml:id="OKPM4-head-242">»To je bilo strašno, ker so bile matere notri, Birička
+                     se je omrtvila.«</head>
+                  <p xml:id="OKPM4-p-153">Leta 1913 sta Marko Čadonič iz vasi Balkovci in Frančiška
+                     Erdeljac iz hrvaške vasi Prilišće odšla v Ameriko. Tam sta se spoznala in se leta
+                     1916 poročila.</p>
+                  <p xml:id="OKPM4-p-154">V letih 1917, 1918 in 1919 so se jima rodili Marko, Marija in
+                     Franc. Spomladi 1920 se je mlada družina vrnila v Balkovce. Kasneje se je oče
+                     vrnil v ZDA, kjer je že pred začetkom druge svetovne vojne umrl. Njegovi sinovi so
+                     odraščali skupaj z njegovim mlajšim polbratom Jožetom, ki se je v Balkovcih rodil
+                     leta 1917. Ko se je začela druga svetovna vojna, so bili že možje.</p>
+                  <figure rend="imageviewer" xml:id="figure-124" n="124">
+                     <head>Na levi fotografiji je Franc Čadonič (1919–1942), na desni pa sta levo Jože
+                        Čadonič (1917–1942) in desno Marko Čadonič (1917–2000). Franc in Marko sta bila
+                        brata, Jože pa njun stric (polbrat njunega očeta). Fotografiji hrani Franc
+                        Čadonič. Avtorja fotografij nista znana.</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-thumb.jpg"
+                     />
+                  </figure>
+                  <figure rend="imageviewer" xml:id="figure-125" n="125">
+                     <head>Poročna slika Marka Čadoniča in Frančiške Erdeljac, poročila sta se 30. maja
+                        1916 v cerkvi sv. Nikolaja v Pittsburghu. Fotografijo hrani Franc Čadonič.
+                        Avtor fotografije ni znan.</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-thumb.jpg"
+                     />
+                  </figure>
+                  <figure rend="imageviewer" xml:id="figure-126" n="126">
+                     <head>Franc Čadonič s poročno fotografijo starih staršev, strica Franca, prastrica
+                        Jožeta in očeta Marka. Avtor fotografije: Božidar Flajšman</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-thumb.jpg"
+                     />
+                  </figure>
+                  <figure>
+                     <head>Frančiška Tahija</head>
+                     <media url="https://www.youtube.com/embed/yehSGt7Yvps?start=188&amp;end=298" mimeType="video/x-youtube"/>
+                  </figure>
+                  <figure>
+                     <head>Jože Starešinič</head>
+                     <media url="https://www.youtube.com/embed/eN8mwTa0j6Y?start=31" mimeType="video/x-youtube"/>
+                  </figure>
+                  <figure rend="imageviewer" xml:id="figure-127" n="127">
+                     <head>Zapiski o pokojnih Francu Čadoniču, Jožetu Čadoniču in Francu Čemasu v
+                        kartoteki, ki jo hrani Nadškofijski arhiv v Ljubljani.</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-thumb.jpg"
+                     />
+                  </figure>
+                  <figure rend="imageviewer" xml:id="figure-128" n="128">
+                     <head>Ne tako redko so bili med interniranci starši z otroki. Interniranca sta
+                        bila tako tudi Franc Čemas in njegov sin Ivan. Oče naj bi sinu dajal del svoje
+                        hrane, da bi ta lažje preživel. Sam je zaradi razmer v taborišču umrl in
+                        sporočilo o njegovi smrti, ki ga je moral župnik poslati družini, vidimo zgoraj
+                        desno. Ivan se je po kapitulaciji Italije septembra 1943 zdravil, da bi se
+                        okrepil za pot domov. Slikan je pred bolnišnico, ki je bila nekoč hotel. Na
+                        levi strani je sklep sodišča, ki je zaradi smrti očeta vdovi podelil skrbniške
+                        pravice za njene otroke. Fotografijo in dokument hrani Jože Čemas.</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-thumb.jpg"
+                     />
+                  </figure>
+                  <figure rend="interview" xml:id="figure-132" n="132">
+                     <head>Intervju: Angele Žugelj</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6.jpg"
+                     />
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-thumb.jpg"
+                     />
+                     <p>Še živeče priče dogodkov so nam govorile, da je župnik Pokorn najverjetneje
+                        v začetku marca 1943 pri maši prebral imena umrlih. Po pričevanju Angele Žugelj
+                        se je Birička (Frančiška Čadonič, roj. Erdeljac) »omrtvila« (onesvestila).
+                        Župnik je s prižnice namreč prebral, da sta umrla njen sin Franc in svak Jože.</p>
+                     <p>Avtor fotografije: Božidar Flajšman.</p>
+                     <media url="https://youtu.be/yZQx25MPTlU" mimeType="video/x-youtube"/>
+                  </figure>
+               </div>
+               <div type="chapter" xml:id="exh04-ch08-subch02">
+                  <head xml:id="OKPM4-head-249">Na poti v šolo</head>
+                  <p xml:id="OKPM4-p-156">Otroci iz Zilj so hodili v šolo na Preloko. Okupatorji šolske
+                     mladine niso preganjali. Pouk je brez dolgih prekinitev potekal vsa leta vojne. Za
+                     otroke je bila najbolj pretresljiva smrt očetov ali drugih sorodnikov v
+                     taboriščih, med igro pa jim je pretila tudi neposredna nevarnost. Ko so se kopali
+                     v Kolpi, so nanje prek reke streljali ustaši. Na srečo se nikomur ni nič
+                     zgodilo.</p>
+                  <p xml:id="OKPM4-p-156b">Po pričevanjih so morali otroci v šolo vedno mimo postojanke v Dolnjih
+                     Ziljah. Kako je bilo to neprijetno za otroke, ki so morali dnevno mimo vojakov,
+                     bunkerjev in žičnih ovir, si je nemogoče predstavljati. Zgodba, ki nam jo je
+                     povedala Frančiška Tahija (roj. Balkovec), o pozdravih »Buongiorno!« in »Smrt
+                     fašizmu, svoboda narodu!«, kaže, kakšnim pritiskom so bili izpostavljeni
+                     otroci. Na koncu domače vasi so morali Italijane pozdraviti z »Buongiorno!«,
+                     partizane, ki so jih lahko srečali na bližnjici, ki je vodila čez travnike in
+                     jase, pa so morali pozdraviti s »Smrt fašizmu, svoboda narodu!«. Vojna je grobo
+                     prekinila življenja teh otrok. Izpostavljeni so bili različnim nevarnostim in
+                     oviram. Otroci v šoli na Preloki so pravzaprav imeli s šolanjem še srečo. Kljub
+                     različnim državam, ki so jim izdajale spričevala, so ga uspešno zaključili.</p>
+                  <figure rend="imageviewer" xml:id="figure-129" n="129">
+                     <head>Na fotografijah so spričevala Frančiške Tahija (roj. Balkovec). V šolskem letu
+                        1942–1943 ji je spričevalo izdala Kraljevina Italija, naslednje šolsko leto
+                        oblast na svobodnem ozemlju, junija 1945 pa ji je za zadnje vojno šolsko leto
+                        (1944/45) spričevalo izdala Demokratična federativna Jugoslavija. Na vseh treh
+                        spričevalih je kot upravnik podpisan Feliks Jug.</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-thumb.jpg"
+                     />
+                  </figure>
+                  <figure rend="imageviewer" xml:id="figure-131" n="131">
+                     <head>Frančiška Tahija roj. Balkovec. Avtor: Božidar Flajšman.</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-thumb.jpg"
+                     />
+                  </figure>
+               </div>
             </div>
          </div>
          <div type="part" xml:id="en-exhibition04" xml:lang="en" corresp="#exhibition04">
@@ -5089,6 +5099,10 @@
                   <graphic
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano6-image4-thumb.jpg"
                   />
+               </figure>
+               <figure xml:id="figure-90b-en">
+                  <head>Božidar Flajšman, Blaž Štangelj. Utrjena linija med Italijo in NDH v Beli Krajini</head>
+                  <media url="https://youtu.be/3WphYMxAkUw" mimeType="video/x-youtube"/>
                </figure>
             </div>
             <div type="chapter" xml:id="exh04-en-ch04" xml:lang="en" corresp="#exh04-ch04">
@@ -5769,176 +5783,176 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-thumb.jpg"
                   />
                </figure>
-            </div>
-            <div type="chapter" xml:id="exh04-en-ch08a" xml:lang="en" corresp="#exh04-ch08a">
-               <head xml:id="OKPM4-head-315">»It was horrible because mothers were inside; Birička
-                  fainted«</head>
-               <p xml:id="OKPM4-p-189">In 1913, Marko Čadonič from the village of Balkovci and
-                  Frančiška Erdeljac from the Croatian village of Prilišče went to America. They met
-                  each other there and got married in 1916.</p>
-               <p xml:id="OKPM4-p-190">In 1917, 1918 and 1919, their children Marko, Marija and
-                  Franc were born. In the spring of 1920, the young family returned to Balkovci.
-                  Somewhat later, the father returned to the USA, where he died before World War II
-                  started. In Marko's native village, a son named Jože was born to his father in
-                  1917. The boys grew up and by the time World War II started they were grown
-                  men.</p>
-               <figure rend="imageviewer" xml:id="figure-124-en" n="124">
-                  <head>Shown in the left picture is Franc Čadonič (1919-1942); the man on the left
-                     in the right picture is Jože Čadonič (1917-1942) and on the right is Marko
-                     Čadonič (1917- 2000). Franc and Marko were brothers, while Jože was their uncle
-                     (their father's halfbrother). Unknown photographers. Private archive of Franc
-                     Čadonič.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-125-en" n="125">
-                  <head>The wedding picture of Marko Čadonič and Frančiška Erdeljac; they were
-                     married on 30 May 1916 at the St Nicholas Church in Pittsburgh. Unknown
-                     photographer, private archive of Franc Čadonič.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-126-en" n="126">
-                  <head>Franc Čadonič with the wedding photograph of his grandparents, uncle Franc,
-                     great-uncle Jože and father Marko. Author: Božidar Flajšman</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-thumb.jpg"
-                  />
-               </figure>
-               <figure>
-                  <head>Frančiška Tahija</head>
-                  <media url="https://www.youtube.com/embed/yehSGt7Yvps?start=188&amp;end=298" mimeType="video/x-youtube"/>
-               </figure>
-               <figure>
-                  <head>Jože Starešinič</head>
-                  <media url="https://www.youtube.com/embed/eN8mwTa0j6Y?start=31" mimeType="video/x-youtube"/>
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-127-en" n="127">
-                  <head>Notes about the late Franc Čadonič, Jože Čadonič and Franc Čemas in a file
-                     kept by Nadškofijski arhiv Archiepiscopal Archives Ljubljana</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-128-en" n="128">
-                  <head>Quite often, the internees were parents and their children. Two of them were
-                     Franc Čemas and his son Ivan. The father was told to give his son some of his
-                     food so he would survive; sadly, that was exactly what happened. The father
-                     died and the note informing his family of his death, sent by the parish priest,
-                     is shown in the top right corner. After Italy had capitulated in September
-                     1943, Ivan underwent treatment to regain his strength for the journey home. He
-                     was photographed in front of the hospital, a former hotel. On the left is the
-                     court decision which awarded the widow custody of her children, because her
-                     husband had died. The picture and documents are owned by Jože Čemas,
-                     Zilje.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="interview" xml:id="figure-132-en" n="132">
-                  <head>Interview: Angele Žugelj</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6.jpg"
-                  />
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-thumb.jpg"
-                  />
-                  <p>Most likely in the beginning of March 1943, the parish priest Pokorn had to
-                     read the names of the deceased during mass; various witnesses have corroborated
-                     this. According to Angela Žugelj, Birička fainted. Birička is Frančiška Čadonič
-                     (maiden name Erdeljac). The parish priest read from the pulpit that her son
-                     Franc and brother-in-law Jože had died.</p>
-                  <p>Author: Božidar Flajšman.</p>
-                  <media url="https://youtu.be/yZQx25MPTlU" mimeType="video/x-youtube"/>
-               </figure>
-            </div>
-            <div type="chapter" xml:id="exh04-en-ch09" xml:lang="en" corresp="#exh04-ch09">
-               <head xml:id="OKPM4-head-322">On the Way to School</head>
-               <p xml:id="OKPM4-p-192">The children from Zilje attended school in Preloka. The
-                  occupiers did not harass schoolchildren. Lessons were held throughout the war
-                  years without any lengthy suspensions. The most shocking thing the children
-                  experienced was the death of their fathers or other relatives in camps. But the
-                  children themselves were also in danger when playing. When they were bathing in
-                  the Kolpa River, the Ustasha shot at them from across the river. Luckily, no one
-                  got hurt.</p>
-               <p xml:id="OKPM4-p-192a">According to eyewitness accounts, the children had to pass by the post in
-                  Dolnje Zilje on their way to school. It is impossible to imagine how
-                  uncomfortable that must have been for children to walk by soldiers, bunkers and
-                  barbed wire obstacles every day. The story we heard from Frančiška Tahija
-                  (maiden name Balkovec) about the greeting »Buongiorno«, which they were taught
-                  by the Italians, and the greeting »Death to Fascism, freedom to the people«
-                  they were taught by the partisans, may seem adorable. However, it shows the
-                  pressure the children were under as they passed by different soldiers on their
-                  way to school. At the end of their native village they had to walk by Italians,
-                  but if they took a shortcut across the meadows and clearings, they might have
-                  run into partisans. The war turned those children's lives upside down. They
-                  were exposed to various dangers and obstacles. The children in the school in
-                  Preloka were in fact lucky. They successfully completed their schooling,
-                  despite the fact that their school-leaving certificates were issued by
-                  different countries.</p>
-               <figure rend="imageviewer" xml:id="figure-129-en" n="129">
-                  <head>The picture shows the school-leaving certificates of
-                     Frančiška Tahija (maiden name Balkovec). In the 1942-1943 school year, her
-                     school-leaving certificate was issued by the Kingdom of Italy; in the next
-                     school year it was issued by the Government of the Free Territory; after the
-                     final year of the war, in the 1944-1945 school year, or more precisely in June
-                     1945, she received a school-leaving certificate from the Democratic Federal
-                     Yugoslavia in her liberated homeland. Signed as the headmaster on all three
-                     school-leaving certificates is Feliks Jug.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-thumb.jpg"
-                  />
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-131-en" n="131">
-                  <head>Frančiška Tahija, nee Balkovec. Author: Božidar Flajšman.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-thumb.jpg"
-                  />
-               </figure>
+               <div type="chapter" xml:id="exh04-en-ch08-subch01">
+                  <head xml:id="OKPM4-head-315">»It was horrible because mothers were inside; Birička
+                     fainted«</head>
+                  <p xml:id="OKPM4-p-189">In 1913, Marko Čadonič from the village of Balkovci and
+                     Frančiška Erdeljac from the Croatian village of Prilišče went to America. They met
+                     each other there and got married in 1916.</p>
+                  <p xml:id="OKPM4-p-190">In 1917, 1918 and 1919, their children Marko, Marija and
+                     Franc were born. In the spring of 1920, the young family returned to Balkovci.
+                     Somewhat later, the father returned to the USA, where he died before World War II
+                     started. In Marko's native village, a son named Jože was born to his father in
+                     1917. The boys grew up and by the time World War II started they were grown
+                     men.</p>
+                  <figure rend="imageviewer" xml:id="figure-124-en" n="124">
+                     <head>Shown in the left picture is Franc Čadonič (1919-1942); the man on the left
+                        in the right picture is Jože Čadonič (1917-1942) and on the right is Marko
+                        Čadonič (1917- 2000). Franc and Marko were brothers, while Jože was their uncle
+                        (their father's halfbrother). Unknown photographers. Private archive of Franc
+                        Čadonič.</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image4-thumb.jpg"
+                     />
+                  </figure>
+                  <figure rend="imageviewer" xml:id="figure-125-en" n="125">
+                     <head>The wedding picture of Marko Čadonič and Frančiška Erdeljac; they were
+                        married on 30 May 1916 at the St Nicholas Church in Pittsburgh. Unknown
+                        photographer, private archive of Franc Čadonič.</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image5-thumb.jpg"
+                     />
+                  </figure>
+                  <figure rend="imageviewer" xml:id="figure-126-en" n="126">
+                     <head>Franc Čadonič with the wedding photograph of his grandparents, uncle Franc,
+                        great-uncle Jože and father Marko. Author: Božidar Flajšman</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano11-image6-thumb.jpg"
+                     />
+                  </figure>
+                  <figure>
+                     <head>Frančiška Tahija</head>
+                     <media url="https://www.youtube.com/embed/yehSGt7Yvps?start=188&amp;end=298" mimeType="video/x-youtube"/>
+                  </figure>
+                  <figure>
+                     <head>Jože Starešinič</head>
+                     <media url="https://www.youtube.com/embed/eN8mwTa0j6Y?start=31" mimeType="video/x-youtube"/>
+                  </figure>
+                  <figure rend="imageviewer" xml:id="figure-127-en" n="127">
+                     <head>Notes about the late Franc Čadonič, Jože Čadonič and Franc Čemas in a file
+                        kept by Nadškofijski arhiv Archiepiscopal Archives Ljubljana</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image1-thumb.jpg"
+                     />
+                  </figure>
+                  <figure rend="imageviewer" xml:id="figure-128-en" n="128">
+                     <head>Quite often, the internees were parents and their children. Two of them were
+                        Franc Čemas and his son Ivan. The father was told to give his son some of his
+                        food so he would survive; sadly, that was exactly what happened. The father
+                        died and the note informing his family of his death, sent by the parish priest,
+                        is shown in the top right corner. After Italy had capitulated in September
+                        1943, Ivan underwent treatment to regain his strength for the journey home. He
+                        was photographed in front of the hospital, a former hotel. On the left is the
+                        court decision which awarded the widow custody of her children, because her
+                        husband had died. The picture and documents are owned by Jože Čemas,
+                        Zilje.</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image2-thumb.jpg"
+                     />
+                  </figure>
+                  <figure rend="interview" xml:id="figure-132-en" n="132">
+                     <head>Interview: Angele Žugelj</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6.jpg"
+                     />
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image6-thumb.jpg"
+                     />
+                     <p>Most likely in the beginning of March 1943, the parish priest Pokorn had to
+                        read the names of the deceased during mass; various witnesses have corroborated
+                        this. According to Angela Žugelj, Birička fainted. Birička is Frančiška Čadonič
+                        (maiden name Erdeljac). The parish priest read from the pulpit that her son
+                        Franc and brother-in-law Jože had died.</p>
+                     <p>Author: Božidar Flajšman.</p>
+                     <media url="https://youtu.be/yZQx25MPTlU" mimeType="video/x-youtube"/>
+                  </figure>
+               </div>
+               <div type="chapter" xml:id="exh04-en-ch08-subch02" xml:lang="en" corresp="#exh04-ch09">
+                  <head xml:id="OKPM4-head-322">On the Way to School</head>
+                  <p xml:id="OKPM4-p-192">The children from Zilje attended school in Preloka. The
+                     occupiers did not harass schoolchildren. Lessons were held throughout the war
+                     years without any lengthy suspensions. The most shocking thing the children
+                     experienced was the death of their fathers or other relatives in camps. But the
+                     children themselves were also in danger when playing. When they were bathing in
+                     the Kolpa River, the Ustasha shot at them from across the river. Luckily, no one
+                     got hurt.</p>
+                  <p xml:id="OKPM4-p-192a">According to eyewitness accounts, the children had to pass by the post in
+                     Dolnje Zilje on their way to school. It is impossible to imagine how
+                     uncomfortable that must have been for children to walk by soldiers, bunkers and
+                     barbed wire obstacles every day. The story we heard from Frančiška Tahija
+                     (maiden name Balkovec) about the greeting »Buongiorno«, which they were taught
+                     by the Italians, and the greeting »Death to Fascism, freedom to the people«
+                     they were taught by the partisans, may seem adorable. However, it shows the
+                     pressure the children were under as they passed by different soldiers on their
+                     way to school. At the end of their native village they had to walk by Italians,
+                     but if they took a shortcut across the meadows and clearings, they might have
+                     run into partisans. The war turned those children's lives upside down. They
+                     were exposed to various dangers and obstacles. The children in the school in
+                     Preloka were in fact lucky. They successfully completed their schooling,
+                     despite the fact that their school-leaving certificates were issued by
+                     different countries.</p>
+                  <figure rend="imageviewer" xml:id="figure-129-en" n="129">
+                     <head>The picture shows the school-leaving certificates of
+                        Frančiška Tahija (maiden name Balkovec). In the 1942-1943 school year, her
+                        school-leaving certificate was issued by the Kingdom of Italy; in the next
+                        school year it was issued by the Government of the Free Territory; after the
+                        final year of the war, in the 1944-1945 school year, or more precisely in June
+                        1945, she received a school-leaving certificate from the Democratic Federal
+                        Yugoslavia in her liberated homeland. Signed as the headmaster on all three
+                        school-leaving certificates is Feliks Jug.</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image3-thumb.jpg"
+                     />
+                  </figure>
+                  <figure rend="imageviewer" xml:id="figure-131-en" n="131">
+                     <head>Frančiška Tahija, nee Balkovec. Author: Božidar Flajšman.</head>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-normal.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-slide.jpg"/>
+                     <graphic
+                        url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image5-thumb.jpg"
+                     />
+                  </figure>
+               </div>
             </div>
          </div>
       </body>
@@ -6134,7 +6148,7 @@
                </bibl>
             </listBibl>
          </div>
-         <divGen type="index" xml:id="persons" xml:lang="sl" corresp="#en-persons">
+         <!--<divGen type="index" xml:id="persons" xml:lang="sl" corresp="#en-persons">
             <head>Seznam oseb</head>
          </divGen>
          <divGen type="index" xml:id="en-persons" xml:lang="en" corresp="#persons">
@@ -6145,7 +6159,7 @@
          </divGen>
          <divGen type="index" xml:id="en-places" xml:lang="en" corresp="#places">
             <head>List of places</head>
-         </divGen>
+         </divGen>-->
       </back>
    </text>
 </TEI>
