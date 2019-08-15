@@ -4160,9 +4160,9 @@
                   <head>Grafični prikaz strukture smrtnih žrtev druge svetovne vojne na Žirovskem.
                      Narejen na podlagi prispevka: Zajec, Vse žrtve druge svetovne vojne med
                      Žirovci.</head>
-                  <graphic xml:id="exh03-pano8-chart1" url="Charts/exh03-pano8-chart1.html" mimeType="application/javascript"/>
-                  <graphic url="Charts/exh03-pano8-chart1.svg" mimeType="image/svg+xml"/>
-                  <graphic url="Charts/exh03-pano8-chart1.jpeg" mimeType="image/jpeg"/>
+                  <graphic xml:id="exh03-pano8-chart1" url="docs/exh03-pano8-chart1.html" mimeType="application/javascript"/>
+                  <graphic url="docs/exh03-pano8-chart1.svg" mimeType="image/svg+xml"/>
+                  <graphic url="docs/exh03-pano8-chart1.jpeg" mimeType="image/jpeg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure3-34" n="34">
                   <head>Zemljevid prikazuje osvobojeno ozemlje, v katerega so spadale tudi Žiri. Ob
@@ -5324,19 +5324,13 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh03/exh03-Meje-pano8-image2-thumb.jpg"
                   />
                </figure>
-               <figure rend="imageviewer" xml:id="figure3-33-en" n="33">
+               <figure type="chart" xml:id="figure3-33-en" n="33">
                   <head>The graph presents the structure of the World War II victims in Žiri Region.
                      The graph is based on the following article: Zajec, Vse žrtve druge svetovne
                      vojne med Žirovci.</head>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh03/exh03-Meje-pano8-image3.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh03/exh03-Meje-pano8-image3-normal.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh03/exh03-Meje-pano8-image3-slide.jpg"/>
-                  <graphic
-                     url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh03/exh03-Meje-pano8-image3-thumb.jpg"
-                  />
+                  <graphic xml:id="exh03-pano8-chart1-en" url="docs/exh03-pano8-chart1.html" mimeType="application/javascript"/>
+                  <graphic url="docs/exh03-pano8-chart1.svg" mimeType="image/svg+xml"/>
+                  <graphic url="docs/exh03-pano8-chart1.jpeg" mimeType="image/jpeg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure3-34-en" n="34">
                   <head>The map depicts the liberated territory, which included Žiri. Following the
