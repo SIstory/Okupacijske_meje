@@ -3464,6 +3464,7 @@
                </figure>
             </div>
          </div>
+         <!-- exh2: Rogaška Slatina -->
          <div type="part" xml:id="exhibition03" xml:lang="sl" corresp="#en-exhibition03">
             <head xml:id="OKPM3-head-183">Idrija in Žiri kot obmejno območje, 1941-1945</head>
             <div type="chapter" xml:id="exh03-ch01" xml:lang="sl" corresp="#en-exh03-ch01">
@@ -3476,7 +3477,10 @@
                   Sp. Idrije, Vojskega, Čekovnika, Dol in Ledin postala središče razširjene občine,
                   ki je na vzhodu mejila na Kraljevino Srbov, Hrvatov in Slovencev (SHS, pozneje
                   Jugoslavija), po aprilu leta 1941 pa na nemško okupacijsko območje.</p>
-               <div type="chapter" xml:id="exh03-ch01-subch01">
+               <figure>
+                  <media url="https://youtu.be/3FbnSqrfEu0" mimeType="video/x-youtube"/>
+               </figure>
+               <div type="subchapter" xml:id="exh03-ch01-subch01">
                   <head xml:id="OKPM3-head-185">Raznarodovalni pritiski</head>
                   <p xml:id="OKPM3-p-122">Prebivalstvo je bilo posebej po vzpostavitvi fašistične
                      oblasti v Italiji podvrženo močnejšim potujčevalnim pritiskom. Od leta 1924 so
@@ -3495,7 +3499,7 @@
                      ter poitalijančena imena krajev in ulic, potujčevanju so bila zaradi
                      izsiljevanja podvržena tudi slovenska osebna imena.</p>
                </div>
-               <div type="chapter" xml:id="exh03-ch01-subch02">
+               <div type="subchapter" xml:id="exh03-ch01-subch02">
                   <head xml:id="OKPM3-head-186">Trdno v italijanskih rokah</head>
                   <p xml:id="OKPM3-p-123">V Idriji so imele do leta 1943 sedež različne obmejne
                      varnostne službe. V okviru VI. tržaške legije je tu delovalo poveljstvo čete
@@ -3613,7 +3617,7 @@
                   1941 še vedno policijska, davčna in carinska meja, obmejne utrdbe pa so ostale
                   popolnjene z vojaštvom. Njihov pomen je ob vzponu odporniškega gibanja
                   narastel.</p>
-               <div type="chapter" xml:id="exh03-ch02-subch-01">
+               <div type="subchapter" xml:id="exh03-ch02-subch-01">
                   <head xml:id="OKPM3-head-194">Kapitulacija Italije</head>
                   <p xml:id="OKPM3-p-125">Padcu fašizma v juliju 1943 je 8. septembra sledila
                      kapitulacija Kraljevine Italije. Italijansko uradništvo in vojaštvo je pričelo
@@ -3625,7 +3629,7 @@
                      količine raznovrstnega materiala, ki so se ga poslužili tako partizani kot
                      civilno prebivalstvo.</p>
                </div>
-               <div type="chapter" xml:id="exh03-ch02-subch-02">
+               <div type="subchapter" xml:id="exh03-ch02-subch-02">
                   <head xml:id="OKPM3-head-195">Oblast Osvobodilne fronte</head>
                   <p xml:id="OKPM3-p-126">Po odhodu Italijanov so v Idriji osnovali krajevni komite
                      Osvobodilne fronte (OF), ki se je nastanil v prostorih nekdanjega gostišča Pri
@@ -3633,7 +3637,7 @@
                      straže so nadzirale odvoz italijanskega orožja. Zaradi nemških vdorov so za
                      obrambo mesta z mobilizacijo vzpostavili Idrijski odred.</p>
                </div>
-               <div type="chapter" xml:id="exh03-ch02-subch-03">
+               <div type="subchapter" xml:id="exh03-ch02-subch-03">
                   <head xml:id="OKPM3-head-196">Prihod nemške vojske</head>
                   <p xml:id="OKPM3-p-127">Prva nemška patrulja se je Idriji približala 10. ali 11.
                      septembra 1943 in pri tem na Marofu ubila dva domačina. Sledilo je več
@@ -3734,6 +3738,21 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh03/exh03-Meje-pano4-image6-thumb.jpg"
                   />
                </figure>
+               <figure>
+                  <media url="https://youtu.be/3suzpi8YLHQ" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <media url="https://youtu.be/6M4JM_QkHsA" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <media url="https://youtu.be/FjECdYCplEI" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <media url="https://youtu.be/MCG8W8CxBKM" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <media url="https://youtu.be/BNPdse5c-2c" mimeType="video/x-youtube"/>
+               </figure>
             </div>
             <div type="chapter" xml:id="exh03-ch03" xml:lang="sl" corresp="#en-exh03-ch03">
                <head xml:id="OKPM3-head-203">Nemška okupacija</head>
@@ -3749,7 +3768,7 @@
                   povezave. Žičnati obroč so lahko prebivalci zapustili s posebno prepustnico, ki jo
                   je izdala nemška komanda mesta. Dnevno je moralo prek prehodov v mesto vstopati
                   tudi okrog sto rudarjev, ki so živeli zunaj žičnega obroča.</p>
-               <div type="chapter" xml:id="exh03-ch03-subch1">
+               <div type="subchapter" xml:id="exh03-ch03-subch1">
                   <head xml:id="OKPM3-head-204">Življenje pod nemško upravo</head>
                   <p xml:id="OKPM3-p-129">Kljub nemški vojaški zasedbi in vzpostavitvi t. i.
                      Operativne cone Jadransko primorje je bilo idrijsko območje uradno še vedno
@@ -3855,6 +3874,15 @@
                   <graphic
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh03/exh03-Meje-pano5-image6-thumb.jpg"
                   />
+               </figure>
+               <figure>
+                  <media url="https://youtu.be/bmL5lVvSo7g" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <media url="https://youtu.be/sSpH2jrg8PI" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <media url="https://youtu.be/8qNRk1057gg" mimeType="video/x-youtube"/>
                </figure>
             </div>
             <div type="chapter" xml:id="exh03-ch04" xml:lang="sl" corresp="#en-exh03-ch04">
@@ -4160,7 +4188,8 @@
                   <head>Grafični prikaz strukture smrtnih žrtev druge svetovne vojne na Žirovskem.
                      Narejen na podlagi prispevka: Zajec, Vse žrtve druge svetovne vojne med
                      Žirovci.</head>
-                  <graphic xml:id="exh03-pano8-chart1" url="docs/exh03-pano8-chart1.html" mimeType="application/javascript"/>
+                  <graphic xml:id="exh03-pano8-chart1" url="docs/exh03-pano8-chart1.html"
+                     mimeType="application/javascript"/>
                   <graphic url="docs/exh03-pano8-chart1.svg" mimeType="image/svg+xml"/>
                   <graphic url="docs/exh03-pano8-chart1.jpeg" mimeType="image/jpeg"/>
                </figure>
@@ -4228,7 +4257,7 @@
                   po stari rapalski meji, nato pa se je odcepila in se v smeri proti vzhodu
                   nadaljevala severno od Šentjošta nad Horjulom, mimo Polhovega Gradca do Šentvida
                   pri Ljubljani.</p>
-               <div type="chapter" xml:id="exh03-ch07-subch01">
+               <div type="subchapter" xml:id="exh03-ch07-subch01">
                   <head xml:id="OKPM3-head-233">Utrjevanje meje</head>
                   <p xml:id="OKPM3-p-139">Meja je nekaj časa ostala prehodna ter neoznačena, nato pa
                      so jo Nemci spomladi leta 1942 pričeli utrjevati. Celotno mejno infrastrukturo
@@ -4346,7 +4375,7 @@
                   prebivalstvo posluževati ilegalnega prehajanja meje. Naskrivaj so mejo prehajali
                   tudi zaradi potencialne internacije, deportacije ter mobilizacije. Dejanje, ki je
                   bilo vsled utrjenosti meje izjemno nevarno, se je pogosto končalo tragično.</p>
-               <div type="chapter" xml:id="exh03-ch08-subch01">
+               <div type="subchapter" xml:id="exh03-ch08-subch01">
                   <head xml:id="OKPM3-head-241">Postopno čiščenje obmejnega pasu</head>
                   <p xml:id="OKPM3-p-142">Nevarnost je ostala tudi po kapitulaciji Italije, nemški
                      zasedbi Idrije 23. septembra 1943 ter umiku Nemcev iz Žirov 23. oktobra 1943.
@@ -4600,7 +4629,10 @@
                   Municipality, which at the time bordered the Kingdom of Serbs, Croats and Slovenes
                   (SCS, which later became Yugoslavia), and later, after April of 1941, bordered the
                   German-occupied area.</p>
-               <div type="chapter" xml:id="en-exh03-ch01-subch01">
+               <figure>
+                  <media url="https://youtu.be/3FbnSqrfEu0" mimeType="video/x-youtube"/>
+               </figure>
+               <div type="subchapter" xml:id="en-exh03-ch01-subch01">
                   <head xml:id="OKPM3-head-251">The pressures of denationalization</head>
                   <p xml:id="OKPM3-p-155">After the establishment of the Fascist rule in Italy, the
                      population was substentianally subjected to denationalization. From 1924
@@ -4621,7 +4653,7 @@
                      and Italianised names of cities and streets. Slovenian personal names were also
                      subjected to Italianisation by means of extortion.</p>
                </div>
-               <div type="chapter" xml:id="en-exh03-ch01-subch02">
+               <div type="subchapter" xml:id="en-exh03-ch01-subch02">
                   <head xml:id="OKPM3-head-252">Firmly in Italian hands</head>
                   <p xml:id="OKPM3-p-156">Up until 1943, Idrija was used as headquarters of various
                      border security services. This was where the commanding offices for the units
@@ -4746,7 +4778,7 @@
                   had been dismembered, the Rapallo Border remained to be a police, tax, and customs
                   border, with the border fortifications countinuing to be garrisoned. In light of
                   the rising resistance movement, their significance increased.</p>
-               <div type="chapter" xml:id="en-exh03-ch02-subch01">
+               <div type="subchapter" xml:id="en-exh03-ch02-subch01">
                   <head xml:id="OKPM3-head-260">Capitulation of Italy</head>
                   <p xml:id="OKPM3-p-158">The fall of Fascism in July of 1943 was followed by the
                      Kingdom of Italy’s capitulation on 8 September. The Italian Civil Service and
@@ -4758,7 +4790,7 @@
                      there still remained large quantities of various materials, which were then
                      made use of by the civilian population as well as by the Partisans.</p>
                </div>
-               <div type="chapter" xml:id="en-exh03-ch02-subch02">
+               <div type="subchapter" xml:id="en-exh03-ch02-subch02">
                   <head xml:id="OKPM3-head-261">Liberation Front’s rule</head>
                   <p xml:id="OKPM3-p-159">After the Italians left, a local committee of the
                      Liberation Front (OF) was based on the premisis of the former restaurant Pri
@@ -4767,7 +4799,7 @@
                      invasions, the Partisans mobilised and established a unit called Idrijski odred
                      with the task of defending the town.</p>
                </div>
-               <div type="chapter" xml:id="en-exh03-ch02-subch03">
+               <div type="subchapter" xml:id="en-exh03-ch02-subch03">
                   <head xml:id="OKPM3-head-262">The arrival of German army</head>
                   <p xml:id="OKPM3-p-160">The first German patrol approached Idrija on 10 or 11
                      September 1943 and killed two locals in Marof. The Germans were unsuccessful in
@@ -4873,6 +4905,21 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh03/exh03-Meje-pano4-image6-thumb.jpg"
                   />
                </figure>
+               <figure>
+                  <media url="https://youtu.be/3suzpi8YLHQ" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <media url="https://youtu.be/6M4JM_QkHsA" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <media url="https://youtu.be/FjECdYCplEI" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <media url="https://youtu.be/MCG8W8CxBKM" mimeType="video/x-youtube"/>
+               </figure>
+               <figure>
+                  <media url="https://youtu.be/BNPdse5c-2c" mimeType="video/x-youtube"/>
+               </figure>
             </div>
             <div type="chapter" xml:id="en-exh03-ch03" xml:lang="en" corresp="#exh03-ch03">
                <head xml:id="OKPM3-head-269">German occupation</head>
@@ -4890,7 +4937,7 @@
                   barbed-wire circle, they needed a special pass, which was issued by the German
                   command of the town. About one hundred miners who lived outside of the circle also
                   needed to enter the town through the crossings every day.</p>
-               <div type="chapter" xml:id="en-exh03-ch03-subch01">
+               <div type="subchapter" xml:id="en-exh03-ch03-subch01">
                   <head xml:id="OKPM3-head-270">Living under German administration</head>
                   <p xml:id="OKPM3-p-162">Despite the German military occupation and the
                      establishment of the so-called Operational Zone of the Adriatic Littoral, the
@@ -5328,7 +5375,8 @@
                   <head>The graph presents the structure of the World War II victims in Žiri Region.
                      The graph is based on the following article: Zajec, Vse žrtve druge svetovne
                      vojne med Žirovci.</head>
-                  <graphic xml:id="exh03-pano8-chart1-en" url="docs/exh03-pano8-chart1.html" mimeType="application/javascript"/>
+                  <graphic xml:id="exh03-pano8-chart1-en" url="docs/exh03-pano8-chart1.html"
+                     mimeType="application/javascript"/>
                   <graphic url="docs/exh03-pano8-chart1.svg" mimeType="image/svg+xml"/>
                   <graphic url="docs/exh03-pano8-chart1.jpeg" mimeType="image/jpeg"/>
                </figure>
@@ -5399,7 +5447,7 @@
                   Rapallo Border. At the aforementioned sectoral boundary marker, however, the
                   border branched off to the East and continued north of Šentjošt nad Horjulom, past
                   Polhov Gradec, and all the way to Šentvid pri Ljubljani.</p>
-               <div type="chapter" xml:id="en-exh03-ch07-subch01">
+               <div type="subchapter" xml:id="en-exh03-ch07-subch01">
                   <head xml:id="OKPM3-head-299">Fortifying the border</head>
                   <p xml:id="OKPM3-p-172">The border remained passable and unmarked for some time,
                      until the Germans started fortifying it in the spring of 1942. The entire
@@ -5527,7 +5575,7 @@
                   also secretly crossing the border due to threats of internment, deportation, and
                   mobilisation. These acts, which were extremely dangerous due to the highly
                   fortified border, frequently had a tragic end.</p>
-               <div type="chapter" xml:id="en-exh03-ch08-subch01">
+               <div type="subchapter" xml:id="en-exh03-ch08-subch01">
                   <head xml:id="OKPM3-head-307">Gradual cleanse of the frontier</head>
                   <p xml:id="OKPM3-p-175">The danger remained in place even after Italy’s
                      capitulation, German occupation of Idrija on 23 September 1943, and German
@@ -6859,7 +6907,7 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-thumb.jpg"
                   />
                </figure>
-               <div type="chaper" xml:id="exh04-ch08-subch01">
+               <div type="subchaper" xml:id="exh04-ch08-subch01">
                   <head xml:id="OKPM4-head-242">»To je bilo strašno, ker so bile matere notri,
                      Birička se je omrtvila.«</head>
                   <p xml:id="OKPM4-p-153">Leta 1913 sta Marko Čadonič iz vasi Balkovci in Frančiška
@@ -6971,7 +7019,7 @@
                      <media url="https://youtu.be/yZQx25MPTlU" mimeType="video/x-youtube"/>
                   </figure>
                </div>
-               <div type="chapter" xml:id="exh04-ch08-subch02">
+               <div type="subchapter" xml:id="exh04-ch08-subch02">
                   <head xml:id="OKPM4-head-249">Na poti v šolo</head>
                   <p xml:id="OKPM4-p-156">Otroci iz Zilj so hodili v šolo na Preloko. Okupatorji
                      šolske mladine niso preganjali. Pouk je brez dolgih prekinitev potekal vsa leta
@@ -8134,7 +8182,7 @@
                      url="http://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh04/exh04-Meje-pano12-image4-thumb.jpg"
                   />
                </figure>
-               <div type="chapter" xml:id="exh04-en-ch08-subch01">
+               <div type="subchapter" xml:id="exh04-en-ch08-subch01">
                   <head xml:id="OKPM4-head-315">»It was horrible because mothers were inside;
                      Birička fainted«</head>
                   <p xml:id="OKPM4-p-189">In 1913, Marko Čadonič from the village of Balkovci and
@@ -8248,8 +8296,7 @@
                      <media url="https://youtu.be/yZQx25MPTlU" mimeType="video/x-youtube"/>
                   </figure>
                </div>
-               <div type="chapter" xml:id="exh04-en-ch08-subch02" xml:lang="en"
-                  corresp="#exh04-ch09">
+               <div type="subchapter" xml:id="exh04-en-ch08-subch02" xml:lang="en">
                   <head xml:id="OKPM4-head-322">On the Way to School</head>
                   <p xml:id="OKPM4-p-192">The children from Zilje attended school in Preloka. The
                      occupiers did not harass schoolchildren. Lessons were held throughout the war
@@ -8307,6 +8354,7 @@
                </div>
             </div>
          </div>
+         <!-- exh5: Ljubljana -->
       </body>
       <back>
          <div type="appendix" xml:id="movies" xml:lang="sl" corresp="#en-movies">
@@ -8333,7 +8381,7 @@
          </div>
          <div type="bibliogr" xml:id="results" xml:lang="sl" corresp="#en-results">
             <head xml:id="results-head-1">Raziskovalni rezultati projekta</head>
-            <listBibl xml:id="OKPM4-listBibl-1">
+            <listBibl xml:id="listBibl-1">
                <head>
                   <hi rend="bold">Literatura:</hi>
                </head>
@@ -8350,9 +8398,10 @@
                      target="https://plus.cobiss.si/opac7/bib/299668992">COBISS</ref>
                </bibl>
             </listBibl>
-            <listBibl xml:id="OKPM4-listBibl-2">
+            <listBibl xml:id="listBibl-exh1">
                <head>
-                  <hi rend="bold">Razstave:</hi>
+                  <hi rend="bold">Razstava: Mejni kamni, bodeča žica, stražni stolpi in minska
+                     polja. Življenje ob okupacijskih mejah v Sloveniji, 1941-1945</hi>
                </head>
                <bibl>Repe, Božo, Kornelija Ajlec, Bojan Balkovec, Rok Ciglič, Božidar Flajšman,
                   Darja Kerec, Attila Kovács, Peter Mikša, Maja Vehar, Manca Volk Bahun in Matija
@@ -8390,8 +8439,62 @@
                      26. apr. 2019 / avtorji razstave Božo Repe ... [et al.]</hi>. 2019. <ref
                      target="https://plus.cobiss.si/opac7/bib/69372770">COBISS</ref>
                </bibl>
+               <bibl>Repe, Božo, Kornelija Ajlec, Bojan Balkovec, Rok Ciglič, Božidar Flajšman,
+                  Darja Kerec, Attila Kovács, Peter Mikša, Maja Vehar, Manca Volk Bahun in Matija
+                  Zorn. <hi rend="italic">Mejni kamni, bodeča žica, stražni stolpi in minska polja.
+                     Življenje ob okupacijskih mejah v Sloveniji, 1941-1945 = Boundary stones,
+                     barbed wire, watchtowers and minefields. Life at the occupation borders in
+                     Slovenia, 1941-1945 : razstava v galeriji Kosova graščina, Gornjesavski muzej
+                     Jesenice, od 9. maja do 2. jun. 2019 / avtorji razstave Božo Repe ... [et
+                     al.]</hi>. 2019. <ref target="https://plus.cobiss.si/opac7/bib/69823842"
+                     >COBISS</ref></bibl>
             </listBibl>
-            <listBibl xml:id="OKPM4-listBibl-3">
+            <listBibl xml:id="listBibl-exh3">
+               <head>
+                  <hi rend="bold">Razstava: Idrija in Žiri kot obmejno območje 1941-1945</hi>
+               </head>
+               <bibl>Šlabnik, Matevž, Vehar, Maja, Mikša, Peter, Repe, Božo, Ajlec, Kornelija,
+                  Balkovec, Bojan, Ciglič, Rok, Flajšman, Božidar, Kerec, Darja, Kovács, Attila,
+                  Volk Bahun, Manca, Zorn, Matija. <hi rend="italic">Idrija in Žiri kot obmejno
+                     območje 1941-1945 : razstava v Mestnem muzeju Idrija, grad Gewerkenegg, od 24.
+                     jan. do 28. feb. 2019 / avtorji razstave Matevž Šlabnik ... [et al.]</hi>. <ref
+                     target="https://plus.cobiss.si/opac7/bib/68861282">COBISS</ref></bibl>
+            </listBibl>
+            <listBibl xml:id="listBibl-exh4">
+               <head>
+                  <hi rend="bold">Razstava: Vinceremo, videt čemo : okupacijske meje v Beli krajini
+                     1941-1945</hi>
+               </head>
+               <bibl>Repe, Božo, Ajlec, Kornelija, Balkovec, Bojan, Ciglič, Rok, Flajšman, Božidar,
+                  Kerec, Darja, Kovács, Attila, Mikša, Peter, Vehar, Maja, Volk Bahun, Manca, Zorn,
+                  Matija, Štangelj, Blaž. <hi rend="italic">Vinceremo, videt čemo : okupacijske meje
+                     v Beli krajini 1941-1945 : razstava v Belokranjskem muzeju Metlika, od 4. do
+                     25. apr. 2019 / avtorji razstave Božo Repe ... [et al.]</hi>
+                  <ref target="https://plus.cobiss.si/opac7/bib/69373282">COBISS</ref></bibl>
+               <bibl>Repe, Božo, Ajlec, Kornelija, Balkovec, Bojan, Ciglič, Rok, Flajšman, Božidar,
+                  Kerec, Darja, Kovács, Attila, Mikša, Peter, Vehar, Maja, Volk Bahun, Manca, Zorn,
+                  Matija, Štangelj, Blaž. <hi rend="italic">Vinceremo, videt čemo : okupacijske meje
+                     v Beli krajini 1941-1945 : razstava v Kulturnem centru Semič, od 26. 4. do 23.
+                     5. 2019 / avtorji razstave Božo Repe ... [et al.]</hi>
+                  <ref target="https://plus.cobiss.si/opac7/bib/69506402">COBISS</ref></bibl>
+               <bibl>Repe, Božo, Ajlec, Kornelija, Balkovec, Bojan, Ciglič, Rok, Flajšman, Božidar,
+                  Kerec, Darja, Kovács, Attila, Mikša, Peter, Vehar, Maja, Volk Bahun, Manca, Zorn,
+                  Matija, Štangelj, Blaž. <hi rend="italic">Vinceremo, videt čemo : okupacijske meje
+                     v Beli krajini 1941-1945 : razstava v Mestni muzejski zbirki Črnomelj od 20.
+                     junija do 19. julija 2019 / avtorji razstave Božo Repe ... [et al.]</hi>
+                  <ref target="https://plus.cobiss.si/opac7/bib/69825378">COBISS</ref></bibl>
+            </listBibl>
+            <listBibl xml:id="listBibl-exh0">
+               <head>
+                  <hi rend="bold">Razstava: Okupacijske meje v Sloveniji 1941-1945</hi>
+               </head>
+               <bibl>Repe, Božo, Ajlec, Kornelija, Balkovec, Bojan, Ciglič, Rok, Flajšman, Božidar,
+                  Kerec, Darja, Kovács, Attila, Mikša, Peter, Vehar, Maja, Volk Bahun, Manca, Zorn,
+                  Matija, Štangelj, Blaž, Šlabnik, Matevž, Siter, Daniel. <hi rend="italic">Okupacijske meje v
+                  Sloveniji 1941-1945, razstava v Centar za kulturo, Mostar (BiH), 1. junij 2019</hi>
+                  <ref target="https://plus.cobiss.si/opac7/bib/69826146">COBISS</ref></bibl>
+            </listBibl>
+            <listBibl xml:id="listBibl-2">
                <head>
                   <hi rend="bold">Elektronski viri: spletni videoposnetki</hi>
                </head>
@@ -8420,7 +8523,7 @@
          </div>
          <div type="bibliogr" xml:id="en-results" xml:lang="en" corresp="#results">
             <head xml:id="en-results-head-1">Research results of the project</head>
-            <listBibl xml:id="OKPM4-listBibl-4">
+            <listBibl xml:id="listBibl-1-en">
                <head>
                   <hi rend="bold">Literature:</hi>
                </head>
@@ -8439,9 +8542,10 @@
                      target="https://plus.cobiss.si/opac7/bib/299668992">COBISS</ref>
                </bibl>
             </listBibl>
-            <listBibl xml:id="OKPM4-listBibl-5">
+            <listBibl xml:id="listBibl-exh1-en">
                <head>
-                  <hi rend="bold">Exhibitions:</hi>
+                  <hi rend="bold">Exhibition: Boundary Stones, Barbed Wire, Watchtowers and
+                     Minefields. Life at the Occupation Borders in Slovenia, 1941–1945</hi>
                </head>
                <bibl>Repe, Božo, Kornelija Ajlec, Bojan Balkovec, Rok Ciglič, Božidar Flajšman,
                   Darja Kerec, Attila Kovács, Peter Mikša, Maja Vehar, Manca Volk Bahun and Matija
@@ -8479,8 +8583,62 @@
                      26. apr. 2019 / avtorji razstave Božo Repe ... [et al.]</hi>. 2019. <ref
                      target="https://plus.cobiss.si/opac7/bib/69372770">COBISS</ref>
                </bibl>
+               <bibl>Repe, Božo, Kornelija Ajlec, Bojan Balkovec, Rok Ciglič, Božidar Flajšman,
+                  Darja Kerec, Attila Kovács, Peter Mikša, Maja Vehar, Manca Volk Bahun in Matija
+                  Zorn. <hi rend="italic">Mejni kamni, bodeča žica, stražni stolpi in minska polja.
+                     Življenje ob okupacijskih mejah v Sloveniji, 1941-1945 = Boundary stones,
+                     barbed wire, watchtowers and minefields. Life at the occupation borders in
+                     Slovenia, 1941-1945 : razstava v galeriji Kosova graščina, Gornjesavski muzej
+                     Jesenice, od 9. maja do 2. jun. 2019 / avtorji razstave Božo Repe ... [et
+                     al.]</hi>. 2019. <ref target="https://plus.cobiss.si/opac7/bib/69823842"
+                     >COBISS</ref></bibl>
             </listBibl>
-            <listBibl xml:id="OKPM4-listBibl-6">
+            <listBibl xml:id="listBibl-exh3-en">
+               <head>
+                  <hi rend="bold">Exhibition: Idrija and Žiri as borderland, 1941–1945</hi>
+               </head>
+               <bibl>Šlabnik, Matevž, Vehar, Maja, Mikša, Peter, Repe, Božo, Ajlec, Kornelija,
+                  Balkovec, Bojan, Ciglič, Rok, Flajšman, Božidar, Kerec, Darja, Kovács, Attila,
+                  Volk Bahun, Manca, Zorn, Matija. <hi rend="italic">Idrija in Žiri kot obmejno
+                     območje 1941-1945 : razstava v Mestnem muzeju Idrija, grad Gewerkenegg, od 24.
+                     jan. do 28. feb. 2019 / avtorji razstave Matevž Šlabnik ... [et al.]</hi>. <ref
+                     target="https://plus.cobiss.si/opac7/bib/68861282">COBISS</ref></bibl>
+            </listBibl>
+            <listBibl xml:id="listBibl-exh4-en">
+               <head>
+                  <hi rend="bold">Exhibition: WE WILL WIN, WE WILL SEE: Occupation Borders in Bela
+                     krajina 1941 - 1945</hi>
+               </head>
+               <bibl>Repe, Božo, Ajlec, Kornelija, Balkovec, Bojan, Ciglič, Rok, Flajšman, Božidar,
+                  Kerec, Darja, Kovács, Attila, Mikša, Peter, Vehar, Maja, Volk Bahun, Manca, Zorn,
+                  Matija, Štangelj, Blaž. <hi rend="italic">Vinceremo, videt čemo : okupacijske meje
+                     v Beli krajini 1941-1945 : razstava v Belokranjskem muzeju Metlika, od 4. do
+                     25. apr. 2019 / avtorji razstave Božo Repe ... [et al.]</hi>
+                  <ref target="https://plus.cobiss.si/opac7/bib/69373282">COBISS</ref></bibl>
+               <bibl>Repe, Božo, Ajlec, Kornelija, Balkovec, Bojan, Ciglič, Rok, Flajšman, Božidar,
+                  Kerec, Darja, Kovács, Attila, Mikša, Peter, Vehar, Maja, Volk Bahun, Manca, Zorn,
+                  Matija, Štangelj, Blaž. <hi rend="italic">Vinceremo, videt čemo : okupacijske meje
+                     v Beli krajini 1941-1945 : razstava v Kulturnem centru Semič, od 26. 4. do 23.
+                     5. 2019 / avtorji razstave Božo Repe ... [et al.]</hi>
+                  <ref target="https://plus.cobiss.si/opac7/bib/69506402">COBISS</ref></bibl>
+               <bibl>Repe, Božo, Ajlec, Kornelija, Balkovec, Bojan, Ciglič, Rok, Flajšman, Božidar,
+                  Kerec, Darja, Kovács, Attila, Mikša, Peter, Vehar, Maja, Volk Bahun, Manca, Zorn,
+                  Matija, Štangelj, Blaž. <hi rend="italic">Vinceremo, videt čemo : okupacijske meje
+                     v Beli krajini 1941-1945 : razstava v Mestni muzejski zbirki Črnomelj od 20.
+                     junija do 19. julija 2019 / avtorji razstave Božo Repe ... [et al.]</hi>
+                  <ref target="https://plus.cobiss.si/opac7/bib/69825378">COBISS</ref></bibl>
+            </listBibl>
+            <listBibl xml:id="listBibl-exh0-en">
+               <head>
+                  <hi rend="bold">Exhibition: Occupatio borders in Slovenia 1941-1945</hi>
+               </head>
+               <bibl>Repe, Božo, Ajlec, Kornelija, Balkovec, Bojan, Ciglič, Rok, Flajšman, Božidar,
+                  Kerec, Darja, Kovács, Attila, Mikša, Peter, Vehar, Maja, Volk Bahun, Manca, Zorn,
+                  Matija, Štangelj, Blaž, Šlabnik, Matevž, Siter, Daniel. <hi rend="italic">Okupacijske meje v
+                     Sloveniji 1941-1945, razstava v Centar za kulturo, Mostar (BiH), 1. junij 2019</hi>
+                  <ref target="https://plus.cobiss.si/opac7/bib/69826146">COBISS</ref></bibl>
+            </listBibl>
+            <listBibl xml:id="listBibl-2-en">
                <head>
                   <hi rend="bold">Electronic resources: online videos</hi>
                </head>
