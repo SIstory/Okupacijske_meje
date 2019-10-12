@@ -11,6 +11,7 @@
 *.zip
 *.doc
 *.docx
+*.psd
 
 archive/
 sources/
