@@ -60,7 +60,7 @@
    <xsl:param name="outputDir">docs/</xsl:param>
    
    <xsl:param name="homeLabel">SIstory</xsl:param>
-   <xsl:param name="homeURL">https://github.com/SIstory/Okupacijske_meje</xsl:param>
+   <xsl:param name="homeURL">https://okupacijskemeje.si/</xsl:param>
    
    <xsl:param name="splitLevel">1</xsl:param>
    
