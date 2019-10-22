@@ -10,18 +10,19 @@
                Role of the Occupation Border in the Denationalization Policy and the Lives of the
                Slovene Population.</title>
             <respStmt>
-               <resp>Avtorji razstav</resp>
-               <name>dr. Božo Repe</name>
-               <name>dr. Kornelija Ajlec</name>
-               <name>dr. Bojan Balkovec</name>
-               <name>dr. Rok Ciglič</name>
-               <name>dr. Božidar Flajšman</name>
-               <name>dr. Darja Kerec</name>
-               <name>dr. Attila Kovacs</name>
-               <name>dr. Peter Mikša</name>
+               <resp>Avtorji razstav</resp>               
+               <name>Kornelija Ajlec</name>
+               <name>Bojan Balkovec</name>
+               <name>Rok Ciglič</name>
+               <name>Božidar Flajšman</name>
+               <name>Darja Kerec</name>
+               <name>Attila Kovacs</name>
+               <name>Peter Mikša</name>
+               <name>Božo Repe</name>
+               <name>Daniel Siter</name>
                <name>Maja Vehar</name>
                <name>Manca Volk Bahun</name>
-               <name>dr. Matija Zorn</name>
+               <name>Matija Zorn</name>
             </respStmt>
             <respStmt>
                <resp>Dodatni avtorji</resp>
@@ -31,11 +32,23 @@
             </respStmt>
             <respStmt>
                <resp>Fotografi in snemalci</resp>
+               <name>Bojan Balkovec</name>
                <name>Sonja Bezenšek</name>
-               <name>dr. Božidar Flajšman</name>
+               <name>Tine Bitenc</name>
+               <name>Franc Cerar (MNZS)</name>
+               <name>Božidar Flajšman</name>
+               <name>Stane Kobal</name>
+               <name>Daro (Božidar) Kopinič (MNZS)</name>
+               <name>Janez Kurent (MNZS)</name>
+               <name>Peter Mikša</name>
                <name>Danilo Orlič</name>
+               <name>Miroslav Pavlin (MNZS)</name>
+               <name>Jakob Prešeren (MNZS)</name>
+               <name>Daniel Siter</name>
                <name>Matevž Šlabnik</name>
                <name>Blaž Štangelj</name>
+               <name>Darko Viler</name>
+               <name>Matija Zorn</name>
             </respStmt>
             <respStmt>
                <resp>Prevodi</resp>
@@ -178,7 +191,7 @@
                   deželo nemško ... italijansko ... madžarsko ... hrvaško! Vloga okupacijskih meja v
                   raznarodovalni politiki in življenju slovenskega prebivalstva”</hi>, ki se izvaja
                na Oddelku za zgodovino Filozofske fakultete Univerze v Ljubljani (1. 5. 2017–30. 4.
-               2020, vodja dr. Božo Repe).</p>
+               2020, vodja Božo Repe).</p>
          </projectDesc>
       </encodingDesc>
    </teiHeader>
@@ -570,7 +583,7 @@
                   živelo okoli 800 prebivalcev.</p>
                <figure rend="imageviewer" xml:id="figure-7" n="7">
                   <head>Po okupaciji so si slovensko ozemlje razdelili tako Nemci kot Italijani,
-                     Madžari in Hrvati. Repe, S puško in knjigo, 24.</head>
+                     Madžari in Hrvati. Repe.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image1.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image1-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image1-thumb.jpg"/>
@@ -671,8 +684,8 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-15" n="15">
                   <head>Betonski ostanki temeljev nemških stražnih stolpov na Toškem čelu pri
-                     Ljubljani in del ekipe projekta (z leve) dr. Peter Mikša, dr. Božidar Flajšman,
-                     dr. Bojan Balkovec in dr. Božo Repe. Avtor fotografije: Božidar
+                     Ljubljani in del ekipe projekta (z leve) Peter Mikša, Božidar Flajšman,
+                     Bojan Balkovec in Božo Repe. Avtor fotografije: Božidar
                      Flajšman.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image3-normal.jpg"/>
@@ -688,12 +701,24 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image4-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-17" n="17">
-                  <head>Dr. Peter Mikša in dr. Bojan Balkovec pri meritvah mejnega kamna. Avtor
+                  <head>Peter Mikša in Bojan Balkovec pri meritvah mejnega kamna. Avtor
                      fotografije: Božidar Flajšman.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image5-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image5-thumb.jpg"/>
+               </figure>
+               <figure xml:id="movies-16x">                  
+                  <media url="https://youtu.be/vQ9jjk03EbQ" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="movies-17x">                  
+                  <media url="https://youtu.be/UZWP54V0x1k" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="movies-18x">                  
+                  <media url="https://youtu.be/vQ9jjk03EbQ" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="movies-19x">                  
+                  <media url="https://youtu.be/idF-l4X7S1k" mimeType="video/x-youtube"></media>
                </figure>
                <figure rend="imageviewer" xml:id="figure-18" n="18">
                   <head>Tromejni kamen med Nemčijo, Italijo in NDH, ki ga je odkrila raziskovalna
@@ -706,6 +731,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image6-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image6-thumb.jpg"/>
+               </figure>
+               <figure xml:id="movies-20x">                  
+                  <media url="https://youtu.be/42gnQkp7n3E" mimeType="video/x-youtube"></media>
                </figure>
             </div>
             <div type="chapter"
@@ -868,8 +896,7 @@
                   <head>Primer dvojezične obmejne prepustnice (»Grenzkarte «), ki jo je imel Alojz
                      Welle iz Rogatca. Vsaka dovolilnica je poleg uradnega žiga okrožnega carinskega
                      urada in datuma izdaje ter veljavnosti vsebovala tudi opis imetnika s podatki o
-                     starosti, poklicu in kraju zaposlitve. SI AS 1602, Deželni svetnik okrožja
-                     Celje, šk. 177/1308, »Grenzkarte«.</head>
+                     starosti, poklicu in kraju zaposlitve. Arhiv RS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano5-image2.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano5-image2-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano5-image2-slide.jpg"/>
@@ -1076,7 +1103,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-39" n="39">
                   <head>Ostanki podnožja nemškega stražnega stolpa nad Bučko s pogledom proti
-                     Šentjerneju in Gorjancem. Na fotografiji pričevalec Silvo Vene in snemalec dr.
+                     Šentjerneju in Gorjancem. Na fotografiji pričevalec Silvo Vene in snemalec
                      Božidar Flajšman. Avtor fotografije: Bojan Balkovec.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano7-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano7-image3-normal.jpg"/>
@@ -1171,7 +1198,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-45" n="45">
                   <head>Na številnih mestih na mejnike spominjajo le š e betonski temelji in deli
-                     železja. A vtor fotografije: Matija Zorn.</head>
+                     železja. Avtor fotografije: Matija Zorn.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano7-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano7-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano7-image3-slide.jpg"/>
@@ -1180,7 +1207,7 @@
                <figure rend="imageviewer" xml:id="figure-46" n="46">
                   <head>Pod sedli je bila meja na nemški strani močno zastražena. Približno sto
                      višinskih metrov pod sedlom Dovška vrata nad dolino Vrat lahko prečno na dolino
-                     sledimo nekdanji žični ograji. Na fotografiji dr. Peter Mikša. Avtor
+                     sledimo nekdanji žični ograji. Na fotografiji Peter Mikša. Avtor
                      fotografije: Matija Zorn.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano8-image4.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano8-image4-normal.jpg"/>
@@ -1267,7 +1294,7 @@
                      ugotovljeno, da ne ustreza vojaškim zahtevam ter potrebam prebivalstva (npr.
                      Žale so bile izven žičnega obroča). Tako so žico pomaknili do 250 m navzven,
                      kljub temu pa je zaobšla Barje, Polje, Kozarje, Savlje in Ježico ter tako
-                     odtrgala še dodaten del zaledja pomembnega za preskrbo. Vir: MNZS.</head>
+                     odtrgala še dodaten del zaledja pomembnega za preskrbo. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano8-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano8-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano8-image3-slide.jpg"/>
@@ -1279,8 +1306,7 @@
                      električno napeljavo, reflektorskimi postajami za osvetlitev meje in krožno
                      stezo na notranji strani pasu je bila utrjena črta široka ok. 80 m. Januarja
                      1943 je mejo stražilo okoli 2500 vojakov, 500 karabinjerjev, agentov javne
-                     varnosti in kvesturinov za pregledovanje ljudi na cestnih blokih. Vir:
-                     MNZS.</head>
+                     varnosti in kvesturinov za pregledovanje ljudi na cestnih blokih. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image4.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image4-slide.jpg"/>
@@ -1293,7 +1319,7 @@
                      prestopali meje okupirane Ljubljane in so zato morali imeti posebne
                      dovolilnice. Na progi proti Šentvidu je bil mejni prehod v bližini gostilne
                      Žibert. Na njem se je tramvaj ustavil, potniki pa so opravili vse obmejne
-                     formalnosti. Vir: MNZS.</head>
+                     formalnosti. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image5-slide.jpg"/>
@@ -1302,7 +1328,7 @@
                <figure rend="imageviewer" xml:id="figure-54" n="54">
                   <head>Španski jezdeci na Tromostovju. Pregrada je ločevala pas ožjega centra od
                      širšega. V samem mestnem središču je bilo takšnih pregrad 19, skupno pa so jih
-                     postavili 34. Vir: MNZS.</head>
+                     postavili 34. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image6-slide.jpg"/>
@@ -1459,8 +1485,8 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano11-image2-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-63" n="63">
-                  <head>Raziskovalci (od leve: dr. Matija Zorn, Maruša Nartnik, dr. Božo Repe, dr.
-                     Bojan Balkovec, dr. Božidar Flajšman, dr. Peter Mikša in dr. Bor - če Ilievski)
+                  <head>Raziskovalci (od leve: Matija Zorn, Maruša Nartnik, Božo Repe,
+                     Bojan Balkovec, Božidar Flajšman, Peter Mikša in Borče Ilievski)
                      pri mejnem kamnu pod Domačijo Pr’Mahačk v bližini Polhograjske Grmade. Avtor
                      fotografije: Božidar Flajšman.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano11-image3.jpg"/>
@@ -1536,8 +1562,8 @@
                   Italijo in Nemčijo in se je zaključila z zgoraj omenjeno tromejno točko pri
                   Spodnjem Vrsniku.</p>
                <figure rend="imageviewer" xml:id="figure-67" n="67">
-                  <head>Del raziskovalne ekipe (dr. Matija Zorn, dr. Božidar Flajšman, dr. Božo
-                     Repe, dr. Peter Mikša) je 16. novembra 2017 v družbi Lojzeta Štiha in Ivana
+                  <head>Del raziskovalne ekipe (Matija Zorn, Božidar Flajšman, Božo
+                     Repe, Peter Mikša) je 16. novembra 2017 v družbi Lojzeta Štiha in Ivana
                      Petrišiča, predsednika in podpredsednika ZZB NOB Krško, v odročnem predelu
                      občine Brežice pri Gadovi Peči odkril zakopan mejni kamen na tromeji med
                      Nemčijo, Italijo in Neodvisno državo Hrvaško. Avtor fotografije: Božidar
@@ -1548,8 +1574,8 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano12-image1-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-68" n="68">
-                  <head>Na fotografiji raziskovalna skupina (z leve: dr. Božidar Flajšman, dr. Darja
-                     Kerec, dr. Božo Repe, dr. Peter Mikša in dr. Kornelija Ajlec) markira tromejno
+                  <head>Na fotografiji raziskovalna skupina (z leve: Božidar Flajšman, Darja
+                     Kerec, Božo Repe, Peter Mikša in Kornelija Ajlec) markira tromejno
                      točko z improviziranim napisom. Na zaraščenem desnem bregu reke Drave, južno od
                      Središča ob Dravi na današnji hrvaški strani, je raziskovalna ekipa 13. aprila
                      2018 označila tromejno točko med Nemčijo, Madžarsko in Neodvisno državo
@@ -1592,8 +1618,8 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano12-image5-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-72" n="72">
-                  <head>Dr. Božo Repe, dr. Darja Kerec, dr. Božidar Flajšman, dr. Kornelija Ajlec in
-                     dr. Peter Mikša pri današnjem tromejnem kamnu med Madžarsko, Slovenijo in
+                  <head>Božo Repe, Darja Kerec, Božidar Flajšman, Kornelija Ajlec in
+                     Peter Mikša pri današnjem tromejnem kamnu med Madžarsko, Slovenijo in
                      Hrvaško. Avtor fotografije: Božidar Flajšman.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano12-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano12-image6-normal.jpg"/>
@@ -1665,7 +1691,7 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image1-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-2-en" n="2">
-                  <head>Italian troops in Ljubljana (June 1941). Source: MNZS, Author: Jakob
+                  <head>Italian troops in Ljubljana (June 1941). MNZS, Author: Jakob
                      Prešern.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image2.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image2-normal.jpg"/>
@@ -1673,7 +1699,7 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image2-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-3-en" n="3">
-                  <head>Town Hall in Ptuj adorned with German flags. Source: MNZS.</head>
+                  <head>Town Hall in Ptuj adorned with German flags. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image3-slide.jpg"/>
@@ -1690,7 +1716,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-5-en" n="5">
                   <head>German Army crossing the Drava River across a demolished bridge, Ptuj, 1941.
-                     Source: MNZS.</head>
+                     MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image5-slide.jpg"/>
@@ -1699,7 +1725,7 @@
                <figure rend="imageviewer" xml:id="figure-6-en" n="6">
                   <head>Ceremony in Murska Sobota on 16 April 1941 when the Germans handed Prekmurje
                      over to the Hungarians. Jožef Krantz, priest in the Catholic parish of Murska
-                     Sobota speaks on the stage. Source: MNZS.</head>
+                     Sobota speaks on the stage. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano1-image6-slide.jpg"/>
@@ -1758,7 +1784,7 @@
                      occupiers fortified and guarded their new borders in different ways. The
                      Germans even went to the trouble of wiring the entire length of the border,
                      cutting down forests or clearing the terrain within a 50m radius, and setting
-                     up a minefield, several metres wide. Source: MNZS.</head>
+                     up a minefield, several metres wide. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image2.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image2-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image2-slide.jpg"/>
@@ -1766,7 +1792,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-9-en" n="9">
                   <head>Border crossing between Germany and the Independent State of Croatia at
-                     Harine Zlake. Source: MNZS.</head>
+                     Harine Zlake. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image3-slide.jpg"/>
@@ -1784,7 +1810,7 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image4-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-11-en" n="11">
-                  <head>German and Italian soldiers somewhere on the newly placed border. Source:
+                  <head>German and Italian soldiers somewhere on the newly placed border.
                      MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image5-normal.jpg"/>
@@ -1792,7 +1818,7 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image5-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-12-en" n="12">
-                  <head>A German watchtower on the border with the Third Reich. Source: MNZS.</head>
+                  <head>A German watchtower on the border with the Third Reich. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image6-slide.jpg"/>
@@ -1861,8 +1887,8 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-15-en" n="15">
                   <head>Concrete remains of the foundations of German watchtowers on the hill Toško
-                     čelo near Ljubljana and a part of the project team (from left) dr. Peter Mikša,
-                     dr. Božidar Flajšman, dr. Bojan Balkovec and dr. Božo Repe at the concrete
+                     čelo near Ljubljana and a part of the project team (from left) Peter Mikša,
+                     Božidar Flajšman, Bojan Balkovec and Božo Repe at the concrete
                      foundation of a watchtower. Author: Božidar Flajšman.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image3-normal.jpg"/>
@@ -1878,12 +1904,24 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image4-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-17-en" n="17">
-                  <head>Dr. Peter Mikša and dr. Bojan Balkovec measuring the boundary marker.
+                  <head>Peter Mikša and Bojan Balkovec measuring the boundary marker.
                      Author: Božidar Flajšman.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image5-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image5-thumb.jpg"/>
+               </figure>
+               <figure xml:id="en-movies-16x">                  
+                  <media url="https://youtu.be/vQ9jjk03EbQ" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="en-movies-17x">                  
+                  <media url="https://youtu.be/UZWP54V0x1k" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="en-movies-18x">                  
+                  <media url="https://youtu.be/vQ9jjk03EbQ" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="en-movies-19x">                  
+                  <media url="https://youtu.be/idF-l4X7S1k" mimeType="video/x-youtube"></media>
                </figure>
                <figure rend="imageviewer" xml:id="figure-18-en" n="18">
                   <head>A tripoint marker between Germany, Italy and the NDH discovered by the
@@ -1897,6 +1935,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image6-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image6-thumb.jpg"/>
+               </figure>
+               <figure xml:id="en-movies-20x">                  
+                  <media url="https://youtu.be/42gnQkp7n3E" mimeType="video/x-youtube"></media>
                </figure>
             </div>
             <div type="chapter"
@@ -2072,8 +2113,7 @@
                   <head>Example of a bilingual border pass (Grenzkarte). In addition to the official
                      stamp of the district customs office, and the date of issue and validity, each
                      permit also contained a description of its owner with information on age,
-                     occupation and place of employment. Source: SI AS 1602, Deželni svetnik okrožja
-                     Celje, šk. 177/1308, “Grenzkarte”.</head>
+                     occupation and place of employment. Archive of the RS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano5-image2.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano5-image2-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano5-image2-slide.jpg"/>
@@ -2186,8 +2226,7 @@
                <figure rend="imageviewer" xml:id="figure-35-en" n="35">
                   <head>Section of an Italian map on the construction of a fortified line between
                      Italy and the NDH at Metlika. The yellow dots mark the already built concrete
-                     bunkers at Rosalnice. Source: SI AS 1773, t. e. 773, Poveljstvo 14. pehotne
-                     divizije Isonzo. Author of the photograph: Blaž Štangelj.</head>
+                     bunkers at Rosalnice. Archive of the RS. Author of the photograph: Blaž Štangelj.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano6-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano6-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano6-image5-slide.jpg"/>
@@ -2195,7 +2234,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-36-en" n="36">
                   <head>Partisan sketch of an Italian post in Zilje by the Kolpa River near Vinica.
-                     Source: SI AS 1851, Glavni štab, t. e. 59, p. e. 1680. Author of the
+                     Archives of the RS. Author of the
                      photograph: Blaž Štangelj.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano6-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano6-image6-normal.jpg"/>
@@ -2285,7 +2324,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-38-en" n="38">
                   <head>Italian and German soldiers on the border at Raka in the Dolenjska region.
-                     Source: MNZS.</head>
+                     MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano7-image2.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano7-image2-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano7-image2-slide.jpg"/>
@@ -2294,7 +2333,7 @@
                <figure rend="imageviewer" xml:id="figure-39-en" n="39">
                   <head>Remains of the base of a German watchtower above the village of Bučka with a
                      view of Šentjernej and the Gorjanci hills. In the photograph, witness Silvo
-                     Vene and cameraman dr. Bozidar Flajšman. Author: Bojan Balkovec.</head>
+                     Vene and cameraman Bozidar Flajšman. Author: Bojan Balkovec.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano7-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano7-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano7-image3-slide.jpg"/>
@@ -2408,7 +2447,7 @@
                   <head>Beneath the cols the border was heavily guarded on the German side. About
                      one hundred metres of altitude beneath the Dovška vrata col above the valley of
                      Vrata we can follow the former barbed wire fence transversely to the Valley. In
-                     the photograph, dr. Peter Mikša. Author: Matija Zorn.</head>
+                     the photograph, Peter Mikša. Author: Matija Zorn.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano8-image4.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano8-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano8-image4-slide.jpg"/>
@@ -2488,7 +2527,7 @@
                   <head>Border crossing on the German-Italian border at Šentvid nad Ljubljano. After
                      the wire had been placed, 11 road border crossings led from and to the city and
                      could only be crossed with a permit. Anyone older than 14 could apply for one.
-                     Source: MNZS, Author: Jakob Prešern.</head>
+                     MNZS, Author: Jakob Prešern.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image2.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image2-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image2-slide.jpg"/>
@@ -2500,7 +2539,7 @@
                      needs of the population (e.g. the Žale District was outside of the ring of
                      wire). Hence, the wire was moved outward by up to 250m but it still bypassed
                      Barje, Polje, Kozarje, Savlje and Ježica, thus severing another part of the
-                     hinterland that was important for supply. Source: MNZS.</head>
+                     hinterland that was important for supply. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image3-slide.jpg"/>
@@ -2513,7 +2552,7 @@
                      border, and a circular runway on the inner side of the zone, the fortified line
                      was about 80m wide. In January 1943, the border was guarded by some 2,500
                      soldiers, 500 Carabinieri, public security agents, and Questurini who examined
-                     people at the road checkpoints. Source: MNZS.</head>
+                     people at the road checkpoints. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image4.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image4-slide.jpg"/>
@@ -2525,7 +2564,7 @@
                      but the number of passengers increased. Tram drivers crossed the borders of
                      occupied Ljubljana on a daily basis and had to have special permits. On the
                      route towards Šentvid there was a border crossing near the Žibert Inn. The tram
-                     stopped there and the passengers completed all the border formalities. Source:
+                     stopped there and the passengers completed all the border formalities. 
                      MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image5-normal.jpg"/>
@@ -2535,7 +2574,7 @@
                <figure rend="imageviewer" xml:id="figure-54-en" n="54">
                   <head>Knife-rests on the Tromostovje triple bridge. This barrier separated the
                      narrow city centre from the broader one. There were 19 such barriers in the
-                     city centre, out of a total of 34. Source: MNZS.</head>
+                     city centre, out of a total of 34. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano9-image6-slide.jpg"/>
@@ -2701,8 +2740,8 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano11-image2-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-63-en" n="63">
-                  <head>Researchers (from left to right: dr. Matija Zorn, Maruša Nartnik, dr. Božo
-                     Repe, dr. Bojan Balkovec, dr. Božidar Flajšman, dr. Peter Mikša in dr. Borče
+                  <head>Researchers (from left to right: Matija Zorn, Maruša Nartnik, Božo
+                     Repe, Bojan Balkovec, Božidar Flajšman, Peter Mikša in Borče
                      Ilievski) at the boundary marker beneath the homestead Domačija Pr’Mahačk near
                      the hill Polhograjska Grmada. Author: Božidar Flajšman.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano11-image3.jpg"/>
@@ -2781,8 +2820,8 @@
                   transformed into the state border between Italy and Germany during World War II,
                   and which ended with the above-mentioned tripoint in Spodnji Vrsnik.</p>
                <figure rend="imageviewer" xml:id="figure-67-en" n="67">
-                  <head>On 16 November 2017, a part of the research team (dr. Matija Zorn, dr.
-                     Božidar Flajšman, dr. Božo Repe, dr. Peter Mikša), accompanied by Lojze Štih
+                  <head>On 16 November 2017, a part of the research team (Matija Zorn,
+                     Božidar Flajšman, Božo Repe, Peter Mikša), accompanied by Lojze Štih
                      and Ivan Petrišič, the president and vice-president of ZZB NOB Krško,
                      discovered a buried boundary marker in a remote area of the Municipality of
                      Brežice near Gadova Peč, at the tripoint between Germany, Italy and the
@@ -2793,8 +2832,8 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano12-image1-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-68-en" n="68">
-                  <head>The photograph shows the research team (from left to right: dr. Božidar
-                     Flajšman, dr. Darja Kerec, dr. Božo Repe, dr. Peter Mikša in dr. Kornelija
+                  <head>The photograph shows the research team (from left to right: Božidar
+                     Flajšman, Darja Kerec, Božo Repe, Peter Mikša in Kornelija
                      Ajlec) marking the tripoint with an improvised inscription. On 13 April 2018,
                      the research team marked a tripoint between Germany, Hungary and the
                      Independent State of Croatia on the over grown right bank of the Drava River,
@@ -2838,8 +2877,8 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano12-image5-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-72-en" n="72">
-                  <head>Dr. Božo Repe, dr. Darja Kerec, dr. Božidar Flajšman, dr. Kornelija Ajlec
-                     and dr. Peter Mikša at the present-day tripoint marker between Hungary,
+                  <head>Božo Repe, Darja Kerec, Božidar Flajšman, Kornelija Ajlec
+                     and Peter Mikša at the present-day tripoint marker between Hungary,
                      Slovenia and Croatia. Author: Božidar Flajšman.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano12-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano12-image6-normal.jpg"/>
@@ -2885,7 +2924,7 @@
                   rajhu.</p>
                <figure rend="imageviewer" xml:id="figure-1x" n="1x">
                   <head>Adolf Hitler na ogledu porušenega dravskega mostu v Mariboru, 26. aprila
-                     1941. Fototeka Muzeja novejše zgodovine Slovenije. V literaturi se zmotno
+                     1941. MNZS. V literaturi se zmotno
                      omenja, da je Hitler znani stavek »Napravite mi to deželo spet nemško« izrekel
                      v svojem govoru z balkona mariborske mestne hiše 26. aprila 1941. V resnici je
                      to – glede na govor šefa civilne uprave Štajerske dr. Uiberreitherja, ki ga je
@@ -2899,8 +2938,7 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image1-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-2x" n="2x">
-                  <head>Parada Hitlerjugenda, Ptuj, 1941. Fototeka Muzeja novejše zgodovine
-                     Slovenije.</head>
+                  <head>Parada Hitlerjugenda, Ptuj, 1941. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image2.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image2-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image2-slide.jpg"/>
@@ -2909,7 +2947,7 @@
                <figure rend="imageviewer" xml:id="figure-3x" n="3x">
                   <head>Obisk šefa civilne uprave na Spodnjem Štajerskem dr. Siegfrieda
                      Uiberreitherja na naselitvenem področju A, od 17. do 19. marca 1942, Raka.
-                     Foto: Veit, fotografijo hrani Muzej novejše zgodovine Slovenije.</head>
+                     Foto: Veit, fotografijo hrani MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image3-slide.jpg"/>
@@ -2917,8 +2955,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-4x" n="4x">
                   <head>Izgon Slovencev iz brežiškega okrožja, izgnanci na poti na postajo, 9.
-                     november 1941. Foto: Veit, fotografijo hrani Muzej novejše zgodovine
-                     Slovenije.</head>
+                     november 1941. Foto: Veit, fotografijo hrani MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image4.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image4-slide.jpg"/>
@@ -2926,8 +2963,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-5x" n="5x">
                   <head>Proslava obletnice okupacije Maribora, zborovanje na Glavnem trgu (Adolf
-                     Hitler Platz), Maribor, 12. april 1942. Foto: Veit, fotografijo hrani Muzej
-                     novejše zgodovine Slovenije.</head>
+                     Hitler Platz), Maribor, 12. april 1942. Foto: Veit, fotografijo hrani MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image5-slide.jpg"/>
@@ -2936,15 +2972,14 @@
                <figure rend="imageviewer" xml:id="figure-6x" n="6x">
                   <head>Slovenski mladi fantje, prisilno mobilizirani v nemško vojsko, se zbirajo na
                      celjski železniški postaji za pot na bojišča po Evropi. Vir: knjiga S puško in
-                     knjigo (avtor Božo Repe). Hrani Muzej novejše zgodovine Celje.</head>
+                     knjigo (avtor Božo Repe). Muzej novejše zgodovine Celje.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image6-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image6-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-7x" n="7x">
-                  <head>Z nemškimi zastavami okrašena Mestna hiša na Ptuju. Fototeka Muzeja novejše
-                     zgodovine Slovenije.</head>
+                  <head>Z nemškimi zastavami okrašena Mestna hiša na Ptuju. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image7.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image7-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image7-slide.jpg"/>
@@ -3049,7 +3084,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-10x" n="10x">
                   <head>Od septembra 1941 so Gorenjce pošiljali na tečaje »SA Gruppenschule« v
-                     Rogaško Slatino. Fototeka Muzeja novejše zgodovine Slovenije.</head>
+                     Rogaško Slatino. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image3-slide.jpg"/>
@@ -3065,8 +3100,7 @@
                      gestapo polastil še drugega premoženja: lekarne Klanjšček, gostinskega obrata
                      Antonije Drofenik, hotela in restavracije Pošta, stanovanjskih objektov
                      izgnanih lastnikov ter Bofulinovega posestva v Irju (reja živine za
-                     okupatorjeve potrebe). Vir: ARS, AS 1602, Deželni svetnik okrožja Celje, šk.
-                     3/86, »Beschlagnahmte Gebäude in Rohitsch-Sauerbrunn.«</head>
+                     okupatorjeve potrebe). Arhiv RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image4.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image4-slide.jpg"/>
@@ -3095,16 +3129,14 @@
                      uradniške pisarne številnih oddelkov. Drugi nastanitveni prostori zdravilišča,
                      ki je med drugim razpolagalo celo z nočnim kopališčem, pekarno in lastnim
                      gledališčem oz. kinodvorano, so bili namenjeni izbranim gostom iz okupiranih
-                     dežel tretjega rajha. Vir: ARS, AS 1602, Deželni svetnik okrožja Celje, fasc.
-                     175, šk. 154/1064, »Militäreinqartierung, « 1279/41, 13. 10. 1941.</head>
+                     dežel tretjega rajha. Arhiv RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image6-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image6-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-14x" n="14x">
-                  <head>Na tečaju »SA Gruppenschule« v Rogaški Slatini. Fototeka Muzeja novejše
-                     zgodovine Slovenije.</head>
+                  <head>Na tečaju »SA Gruppenschule« v Rogaški Slatini. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image7.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image7-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image7-slide.jpg"/>
@@ -3170,7 +3202,7 @@
                   <head>Takoj po okupaciji so se Nemci posvetili delu za popolno ponemčenje
                      prebivalstva na Spodnjem Štajerskem. Na fotografiji primer proslave, kjer so
                      sodelovale nemške organizacije, kot je Nemška mladina itd., vsa okolica pa je v
-                     znamenju nacizma. Vir: Fototeka Muzeja novejše zgodovine Slovenije.</head>
+                     znamenju nacizma. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image1.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image1-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image1-slide.jpg"/>
@@ -3210,9 +3242,7 @@
                   <head>Poročilo okupacijske uprave v Rogaški Slatini, ki dokazuje, da so bile
                      slovenske knjige do 11. novembra 1941 zaplenjene in umaknjene s prodajnih
                      polic. Ukinjeno je bilo tudi vse nadaljnje tiskanje razglednic s slovenskimi
-                     pripisi. Vir: ARS, AS 1602, Deželni svetnik okrožja Celje, fasc. 175, šk.
-                     154/1049, »Verkauf slowenischer Schriften und Bücher,« 1543/4, 11. 11.
-                     1941.</head>
+                     pripisi. Arhiv RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image4.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image4-slide.jpg"/>
@@ -3256,8 +3286,7 @@
                      Izgon je doletel tudi knjižničarje, zdravnike, učitelje (v izgnanstvo je odšel
                      tudi Rudolf Predan, nadučitelj Svetokriške šole), uradnike in tajnike na
                      občini, pošti, v zdravilišču (tudi Ivana Gračnerja, dotedanjega direktorja
-                     zdravilišča) ter razne posestnike. Vir: ARS, AS 1602, Deželni svetnik okrožja
-                     Celje, šk. 2, »Schutzhäftlinge und abgeschobene Personen,« 3. 6. 1941.</head>
+                     zdravilišča) ter razne posestnike. Arhiv RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image7.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image7-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image7-slide.jpg"/>
@@ -3333,9 +3362,7 @@
                <figure rend="imageviewer" xml:id="figure-24x" n="24x">
                   <head>Poročilo orožniške postaje Hum (okrožje Šmarje s sedežem v Slatini) s 30.
                      maja 1941 o okupacijski občini Hum, ki je ob Humu vsebovala še štiri
-                     pripadajoče katastrske enote – Lupinjek, Druškovec, Prišlin in Brezno. Vir:
-                     ARS, AS 1602, Deželni svetnik okrožja Celje, šk. 2/66, »Gemeinde Hum,« 30. 5.
-                     1941.</head>
+                     pripadajoče katastrske enote – Lupinjek, Druškovec, Prišlin in Brezno. Arhiv RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano8-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano8-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano8-image3-slide.jpg"/>
@@ -3448,8 +3475,7 @@
                      Welle iz Rogatca. Vsaka dovolilnica je poleg uradnega žiga okrožnega carinskega
                      urada in datuma izdaje ter veljavnosti vsebovala tudi opis imetnika s podatki o
                      starosti, poklicu in kraju zaposlitve. V desnem zgornjem kotu je bil še prostor
-                     za fotografijo. Vir: ARS, AS 1602, Deželni svetnik okrožja Celje, šk. 177/1308,
-                     »Grenzkarte.«</head>
+                     za fotografijo. Arhiv RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image2.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image2-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image2-slide.jpg"/>
@@ -3484,17 +3510,14 @@
                   <head>Poročilo okrožnega carinskega urada Rogatec o mejnih prehodih za maloobmejni
                      promet v sektorju med Rogaško Slatino, Rogatcem in Svetim Rokom. V dogovoru, do
                      katerega je prišlo 11. julija 1941 v Rogaški Slatini, so vzpostavili 9 točk za
-                     legalno prečkanje nemško-hrvaške meje. Vir: ARS, AS 1602, Deželni svetnik
-                     okrožja Celje, šk. 149/1006, »Grenzübergänge für den kleinen Grenzverkehr,« 11.
-                     7. 1941.</head>
+                     legalno prečkanje nemško-hrvaške meje. Arhiv RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image5-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image5-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-32x" n="32x">
-                  <head>Nemški stražni stolp na meji Tretjega rajha. Fototeka Muzeja novejše
-                     zgodovine Slovenije.</head>
+                  <head>Nemški stražni stolp na meji Tretjega rajha. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image6-slide.jpg"/>
@@ -3815,7 +3838,7 @@
                <div type="chapter" xml:id="exh02-ch07-subch21">
                   <head xml:id="OKPM2-head-254">Mine po letu 1945</head>
                   <p xml:id="OKPM2-p-163">»Leta 1945 je tudi ubilo enega fanta, blizu (vizavi) Steklarne, ko je čistil
-                     mejo. Tu, kjer je straža, pod stražo se je reklo 'šuthaufn' (od premoga
+                     mejo. Tu, kjer je Straža, pod Stražo se je reklo 'šuthaufn' (od premoga
                      ostanki) – tam je bilo enih 5–6 m do Sotle in tam noter je hodil in ga je v
                      zrak vzdignilo.« Emil Kranjc</p>
                </div>
@@ -3840,7 +3863,7 @@
               xml:id="en-exhibition02"
               xml:lang="en"
               corresp="#exhibition02">
-            <head xml:id="OKPM2-head-256">Occupation Zone Lower Styria</head>
+            <head xml:id="OKPM2-head-256">Rogaška Slatina as a border town of the Third Reich 1941-1945</head>
             <div type="chapter"
                  xml:id="en-exh02-ch01"
                  xml:lang="en"
@@ -3892,8 +3915,7 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image1-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-2x-en" n="2x">
-                  <head>Hitlerjugend parade, Ptuj, 1941. Photo library of the National Museum of
-                     Contemporary History of Slovenia.</head>
+                  <head>Hitlerjugend parade, Ptuj, 1941. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image2.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image2-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image2-slide.jpg"/>
@@ -3932,15 +3954,14 @@
                   <head>Young Slovene boys, forced to conscript into the German Army, are gathering
                      at the Celje railway station to travel to the theatres of war throughout
                      Europe. Source: the book S puško in knjigo/With a Rifle and a Book (author Božo
-                     Repe). Kept by the Museum of Recent History Celje</head>
+                     Repe). Muzej novejše zgodovine Celje</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image6-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image6-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-7x-en" n="7x">
-                  <head>Town Hall in Ptuj adorned with German flags. Photo library of the National
-                     Museum of Contemporary History of Slovenia.</head>
+                  <head>Town Hall in Ptuj adorned with German flags. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image7.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image7-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano5-image7-slide.jpg"/>
@@ -4054,8 +4075,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-10x-en" n="10x">
                   <head>From September 1941 onwards, inhabitants of the Gorenjska region were sent
-                     to “SA Gruppenschule” courses in Rogaška Slatina. Photo library of the National
-                     Museum of Contemporary History of Slovenia.</head>
+                     to “SA Gruppenschule” courses in Rogaška Slatina. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image3-slide.jpg"/>
@@ -4075,8 +4095,7 @@
                      Klanjšček pharmacy, Antonija Drofenik's catering establishment, the Pošta Hotel
                      and Restaurant, the residential buildings of deported owners, and the Bofulin
                      estate in Irje (livestock rearing for the needs of the occupying forces).
-                     Source: ARS, AS 1602, Deželni svetnik okrožja Celje Box 3/86, “Beschlagnahmte
-                     Gebäude in Rohitsch-Sauerbrunn.”</head>
+                     Archives of the RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image4.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image4-slide.jpg"/>
@@ -4106,9 +4125,7 @@
                      offices of various departments were set up. Other accommodation facilities in
                      the health resort, which also contained a night-time swimming pool, a bakery
                      and its own theatre or cinema, were intended for select guests from the
-                     countries occupied by the Third Reich. Source: ARS, AS 1602, Deželni svetnik
-                     okrožja Celje, fasc. 175, Box 154/1064, “Militäreinquartierung,” 1279/41, 13
-                     October 1941.</head>
+                     countries occupied by the Third Reich. Archives of the RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image6.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano6-image6-slide.jpg"/>
@@ -4185,8 +4202,7 @@
                   <head>Immediately after occupation, Germans began the complete Germanisation of
                      the population of Lower Styria. The photograph shows a celebration involving
                      German organisations, such as the German Youth (Hitlerjugend), etc. The entire
-                     surrounding area bears Nazi symbols. Source: Photo library of the National
-                     Museum of Contemporary History of Slovenia.</head>
+                     surrounding area bears Nazi symbols. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image1.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image1-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image1-slide.jpg"/>
@@ -4226,9 +4242,8 @@
                <figure rend="imageviewer" xml:id="figure-18x-en" n="18x">
                   <head>A report from the occupation administration in Rogaška Slatina proving that
                      Slovene books were confiscated and taken off the shelves by 11 November 1941.
-                     Any further printing of postcards with Slovene captions was cancelled. Source:
-                     ARS, AS 1602, Deželni svetnik okrožja Celje fasc. 175, Box 154/1049, “Verkauf
-                     slowenischer Schriften und Bücher,” 1543/4, 11 November 1941.</head>
+                     Any further printing of postcards with Slovene captions was cancelled.
+                     Archives of the RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image4.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image4-slide.jpg"/>
@@ -4276,8 +4291,7 @@
                      the school in Sveti Križ was also deported), clerks and secretaries at the
                      municipal hall, at the post office, at the health resort (including Ivan
                      Gračner, the health resort's director until that time), and various landowners.
-                     Source: ARS, AS 1602, Deželni svetnik okrožja Celje Box 2, “Schutzhäftlinge und
-                     abgeschobene Personen,” 3 June 1941.</head>
+                     Archives of the RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image7.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image7-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano7-image7-slide.jpg"/>
@@ -4358,8 +4372,7 @@
                   <head>A report from the Hum Gendarmerie Station (the Šmarje District based in
                      Rogaška Slatina) dated 30 May 1941 on the Occupation Municipality of Hum,
                      which, besides Hum, also included four corresponding cadastral units –
-                     Lupinjek, Druškovec, Prišlin and Brezno. Source: ARS, AS 1602, Deželni svetnik
-                     okrožja Celje Box 2/66, “Gemeinde Hum,” 30 May 1941.</head>
+                     Lupinjek, Druškovec, Prišlin and Brezno. Archives of the RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano8-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano8-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano8-image3-slide.jpg"/>
@@ -4475,8 +4488,7 @@
                      Rogatec. In addition to the official stamp of the district customs office, and
                      the date of issue and validity, each permit also contained a description of its
                      owner with information on age, occupation and place of employment. There was a
-                     space for a photograph in the top right corner. Source: ARS, AS 1602, Deželni
-                     svetnik okrožja Celje Box 177/1308, “Grenzkarte.”</head>
+                     space for a photograph in the top right corner. Archives of the RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image2.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image2-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image2-slide.jpg"/>
@@ -4514,8 +4526,7 @@
                      crossings for local border traffic in the sector between Rogaška Slatina,
                      Rogatec and Sveti Rok. In the agreement reached on 11 July 1941 in Rogaška
                      Slatina, they established 9 points for the legal crossing of the
-                     German-Croatian border. Source: ARS, AS 1602, Deželni svetnik okrožja Celje Box
-                     149/1006, “Grenzübergänge für den kleinen Grenzverkehr,” 11 July 1941.</head>
+                     German-Croatian border. Archives of the RS</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh02/exh02-Meje-pano9-image5-slide.jpg"/>
@@ -5693,7 +5704,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure3-47" n="47">
                   <head>V okviru projekta poteka evidentiranje ostankov mejne infrastrukture na
-                     terenu. Vodja projekta, dr. Božo Repe, med ogledovanjem ostankov vojašnice
+                     terenu. Vodja projekta, Božo Repe, med ogledovanjem ostankov vojašnice
                      mejne milice na Spodnjem Vrsniku. Avtor fotografije: Božidar Flajšman.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh03/exh03-Meje-pano10-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh03/exh03-Meje-pano10-image5-normal.jpg"/>
@@ -9211,6 +9222,15 @@
                   postojanka. Ob poti so bili v zemljo vkopani bunkerji za graničarje. V bližini
                   vile so domačini enega od bunkerjev tudi obnovili in postavili informativno
                   tablo.</p>
+               <figure xml:id="movies-1x">                  
+                  <media url="https://youtu.be/NL2luIvD57Q" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="movies-2x">
+                  <media url="https://youtu.be/1YxLdAcGmDk" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="movies-3x">
+                  <media url="https://youtu.be/s8CXVvcP1oY" mimeType="video/x-youtube"></media>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-xx12" n="xx12">
                   <head/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano6-image1.jpg"/>
@@ -9272,6 +9292,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano7-image1-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano7-image1-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano7-image1-thumb.jpg"/>
+               </figure>
+               <figure xml:id="movies-4x">
+                  <media url="https://youtu.be/wKM_Pys9DIk" mimeType="video/x-youtube"></media>
                </figure>
                <figure rend="imageviewer" xml:id="figure-xx17" n="xx17">
                   <head>Mejni blok pri Šentvidu nad Ljubljano, kjer je bila tudi nemško-italijanska
@@ -9354,6 +9377,12 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image1-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image1-thumb.jpg"/>
                </figure>
+               <figure xml:id="movies-5x">
+                  <media url="https://youtu.be/a00tyrkKCFw" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="movies-6x">
+                  <media url="https://youtu.be/D8Mo_6yxArc" mimeType="video/x-youtube"></media>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-xx23" n="xx23">
                   <head>Mejni blok pri Šentvidu, kjer je bila nemško-italijanska meja. Avtor
                      fotografije: Jakob Prešern. MNZS. Na cesti so vidne tračnice tramvaja. Vožnjo
@@ -9373,6 +9402,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image3-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image3-thumb.jpg"/>
                </figure>
+               <figure xml:id="movies-7x">
+                  <media url="https://youtu.be/T9ipHWxy4L0" mimeType="video/x-youtube"></media>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-xx25" n="xx25">
                   <head>Betonski temelji nemškega stražnega stolpa na Ježici, 9. april 2018. Avtor
                      fotografije: Božidar Flajšman.</head>
@@ -9380,6 +9412,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image4-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image4-thumb.jpg"/>
+               </figure>
+               <figure xml:id="movies-8x">
+                  <media url="https://youtu.be/1Q2Fee1Hrm8" mimeType="video/x-youtube"></media>
                </figure>
                <figure rend="imageviewer" xml:id="figure-xx26" n="xx26">
                   <head>Bunker v Črnučah, 9. april 2019. Avtor fotografije: Božidar Flajšman.</head>
@@ -9400,6 +9435,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image6-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image6-thumb.jpg"/>
+               </figure>
+               <figure xml:id="movies-9x">
+                  <media url="https://youtu.be/8ejnGcLTXqo" mimeType="video/x-youtube"></media>
                </figure>
             </div>
             <div type="chapter"
@@ -9492,7 +9530,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-xx32" n="xx32">
                   <head>Oton Župančič med govorom na balkonu Univerze v Ljubljani 10. maja 1945.
-                     Avtor fotografije: Cerar France. MNZS.</head>
+                     Avtor fotografije: Franc Cerar. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano9-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano9-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano9-image5-slide.jpg"/>
@@ -9665,6 +9703,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano11-image3-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano11-image3-thumb.jpg"/>
                </figure>
+               <figure xml:id="movies-10x">
+                  <media url="https://youtu.be/7Qj0VNNlse8" mimeType="video/x-youtube"></media>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-xx42" n="xx42">
                   <head>General Rösener odlikuje domobrance. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano11-image4.jpg"/>
@@ -9695,8 +9736,16 @@
                   na Ljubljansko kotlino ter nadzirali italijansko okupacijo Ljubljane, predvsem
                   njen osrednji in severni del.</p>
                <figure rend="imageviewer" xml:id="figure-xx44" n="xx44">
+                  <head>Zemljevid prikazuje stojišči z vidnim poljem obeh panoram kot tudi stojišča spodnjih
+                     fotografij. Prva slika stojišče 1 in druga slika stojišče 2</head>
+                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4.jpg"/>
+                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-normal.jpg"/>
+                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-slide.jpg"/>
+                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-thumb.jpg"/>
+               </figure>
+               <figure rend="imageviewer" xml:id="figure-xx45" n="xx45">
                   <head>Panorama 1. Panoramski pogled z Male Trate zahodno od Šentvida zajema vidno
-                     polje med 190o (jug: južni uvoz v predor Šentvid; v ozadju Krim) in 10o (sever:
+                     polje med 190° (jug: južni uvoz v predor Šentvid; v ozadju Krim) in 10° (sever:
                      severni uvoz v predor Šentvid; v ozadju Kamniško-Savinjske Alpe). Večina danes
                      urbaniziranega območja Ljubljane je bila pod Italijo, saj je meja potekala
                      južno od Save. S tega položaja so Nemci zlahka nadzirali obsežen del
@@ -9708,9 +9757,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image1-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image1-thumb.jpg"/>
                </figure>
-               <figure rend="imageviewer" xml:id="figure-xx45" n="xx45">
+               <figure rend="imageviewer" xml:id="figure-xx46" n="xx46">
                   <head>Panorama 2. Panoramski pogled z Debnega vrha na Kašeljskem griču zajema
-                     vidno polje med 210o (jugozahod: Sostro; v ozadju Golovec in Krim) in 30o
+                     vidno polje med 210° (jugozahod: Sostro; v ozadju Golovec in Krim) in 30°
                      (severovzhod: Dol pri Ljubljani; v ozadju Kamniško-Savinjske Alpe). Tudi ta
                      pogled je Nemcem omogočal, da so dobro nadzorovali italijansko ozemlje južno od
                      Save. Panorama je izdelana na podlagi satelitskih posnetkov v spletnem globusu
@@ -9720,7 +9769,7 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image2-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image2-thumb.jpg"/>
                </figure>
-               <figure rend="imageviewer" xml:id="figure-xx46" n="xx46">
+               <figure rend="imageviewer" xml:id="figure-xx47" n="xx47">
                   <head>1: Nekdanji mejni prehod med Italijo in Nemčijo na današnjem križišču
                      Celovške ceste in Ceste Andreja Bitenca. V ozadju je vidna Šmarna gora. Avtor
                      fotografije: Jakob Prešern. MNZS.</head>
@@ -9728,14 +9777,6 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image3-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image3-thumb.jpg"/>
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-xx47" n="xx47">
-                  <head>Zemljevid prikazuje stojišči z vidnim poljem obeh panoram kot tudi stojišča
-                     fotografij na naslednjem panoju.</head>
-                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4.jpg"/>
-                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-normal.jpg"/>
-                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-slide.jpg"/>
-                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-thumb.jpg"/>
                </figure>
             </div>
             <div type="chapter"
@@ -9868,6 +9909,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image2-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image2-thumb.jpg"/>
                </figure>
+               <figure xml:id="movies-11x">
+                  <media url="https://youtu.be/8ejnGcLTXqo" mimeType="video/x-youtube"></media>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-xx58" n="xx58">
                   <head>»To je bilo pod Nemčijo. Sto metrov naprej je bila meja nemška, na uni
                      strani je bila italijanska /…/ Naša Jeli je šla tle čez. Opoldne se je vračala
@@ -9884,6 +9928,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image3-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image3-thumb.jpg"/>
                </figure>
+               <figure xml:id="movies-12x">
+                  <media url="https://youtu.be/1Q2Fee1Hrm8" mimeType="video/x-youtube"></media>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-xx59" n="xx59">
                   <head>»Vse kar vidite tu spodaj je bila nekdaj vas Podgora (to je zdaj del
                      Ljubljane) /…/ Ta fotografija prikazuje podiranje hiš. Vse tole je bilo podrto,
@@ -9898,6 +9945,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image4-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image4-thumb.jpg"/>
+               </figure>
+               <figure xml:id="movies-13x">
+                  <media url="https://youtu.be/wKM_Pys9DIk" mimeType="video/x-youtube"></media>
                </figure>
                <figure rend="imageviewer" xml:id="figure-xx60" n="xx60">
                   <head>»Nahajamo se pred nemško obmejno barako, katero so zgradili Nemci med drugo
@@ -9918,6 +9968,12 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image5-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image5-thumb.jpg"/>
+               </figure>
+               <figure xml:id="movies-14x">
+                  <media url="https://youtu.be/NL2luIvD57Q" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="movies-15x">
+                  <media url="https://youtu.be/s8CXVvcP1oY" mimeType="video/x-youtube"></media>
                </figure>
             </div>
          </div>
@@ -10145,6 +10201,15 @@
                   strong German border post. Bunkers for border guards were dug into the ground
                   between. Locals set out to restore one of the bunkers next to Kansky’s Villa and
                   put up an information board. Kašelj Hill, 2019.</p>
+               <figure xml:id="en-movies-1x">
+                  <media url="https://youtu.be/NL2luIvD57Q" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="en-movies-2x">
+                  <media url="https://youtu.be/1YxLdAcGmDk" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="en-movies-3x">
+                  <media url="https://youtu.be/s8CXVvcP1oY" mimeType="video/x-youtube"></media>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-xx12-en" n="xx12">
                   <head/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano6-image1.jpg"/>
@@ -10207,6 +10272,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano7-image1-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano7-image1-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano7-image1-thumb.jpg"/>
+               </figure>
+               <figure xml:id="en-movies-4x">
+                  <media url="https://youtu.be/wKM_Pys9DIk" mimeType="video/x-youtube"></media>
                </figure>
                <figure rend="imageviewer" xml:id="figure-xx17-en" n="xx17">
                   <head>Border block at Šentvid nad Ljubljano on the German– Italian border. Author:
@@ -10292,6 +10360,12 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image1-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image1-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image1-thumb.jpg"/>
+               </figure>               
+               <figure xml:id="en-movies-5x">
+                  <media url="https://youtu.be/a00tyrkKCFw" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="en-movies-6x">
+                  <media url="https://youtu.be/D8Mo_6yxArc" mimeType="video/x-youtube"></media>
                </figure>
                <figure rend="imageviewer" xml:id="figure-xx23-en" n="xx23">
                   <head>Border block at Šentvid where the German–Italian border ran. Author: Jakob
@@ -10312,6 +10386,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image3-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image3-thumb.jpg"/>
                </figure>
+               <figure xml:id="en-movies-7x">
+                  <media url="https://youtu.be/T9ipHWxy4L0" mimeType="video/x-youtube"></media>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-xx25-en" n="xx25">
                   <head>Concrete foundations of the German watchtower in Ježica, 9 April 2018.
                      Author: Božidar Flajšman.</head>
@@ -10319,6 +10396,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image4-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image4-thumb.jpg"/>
+               </figure>
+               <figure xml:id="en-movies-8x">
+                  <media url="https://youtu.be/1Q2Fee1Hrm8" mimeType="video/x-youtube"></media>
                </figure>
                <figure rend="imageviewer" xml:id="figure-xx26-en" n="xx26">
                   <head>Bunker in Črnuče, 9 April 2019. Author: Božidar Flajšman.</head>
@@ -10340,6 +10420,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image6-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image6-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano8-image6-thumb.jpg"/>
+               </figure>
+               <figure xml:id="enmovies-9x">
+                  <media url="https://youtu.be/8ejnGcLTXqo" mimeType="video/x-youtube"></media>
                </figure>
             </div>
             <div type="chapter"
@@ -10439,7 +10522,7 @@
                </figure>
                <figure rend="imageviewer" xml:id="figure-xx32-en" n="xx32">
                   <head>Oton Župančič giving his speech from the balcony of the University of
-                     Ljubljana, 10 May 1945. Author: Cerar France. MNZS.</head>
+                     Ljubljana, 10 May 1945. Author: Franc Cerar. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano9-image5.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano9-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano9-image5-slide.jpg"/>
@@ -10615,6 +10698,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano11-image3-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano11-image3-thumb.jpg"/>
                </figure>
+               <figure xml:id="en-movies-10x">
+                  <media url="https://youtu.be/7Qj0VNNlse8" mimeType="video/x-youtube"></media>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-xx42-en" n="xx42">
                   <head>General Rösener awarded medals to members of Home Guard. MNZS.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano11-image4.jpg"/>
@@ -10646,9 +10732,16 @@
                   southern Ljubljana Basin and could control the Italian occupation of Ljubljana,
                   especially its central and northern parts.</p>
                <figure rend="imageviewer" xml:id="figure-xx44-en" n="xx44">
+                  <head>The map shows the stands with the field of visual of both panoramas and the photo stands 1 first panorama and photo stand 2 second panorama.</head>
+                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4.jpg"/>
+                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-normal.jpg"/>
+                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-slide.jpg"/>
+                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-thumb.jpg"/>
+               </figure>
+               <figure rend="imageviewer" xml:id="figure-xx45-en" n="xx45">
                   <head>Panorama 1. The panoramic view from the top of Mala Trata to the west of
-                     Šentvid covers the field of vision between 190o (south; southern gate into the
-                     Šentvid Tunnel; in the background is Mount Krim) and 10o (north; northern gate
+                     Šentvid covers the field of vision between 190° (south; southern gate into the
+                     Šentvid Tunnel; in the background is Mount Krim) and 10° (north; northern gate
                      into the Šentvid Tunnel; in the background are the Kamnik-Savinja Alps). Most
                      of today's urbanized area of Ljubljana was under Italy, as the border was
                      located south of the Sava River. From this position, the Germans easily
@@ -10660,10 +10753,10 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image1-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image1-thumb.jpg"/>
                </figure>
-               <figure rend="imageviewer" xml:id="figure-xx45-en" n="xx45">
+               <figure rend="imageviewer" xml:id="figure-xx46-en" n="xx46">
                   <head>Panorama 2. The panoramic view from the top of Deben vrh on the Kašelj Hill
-                     covers the field of vision between 210o (southwest; Sostro, in the background
-                     are Golovec Hill and Mount Krim) and 30o (northeast; Dol pri Ljubljani; in the
+                     covers the field of vision between 210° (southwest; Sostro, in the background
+                     are Golovec Hill and Mount Krim) and 30° (northeast; Dol pri Ljubljani; in the
                      background are the Kamnik-Savinja Alps). This view also allowed the Germans to
                      control the Italian territory south of the Sava River. Panorama is made on the
                      basis of satellite imagery in the Google Earth web globe. The red line
@@ -10673,7 +10766,7 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image2-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image2-thumb.jpg"/>
                </figure>
-               <figure rend="imageviewer" xml:id="figure-xx46-en" n="xx46">
+               <figure rend="imageviewer" xml:id="figure-xx47-en" n="xx47">
                   <head>1: The former border crossing between Italy and Germany at today’s
                      crossroads of Celovška cesta and Cesta Andreja Bitenca roads. The Šmarna gora
                      Hill is visible in the background. Author: Jakob Prešern. MNZS.</head>
@@ -10681,14 +10774,6 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image3-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image3-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image3-thumb.jpg"/>
-               </figure>
-               <figure rend="imageviewer" xml:id="figure-xx47-en" n="xx47">
-                  <head>The map shows the stands with the field of visual of both panoramas and the
-                     photo stands from the next board.</head>
-                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4.jpg"/>
-                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-normal.jpg"/>
-                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-slide.jpg"/>
-                  <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano12-image4-thumb.jpg"/>
                </figure>
             </div>
             <div type="chapter"
@@ -10823,6 +10908,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image2-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image2-thumb.jpg"/>
                </figure>
+               <figure xml:id="en-movies-11x">
+                  <media url="https://youtu.be/8ejnGcLTXqo" mimeType="video/x-youtube"></media>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-xx58-en" n="xx58">
                   <head>“That was under Germany. One hundred metres further was the German border
                      and that side was Italian/.../ Our Jeli passed it here. She was returning home
@@ -10840,6 +10928,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image3-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image3-thumb.jpg"/>
                </figure>
+               <figure xml:id="en-movies-12x">
+                  <media url="https://youtu.be/1Q2Fee1Hrm8" mimeType="video/x-youtube"></media>
+               </figure>
                <figure rend="imageviewer" xml:id="figure-xx59-en" n="xx59">
                   <head>”Everything you see below used to be the village of Podgora (now part of
                      Ljubljana)/…/ This photo shows houses being demolished. All of this was
@@ -10855,6 +10946,9 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image4-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image4-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image4-thumb.jpg"/>
+               </figure>
+               <figure xml:id="en-movies-13x">
+                  <media url="https://youtu.be/wKM_Pys9DIk" mimeType="video/x-youtube"></media>
                </figure>
                <figure rend="imageviewer" xml:id="figure-xx60-en" n="xx60">
                   <head>”We are in front of the German border barracks which was built by the
@@ -10876,6 +10970,12 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image5-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image5-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh05/exh05-Meje-pano15-image5-thumb.jpg"/>
+               </figure>
+               <figure xml:id="en-movies-14x">
+                  <media url="https://youtu.be/NL2luIvD57Q" mimeType="video/x-youtube"></media>
+               </figure>
+               <figure xml:id="en-movies-15x">
+                  <media url="https://youtu.be/s8CXVvcP1oY" mimeType="video/x-youtube"></media>
                </figure>
             </div>
          </div>
@@ -10982,6 +11082,13 @@
                   Volk Bahun, Manca, Zorn, Matija. <hi rend="italic">Idrija in Žiri kot obmejno
                      območje 1941-1945 : razstava v Mestnem muzeju Idrija, grad Gewerkenegg, od 24.
                      jan. do 28. feb. 2019 / avtorji razstave Matevž Šlabnik ... [et al.]</hi>. <ref target="https://plus.cobiss.si/opac7/bib/68861282">COBISS</ref>
+               </bibl>
+               <bibl>Šlabnik, Matevž, Vehar, Maja, Mikša, Peter, Repe, Božo, Ajlec, Kornelija,
+                  Balkovec, Bojan, Ciglič, Rok, Flajšman, Božidar, Kerec, Darja, Kovács, Attila,
+                  Volk Bahun, Manca, Zorn, Matija. <hi rend="italic">Idrija in Žiri kot obmejno 
+                     območje 1941-1945 = Idrija and Žiri as borderland, 1941-1945 : razstava v 
+                     Loškem muzeju Škofja Loka, od 24. jul. 
+                     do 8. sep. 2019 / avtorji razstave Matevž Šlabnik ... [et al.]</hi> COBISS                  
                </bibl>
             </listBibl>
             <listBibl xml:id="listBibl-exh4">
