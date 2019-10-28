@@ -43,7 +43,7 @@
                <name>Peter Mikša</name>
                <name>Danilo Orlič</name>
                <name>Miroslav Pavlin (MNZS)</name>
-               <name>Jakob Prešeren (MNZS)</name>
+               <name>Jakob Prešern (MNZS)</name>
                <name>Daniel Siter</name>
                <name>Matevž Šlabnik</name>
                <name>Blaž Štangelj</name>
@@ -583,7 +583,7 @@
                   živelo okoli 800 prebivalcev.</p>
                <figure rend="imageviewer" xml:id="figure-7" n="7">
                   <head>Po okupaciji so si slovensko ozemlje razdelili tako Nemci kot Italijani,
-                     Madžari in Hrvati. Repe.</head>
+                     Madžari in Hrvati.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image1.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image1-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image1-thumb.jpg"/>
@@ -715,9 +715,6 @@
                   <media url="https://youtu.be/UZWP54V0x1k" mimeType="video/x-youtube"></media>
                </figure>
                <figure xml:id="movies-18x">                  
-                  <media url="https://youtu.be/vQ9jjk03EbQ" mimeType="video/x-youtube"></media>
-               </figure>
-               <figure xml:id="movies-19x">                  
                   <media url="https://youtu.be/idF-l4X7S1k" mimeType="video/x-youtube"></media>
                </figure>
                <figure rend="imageviewer" xml:id="figure-18" n="18">
@@ -732,7 +729,7 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image6-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image6-thumb.jpg"/>
                </figure>
-               <figure xml:id="movies-20x">                  
+               <figure xml:id="movies-19x">                  
                   <media url="https://youtu.be/42gnQkp7n3E" mimeType="video/x-youtube"></media>
                </figure>
             </div>
@@ -1197,7 +1194,7 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano8-image2-thumb.jpg"/>
                </figure>
                <figure rend="imageviewer" xml:id="figure-45" n="45">
-                  <head>Na številnih mestih na mejnike spominjajo le š e betonski temelji in deli
+                  <head>Na številnih mestih na mejnike spominjajo le še betonski temelji in deli
                      železja. Avtor fotografije: Matija Zorn.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano8-image3.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano8-image3-normal.jpg"/>
@@ -1772,7 +1769,7 @@
                   that time populated by some 800 inhabitants.</p>
                <figure rend="imageviewer" xml:id="figure-7-en" n="7">
                   <head>After occupation, Slovene territory was divided among the Germans, Italians,
-                     Hungarians and Croatians. Source: Repe, S puško in knjigo, 24.</head>
+                     Hungarians and Croatians.</head>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image1.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image1-normal.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano2-image1-slide.jpg"/>
@@ -1917,9 +1914,6 @@
                   <media url="https://youtu.be/UZWP54V0x1k" mimeType="video/x-youtube"></media>
                </figure>
                <figure xml:id="en-movies-18x">                  
-                  <media url="https://youtu.be/vQ9jjk03EbQ" mimeType="video/x-youtube"></media>
-               </figure>
-               <figure xml:id="en-movies-19x">                  
                   <media url="https://youtu.be/idF-l4X7S1k" mimeType="video/x-youtube"></media>
                </figure>
                <figure rend="imageviewer" xml:id="figure-18-en" n="18">
@@ -1935,7 +1929,7 @@
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image6-slide.jpg"/>
                   <graphic url="https://www2.sistory.si/publikacije/razstave/Okupacijske_meje/Pictures/exh01/exh01-Meje-pano3-image6-thumb.jpg"/>
                </figure>
-               <figure xml:id="en-movies-20x">                  
+               <figure xml:id="en-movies-19x">                  
                   <media url="https://youtu.be/42gnQkp7n3E" mimeType="video/x-youtube"></media>
                </figure>
             </div>
