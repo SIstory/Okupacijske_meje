@@ -103,6 +103,7 @@
          <xsl:otherwise>O projektu</xsl:otherwise>
       </xsl:choose>
    </xsl:template>
+   <!-- A projektről -->
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc>Novo ime za glavno vsebino (glavna navigacija)</desc>
@@ -115,6 +116,7 @@
          <xsl:otherwise>Razstave</xsl:otherwise>
       </xsl:choose>
    </xsl:template>
+   <!-- Kilítások -->
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc>Novo ime za izpis naziva bibliografije na gornji navigaciji</desc>
@@ -127,6 +129,7 @@
          <xsl:otherwise>Rezultati</xsl:otherwise>
       </xsl:choose>
    </xsl:template>
+   <!-- Eredmények -->
    
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc>Novo ime za izpis naziva priloge na gornji navigaciji</desc>
@@ -139,6 +142,7 @@
          <xsl:otherwise>Filmi</xsl:otherwise>
       </xsl:choose>
    </xsl:template>
+   <!-- Filmek -->
    
    <xsldoc:doc xmlns:xsldoc="http://www.oxygenxml.com/ns/doc/xsl">
       <xsldoc:desc>V css in javascript Hook dodam imageViewer</xsldoc:desc>
