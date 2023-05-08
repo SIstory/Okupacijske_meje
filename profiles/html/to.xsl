@@ -100,7 +100,8 @@
       <xsl:param name="thisLanguage"/>
       <xsl:choose>
          <xsl:when test="$thisLanguage = 'en'">About</xsl:when>
-         <xsl:otherwise>O projektu</xsl:otherwise>
+         <xsl:when test="$thisLanguage = 'hu'">A projektről</xsl:when>
+         <xsl:otherwise>O projektu</xsl:otherwise>         
       </xsl:choose>
    </xsl:template>
    <!-- A projektről -->
@@ -113,6 +114,7 @@
       <xsl:param name="thisLanguage"/>
       <xsl:choose>
          <xsl:when test="$thisLanguage = 'en'">Exhibitions</xsl:when>
+         <xsl:when test="$thisLanguage = 'hu'">Kilítások</xsl:when>
          <xsl:otherwise>Razstave</xsl:otherwise>
       </xsl:choose>
    </xsl:template>
@@ -126,6 +128,7 @@
       <xsl:param name="thisLanguage"/>
       <xsl:choose>
          <xsl:when test="$thisLanguage = 'en'">Results</xsl:when>
+         <xsl:when test="$thisLanguage = 'hu'">Eredmények</xsl:when>
          <xsl:otherwise>Rezultati</xsl:otherwise>
       </xsl:choose>
    </xsl:template>
@@ -139,6 +142,7 @@
       <xsl:param name="thisLanguage"/>
       <xsl:choose>
          <xsl:when test="$thisLanguage = 'en'">Movies</xsl:when>
+         <xsl:when test="$thisLanguage = 'hu'">Filmek</xsl:when>
          <xsl:otherwise>Filmi</xsl:otherwise>
       </xsl:choose>
    </xsl:template>
